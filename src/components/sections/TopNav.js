@@ -70,7 +70,7 @@ class TopNav extends Component {
     return (
       <Menu>
         <Index
-          title="New Member Handbook"
+          title={this.props.title}
           links={this.props.links}
           onAnyLinkClicked={this.closeMenu}
         />{" "}

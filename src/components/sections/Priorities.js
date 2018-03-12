@@ -3,16 +3,14 @@ import Container from "../Container";
 import Section from "../Section";
 import { H2, P } from "../typography";
 import NavAnchor from "../NavAnchor";
-import Directory from "../directory/Directory";
-import DirectoryItem from "../directory/DirectoryItem";
 
-class WelcomeSection extends PureComponent {
+class Priorities extends PureComponent {
   render() {
     return (
       <NavAnchor anchor={this.props.anchor}>
         <Section>
           <Container>
-            <H2>Welcome to the East Bay DSA 2018 Convetion.</H2>
+            <H2>Priorities Resolutions</H2>
             <P>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
               quis risus iaculis, tincidunt purus in, faucibus tortor. Nunc at
@@ -25,26 +23,6 @@ class WelcomeSection extends PureComponent {
               vestibulum, ultrices metus sed, rhoncus nisl. Nulla viverra
               ultricies dui sit amet blandit.
             </P>
-            <Directory>
-              <DirectoryItem
-                text="Join us at the upcoming convention!"
-                links={[
-                  {
-                    label: "RSVP",
-                    href: "#"
-                  }
-                ]}
-              />
-              <DirectoryItem
-                text="Help us put on a great meeting."
-                links={[
-                  {
-                    label: "Volunteer",
-                    href: "#"
-                  }
-                ]}
-              />
-            </Directory>
           </Container>
         </Section>
       </NavAnchor>
@@ -52,4 +30,4 @@ class WelcomeSection extends PureComponent {
   }
 }
 
-export default WelcomeSection;
+export default Priorities;

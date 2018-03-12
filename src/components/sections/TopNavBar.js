@@ -1,8 +1,8 @@
 import React from "react";
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 import { headerHeight } from "../styles/layout";
-
-// import { tabletPortraitBreakpoint } from "../styles/breakpoints";
+// import Link from "../Link";
+import { Link } from "react-router-dom";
 
 const Wrapper = styled.div`
   display: flex;
@@ -14,7 +14,7 @@ const Spacer = styled.div`
   flex: 1 1 0;
 `;
 
-const A = styled.a`
+const linkStyles = css`
   font-size: 18px;
   font-weight: 700;
   color: black;
@@ -30,6 +30,14 @@ const A = styled.a`
   }
   ${props => props.xtra};
 `;
+
+const A = styled.a`
+  ${linkStyles};
+`;
+
+const StyledRouterLink = styled(Link)`
+  ${linkStyles};
+`;
 // tabletPortraitBreakpoint({
 //   fontSize: "24px"
 // })
@@ -42,13 +50,9 @@ function NavBar(props) {
         MENU{" "}
       </A>{" "}
       <Spacer />
-      <A
-        xtra="border-left: 1px solid black"
-        href="http://www.eastbaydsa.org/events"
-        target="_blank"
-      >
-        JOIN US{" "}
-      </A>{" "}
+      <StyledRouterLink xtra="border-left: 1px solid black" to="/rsvp">
+        RSVP
+      </StyledRouterLink>
     </Wrapper>
   );
 }

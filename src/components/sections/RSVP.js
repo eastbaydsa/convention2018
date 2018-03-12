@@ -6,13 +6,13 @@ import NavAnchor from "../NavAnchor";
 import Directory from "../directory/Directory";
 import DirectoryItem from "../directory/DirectoryItem";
 
-class WelcomeSection extends PureComponent {
+class RSVP extends PureComponent {
   render() {
     return (
       <NavAnchor anchor={this.props.anchor}>
         <Section>
           <Container>
-            <H2>Welcome to the East Bay DSA 2018 Convetion.</H2>
+            <H2>RSVP and Volunteer</H2>
             <P>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
               quis risus iaculis, tincidunt purus in, faucibus tortor. Nunc at
@@ -52,4 +52,4 @@ class WelcomeSection extends PureComponent {
   }
 }
 
-export default WelcomeSection;
+export default RSVP;

@@ -33,7 +33,7 @@ class Cover extends PureComponent {
     return (
       <NavAnchor anchor={this.props.anchor}>
         <Wrapper to="/toc">
-          <Title>East Bay DSA New Member Handbook</Title>
+          <Title>{this.props.title}</Title>
         </Wrapper>
       </NavAnchor>
     );

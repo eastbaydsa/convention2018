@@ -5,41 +5,29 @@ import TopNav from "./components/sections/TopNav";
 import TOC from "./components/sections/TOC";
 import Cover from "./components/sections/Cover";
 import WelcomeSection from "./components/sections/WelcomeSection";
-import WhySection from "./components/sections/WhySection";
-import MembershipSection from "./components/sections/MembershipSection";
-import GetInvolvedSection from "./components/sections/GetInvolvedSection";
-import StructureSection from "./components/sections/StructureSection";
-import ConflictSection from "./components/sections/ConflictSection";
-import DirectorySection from "./components/sections/DirectorySection";
+import Priorities from "./components/sections/Priorities";
+import Elections from "./components/sections/Elections";
+import Venue from "./components/sections/Venue";
+import RSVP from "./components/sections/RSVP";
 
 const links = [
   { label: "Welcome", to: "/welcome" },
-  { label: "Why are we here?", to: "/why" },
-  { label: "What does it mean to be a member?", to: "/membership" },
-  {
-    label: "What's the organizational structure of the DSA?",
-    to: "/structure"
-  },
-  { label: "What do I do as a member?", to: "/get-involved" },
-  {
-    label: "I have a conflict with someone. What should I do?",
-    to: "/conflict"
-  },
-  { label: "Directory", to: "/directory" }
+  { label: "Priorities Resolutions", to: "/priorities" },
+  { label: "Steering Committee Elections", to: "/elections" },
+  { label: "Venue, Accomodations, Accessibility", to: "/venu" },
+  { label: "RSVP and Volunteer", to: "/rsvp" }
 ];
 
 const Content = () => (
   <div>
-    <TopNav links={links} />
-    <Cover anchor="" />
+    <TopNav title="EBDSA 2018 Convention" links={links} />
+    <Cover title="East Bay DSA 2018 Chapter Convention" anchor="" />
     <TOC anchor="toc" links={links} />
     <WelcomeSection anchor="welcome" />
-    <WhySection anchor="why" />
-    <MembershipSection anchor="membership" />
-    <StructureSection anchor="structure" />
-    <GetInvolvedSection anchor="get-involved" />
-    <ConflictSection anchor="conflict" />
-    <DirectorySection anchor="directory" />
+    <Priorities anchor="priorities" />
+    <Elections anchor="elections" />
+    <Venue anchor="venue" />
+    <RSVP anchor="rsvp" />
   </div>
 );
 
