@@ -1,7 +1,7 @@
 import React, { PureComponent } from "react";
 import Container from "../Container";
 import Section from "../Section";
-import { H2, P } from "../typography";
+import { H2, P, Underline } from "../typography";
 import NavAnchor from "../NavAnchor";
 
 class Venue extends PureComponent {
@@ -12,16 +12,21 @@ class Venue extends PureComponent {
           <Container>
             <H2>Venue, Accomodations and Accessibility</H2>
             <P>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-              quis risus iaculis, tincidunt purus in, faucibus tortor. Nunc at
-              felis a tellus facilisis accumsan. Pellentesque faucibus, urna sed
-              pharetra bibendum, nulla enim blandit nisi, in mollis sapien eros
-              sed est. Nullam ultrices hendrerit urna porta fermentum. Proin leo
-              enim, laoreet eu vehicula et, lobortis rhoncus nisl. Vivamus
-              malesuada magna a euismod dapibus. Duis in ante at elit maximus
-              aliquet. Ut hendrerit magna in placerat ultricies. Cras quis erat
-              vestibulum, ultrices metus sed, rhoncus nisl. Nulla viverra
-              ultricies dui sit amet blandit.
+              <Underline>Informational Meeting</Underline>: Date/location TBA (likely March 24th or 
+              25th)
+            </P>
+            <P>
+              <Underline>Candidate Forum</Underline>: Date/location TBA (likely April 18-22)
+            </P>
+            <P>
+              <Underline>Convention</Underline>! April 28, 10 am- 5 pm, California Nurses
+              Association, 155 Grand Ave., Oakland. CNA offices are wheelchair accessible with
+              accessible restrooms. More detailed accessibility information will be posted as soon
+              as possible.
+            </P>
+            <P>
+              If you require any accessible accommodations to participate fully in the convention,
+              please let us know in the RSVP form.
             </P>
           </Container>
         </Section>
