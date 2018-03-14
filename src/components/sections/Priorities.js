@@ -14,7 +14,7 @@ class Priorities extends PureComponent {
             <P>
               Ratifying a Priorities Resolution is in many respects our most important task at this
               upcoming Convention. This document is a crucial mechanism of democratic
-              accountability—it’s the most direct way that we as members have of letting our
+              accountability—it's the most direct way that we as members have of letting our
               incoming Steering Committee know how we want them to approach the bulk of our
               chapter’s work.
             </P>

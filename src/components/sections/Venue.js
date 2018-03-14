@@ -12,21 +12,21 @@ class Venue extends PureComponent {
           <Container>
             <H2>Venue, Accomodations and Accessibility</H2>
             <P>
-              <Underline>Informational Meeting:</Underline> Date/location TBA (likely March 24th or 
+              <Underline>Informational Meeting</Underline>: Date/location TBA (likely March 24th or 
               25th)
             </P>
             <P>
-              <Underline>Candidate Forum:</Underline> Date/location TBA (likely April 18-22)
+              <Underline>Candidate Forum</Underline>: Date/location TBA (likely April 18-22)
             </P>
             <P>
-              <Underline>Convention!</Underline> April 28, 10 am- 5 pm, California Nurses
+              <Underline>Convention</Underline>! April 28, 10 am- 5 pm, California Nurses
               Association, 155 Grand Ave., Oakland. CNA offices are wheelchair accessible with
               accessible restrooms. More detailed accessibility information will be posted as soon
               as possible.
             </P>
             <P>
               If you require any accessible accommodations to participate fully in the convention,
-              please let us know in the RSVP.
+              please let us know in the RSVP form.
             </P>
           </Container>
         </Section>
