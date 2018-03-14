@@ -4,3 +4,4 @@ export { default as P } from "./P";
 export { default as OL } from "./OL";
 export { default as OLI } from "./OLI";
 export { default as Strong } from "./Strong";
+export { default as Underline } from "./Underline";
