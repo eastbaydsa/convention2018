@@ -12,7 +12,7 @@ class WelcomeSection extends PureComponent {
       <NavAnchor anchor={this.props.anchor}>
         <Section>
           <Container>
-            <H2>Welcome to the East Bay DSA 2018 Convetion.</H2>
+            <H2>Welcome to the East Bay DSA 2018 Convention.</H2>
             <P>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
               quis risus iaculis, tincidunt purus in, faucibus tortor. Nunc at
