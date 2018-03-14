@@ -12,10 +12,10 @@ import RSVP from "./components/sections/RSVP";
 
 const links = [
   { label: "Welcome", to: "/welcome" },
+  { label: "RSVP and Volunteer", to: "/rsvp" },
   { label: "Priorities Resolutions", to: "/priorities" },
   { label: "Steering Committee Elections", to: "/elections" },
-  { label: "Venue, Accomodations, Accessibility", to: "/venu" },
-  { label: "RSVP and Volunteer", to: "/rsvp" }
+  { label: "Venue, Accomodations, Accessibility", to: "/venue" }
 ];
 
 const Content = () => (
@@ -24,10 +24,10 @@ const Content = () => (
     <Cover title="East Bay DSA 2018 Chapter Convention" anchor="" />
     <TOC anchor="toc" links={links} />
     <WelcomeSection anchor="welcome" />
+    <RSVP anchor="rsvp" />
     <Priorities anchor="priorities" />
     <Elections anchor="elections" />
     <Venue anchor="venue" />
-    <RSVP anchor="rsvp" />
   </div>
 );
 
