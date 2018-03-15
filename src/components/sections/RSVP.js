@@ -29,7 +29,7 @@ class RSVP extends PureComponent {
                 links={[
                   {
                     label: "RSVP",
-                    href: "https://goo.gl/forms/l0ZAkCkTOTuRlLKQ2"
+                    href: "https://goo.gl/forms/gSFErxs0LC11J2dm2"
                   }
                 ]}
               />
@@ -38,7 +38,7 @@ class RSVP extends PureComponent {
                 links={[
                   {
                     label: "Volunteer",
-                    href: "https://goo.gl/forms/l0ZAkCkTOTuRlLKQ2"
+                    href: "https://goo.gl/forms/gSFErxs0LC11J2dm2"
                   }
                 ]}
               />
