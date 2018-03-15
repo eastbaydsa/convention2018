@@ -16,7 +16,7 @@ class Elections extends PureComponent {
               One of the primary purposes of the Convention is to elect a new set of leaders for our
               Steering Committee (formerly called the Local Council). There are 13 seats on the SC:
               Co-Chairs (2), Vice-Chair, Secretary, Communications Secretary, Treasurer, and
-              At-Large (7). You can see the officer descriptions in our new bylaws (link).
+              At-Large (7). You can see the officer descriptions in our new bylaws.
             </P>
             <P>
               If you want to run for the Steering Committee, you need to be nominated by <Underline>

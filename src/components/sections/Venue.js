@@ -2,6 +2,7 @@ import React, { PureComponent } from "react";
 import Container from "../Container";
 import Section from "../Section";
 import { H2, P, Underline } from "../typography";
+import Link from "../Link";
 import NavAnchor from "../NavAnchor";
 
 class Venue extends PureComponent {
@@ -12,8 +13,9 @@ class Venue extends PureComponent {
           <Container>
             <H2>Venue, Accomodations and Accessibility</H2>
             <P>
-              <Underline>Informational Meeting</Underline>: Date/location TBA (likely March 24th or 
-              25th)
+              <Link href="https://www.eastbaydsa.org/event-meeting-2018-03-24-pre-convention-informational-meeting">
+              Informational Meeting</Link>: Saturday, March 24, 2pm - 4pm, East Bay Community Space,
+              507 55th St, Oakland, CA 94609
             </P>
             <P>
               <Underline>Candidate Forum</Underline>: Date/location TBA (likely April 18-22)
