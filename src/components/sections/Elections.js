@@ -1,7 +1,7 @@
 import React, { PureComponent } from "react";
 import Container from "../Container";
 import Section from "../Section";
-import { H2, H3, P, Strong, Underline } from "../typography";
+import { H2, P, Strong, Underline } from "../typography";
 import Link from "../Link";
 import NavAnchor from "../NavAnchor";
 
