@@ -16,7 +16,8 @@ class RSVP extends PureComponent {
             <H2>RSVP and Volunteer</H2>
             <P>
               Socialism and democracy require many hands, so if you are able to volunteer to help on
-              the day of the convention, <Link href="https://goo.gl/forms/gSFErxs0LC11J2dm2">please sign up here!</Link>
+              the day of the convention, <Link href="https://goo.gl/forms/gSFErxs0LC11J2dm2">please
+              sign up here</Link> to RSVP and Volunteer!
             </P>
             <P>
               We need people to help do set-up, sign-in, food coordination, child supervision,
@@ -28,7 +29,7 @@ class RSVP extends PureComponent {
                 links={[
                   {
                     label: "RSVP",
-                    href: "#"
+                    href: "https://goo.gl/forms/l0ZAkCkTOTuRlLKQ2"
                   }
                 ]}
               />
