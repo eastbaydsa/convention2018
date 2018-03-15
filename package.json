@@ -36,6 +36,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "deploy": "surge --domain convention-2018.surge.sh --project ./build"
+    "deploy": "surge --domain convention.eastbaydsa.org --project ./build"
   }
 }
