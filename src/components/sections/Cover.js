@@ -10,14 +10,10 @@ const Wrapper = styled(UnstyledLink)`
   justify-content: center;
   align-items: center;
   min-height: 90vh;
-  background-image: url(/images/cover.png);
+  background-image: url(/images/cover.jpg);
   background-size: cover;
   background-position: right bottom;
   border-bottom: 40px solid ${purple};
-
-  ${breakpoint.desktop`
-    background-image: url(/images/cover@2x.png);
-  `};
 `;
 
 const Title = styled.h1`
@@ -26,6 +22,7 @@ const Title = styled.h1`
   font-size: 16vmin;
   text-transform: uppercase;
   text-align: center;
+  text-shadow: 2px 2px 1px #551416;
 `;
 
 class Cover extends PureComponent {
