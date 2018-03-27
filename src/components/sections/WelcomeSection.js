@@ -15,12 +15,12 @@ class WelcomeSection extends PureComponent {
           <Container>
             <H2>Welcome to the East Bay DSA 2018 Convention.</H2>
             <P>
-              On April 28th, East Bay DSA will be holding a Convention, the first in our chapter’s
+              On April 29th, East Bay DSA will be holding a Convention, the first in our chapter’s
               history. The Convention is we will all come together as a chapter to take on two
               important tasks: electing a new Steering Committee and collectively deciding on a
               Priorities Resolution that will guide our work in the upcoming year. It’s important
               for every member to participate if they can—the more engagement we have, the more
-              democratic it is. So please mark your calendars for Saturday, April 28th, and <Link
+              democratic it is. So please mark your calendars for Sunday, April 29th, and <Link
               href="https://goo.gl/forms/gSFErxs0LC11J2dm2">RSVP!</Link>
             </P>
             <Directory>
