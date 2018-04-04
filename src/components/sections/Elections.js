@@ -32,10 +32,12 @@ class Elections extends PureComponent {
               provided with instructions for submitting a proxy ballot.
             </P>
             <P>
-              There will be a <Underline>Candidate Forum</Underline> open to all members, date and
-              location to be determined. Come hear from the candidates and ask them questions about
-              their political vision for our organization! Keep an eye out for information on
-              official chapter communications.
+              There will be a <Underline>Candidate Forum</Underline>, open to
+              all members, on Sunday, April 22, from 1-3 pm at Niebyl-Proctor Marxist Library.
+              Come hear from the candidates and ask them questions about
+              their political vision for our organization! More detailed info
+              on the forum can be found on the <Link href="#">event page</Link> or
+              on <Link href="https://www.facebook.com/events/340862126423919/">Facebook</Link>.
             </P>
             <P>
               We will also be holding an Informational Meeting to answer any questions that members

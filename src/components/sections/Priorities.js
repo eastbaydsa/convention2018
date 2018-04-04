@@ -42,17 +42,20 @@ class Priorities extends PureComponent {
               members in good standing. No member can co-sponsor more than one priorities resolution.
             </P>
             <P>
-              The submission deadline for draft Priorities Resolutions will
-              be <Strong>April 3</Strong>. If you and your comrades wish to submit a resolution that
-              has garnered the appropriate number of co-sponsors, please submit
-              via <Link href="https://goo.gl/forms/jJP7F2ycA2xFDvRJ2">this form</Link>.
+              All of the submitted draft Priorities Resolutions can be found in the links below:
+              <ul>
+                <li><Link href="#">Resolution 1</Link></li>
+                <li><Link href="#">Resolution 2</Link></li>
+              </ul>
             </P>
             <P>
-              All the submitted draft Priorities Resolutions will be published on the Convention
-              website on <Strong>April 4</Strong>. Any member can offer feedback to the submitters
-              of the Resolutions on any aspect of it. Member feedback will be open
-              from <Strong>April 4-9</Strong>. Members can submit feedback via a link that will be posted
-              to the website and Facebook page.
+              Any member can offer feedback to the submitters of the Resolutions
+              on any aspect of it. Member feedback is open from <Strong>April 4-9</Strong>.
+            </P>
+            <P>
+              We encourage any member to offer feedback to the submitters of draft Priorities Resolutions!
+              Please do so using <Strong><Link href="https://docs.google.com/forms/d/e/1FAIpQLSfkUCldHiNw5lbmBYHtnxmUrGalzwWtzTBbHzOfyKJDh5uuBg/viewform">
+              this feedback form</Link></Strong>.
             </P>
             <P>
               The submitters of the draft Priorities Resolutions will be free to incorporate member
