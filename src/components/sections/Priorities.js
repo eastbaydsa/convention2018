@@ -44,18 +44,14 @@ class Priorities extends PureComponent {
             <P>
               All of the submitted draft Priorities Resolutions can be found in the links below:
               <ul>
-                <li><Link href="#">Resolution 1</Link></li>
-                <li><Link href="#">Resolution 2</Link></li>
+                <li><Link href="https://docs.google.com/document/d/1WyclLiBpcfgy0Iuovjhhr7tIbzB4CZMLotFImlv3m0I/edit">Priorities Resolution: Bread & Roses </Link></li>
+                <li><Link href="https://docs.google.com/document/d/1AKavzCDgjIxRVCD8Wd8NHOOxnbo1ZX-wQ20jULc65Mw/edit">Priorities Resolution: Working-Class Unity and Power</Link></li>
               </ul>
             </P>
             <P>
-              Any member can offer feedback to the submitters of the Resolutions
-              on any aspect of it. Member feedback is open from <Strong>April 4-9</Strong>.
-            </P>
-            <P>
               We encourage any member to offer feedback to the submitters of draft Priorities Resolutions!
-              Please do so using <Strong><Link href="https://docs.google.com/forms/d/e/1FAIpQLSfkUCldHiNw5lbmBYHtnxmUrGalzwWtzTBbHzOfyKJDh5uuBg/viewform">
-              this feedback form</Link></Strong>.
+              Please do so using <Strong><Link href="https://goo.gl/forms/2fWt52G80feTR6j33">
+              this feedback form</Link></Strong>. Feedback is open between April 4 and April 9.
             </P>
             <P>
               The submitters of the draft Priorities Resolutions will be free to incorporate member
@@ -67,7 +63,7 @@ class Priorities extends PureComponent {
               out to members on April 16</Strong>.
             </P>
             <P>
-              At the Convention (<Strong>April 28</Strong>), members will have an open discussion on
+              At the Convention (<Strong>April 29</Strong>), members will have an open discussion on
               all of the different submitted Priorities Resolutions, and then decide by majority which
               Resolution will serve as the "base" resolution. That majority "base" Resolution will
               then be open to member amendments from the floor of the Convention.

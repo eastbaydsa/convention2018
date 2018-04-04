@@ -36,15 +36,13 @@ class Elections extends PureComponent {
               all members, on Sunday, April 22, from 1-3 pm at Niebyl-Proctor Marxist Library.
               Come hear from the candidates and ask them questions about
               their political vision for our organization! More detailed info
-              on the forum can be found on the <Link href="#">event page</Link> or
+              on the forum can be found on the <Link href="https://www.eastbaydsa.org/event-meeting-2018-04-22-candidate-forum">event page</Link> or
               on <Link href="https://www.facebook.com/events/340862126423919/">Facebook</Link>.
             </P>
             <P>
-              We will also be holding an Informational Meeting to answer any questions that members
-              might have about the Convention process. That Informational Meeting will take place on
-              Saturday, March 24th from 2-4pm at the East Bay Community Space. See <Link
-              href="https://www.eastbaydsa.org/events">www.eastbaydsa.org/events</Link>
-              for more details.
+              (An Informational Meeting to answer any questions that members
+              might have about the Convention process was held on
+              Saturday, March 24th from 2-4pm at the East Bay Community Space).
             </P>
             <P>
               Steering Committee elections are a crucial part of collectively deciding the direction
