@@ -1,8 +1,8 @@
-import React, { PureComponent } from "react";
-import styled from "styled-components";
-import Link from "../Link";
-import { red, purple, black } from "../colors";
-import breakpoint from "../styles/breakpoint";
+import React, { PureComponent } from 'react';
+import styled from 'styled-components';
+import Link from '../Link';
+import { red, purple, black } from '../colors';
+import breakpoint from '../styles/breakpoint';
 
 const Wrapper = styled.div`
   display: flex;
@@ -49,8 +49,7 @@ class DirectoryItem extends PureComponent {
               hoverColor={black}
               highlight="white"
               color="white"
-              href={l.href}
-            >
+              href={l.href}>
               {l.label}
             </StyledLink>
           </div>
