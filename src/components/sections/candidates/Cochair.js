@@ -1,30 +1,10 @@
 import React, { PureComponent } from 'react';
-import styled from 'styled-components';
 import Container from '../../Container';
 import Section from '../../Section';
-import { H2, H3, P, Strong, Underline } from '../../typography';
+import { H2, P } from '../../typography';
 import Link from '../../Link';
 import NavAnchor from '../../NavAnchor';
-import { CandidateStatment } from './Candidate';
-
-const Img = styled.img`
-  display: inline;
-  height: 220px;
-  width: 220px;
-  border-radius: 50%;
-  max-width: ${props => props.maxWidth};
-  margin-right: 30px;
-`;
-
-const CandidateHeader = styled.div`
-  display: flex;
-  margin-bottom: 30px;
-`;
-
-const Nominations = styled.ul`
-  margin-bottom: 0;
-  margin-top: 15px;
-`;
+import { Candidate, CandidateHeader, CandidateStatment } from './Candidate';
 
 class Cochair extends PureComponent {
   render() {
@@ -60,52 +40,45 @@ class Cochair extends PureComponent {
               </P>
 
               <H2>Candidates</H2>
-              <Link href="co-chair-frances-reade">Frances Reade</Link>
               <Link href="co-chair-rosa-astra">Rosa Astra</Link>
               <Link href="co-chair-angie-laflame">Angie LaFlame</Link>
               <Link href="co-chair-zach-mcdonald">Zach McDonald</Link>
+              <Link href="co-chair-frances-reade">Frances Reade</Link>
             </Container>
           </NavAnchor>
-          <NavAnchor anchor="co-chair-frances-reade">
-            <Container>
-              <H3>Frances Reade</H3>
-              <CandidateHeader>
-                <Img src="/images/candidates/frances.jpg" />
-                <div>
-                  Nominated By:
-                  <Nominations>
-                    <li>Abigail Gutmann-Gonzalez</li>
-                    <li>Hannah Ehrlinspiel</li>
-                    <li>Matt Stone</li>
-                    <li>Jeremy Gong</li>
-                    <li>Mark Gabriel</li>
-                  </Nominations>
-                </div>
-              </CandidateHeader>
-              <CandidateStatment>
-                It’s been a great honor to serve East Bay DSA as vice chair this
-                term, and I hope with your support I can continue to build on
-                the excellent foundation we’ve established since the membership
-                boom last fall. I joined DSA in January 2017 with a lot of anger
-                and very little organizing experience. I benefitted from my
-                comrades’ commitment to leadership development – in fact I would
-                never have run for vice chair without the encouragement of
-                chapter leaders who’d seen me coordinate our provisional bylaws
-                process and believed I could do even more to serve our chapter
-                and the movement for socialism. I designed and lead our chapter
-                elections last fall, helped to write our new bylaws, worked on
-                the team putting on and developing the processes for our general
-                meetings. (If you’ve been to the last few general meetings,
-                you’ve watched me pick up Robert’s Rules in real time as I chair
-                the meetings!) If elected, my goals for the new term are to
-                continue to wage class war in the form of our M4A and housing
-                campaigns, to develop new ties to rank-and-file labor organizers
-                in the East Bay, and to enact new member recruitment and
-                retention systems with a goal of further diversifying the
-                chapter.
-              </CandidateStatment>
-            </Container>
-          </NavAnchor>
+          <Candidate name="Frances Reade" anchor="co-chair-frances-reade">
+            <CandidateHeader
+              img="frances.jpg"
+              nominations={[
+                'Abigail Gutmann-Gonzalez',
+                'Hannah Ehrlinspiel',
+                'Matt Stone',
+                'Jeremy Gong',
+                'Mark Gabriel'
+              ]}
+            />
+            <CandidateStatment>
+              It’s been a great honor to serve East Bay DSA as vice chair this
+              term, and I hope with your support I can continue to build on the
+              excellent foundation we’ve established since the membership boom
+              last fall. I joined DSA in January 2017 with a lot of anger and
+              very little organizing experience. I benefitted from my comrades’
+              commitment to leadership development – in fact I would never have
+              run for vice chair without the encouragement of chapter leaders
+              who’d seen me coordinate our provisional bylaws process and
+              believed I could do even more to serve our chapter and the
+              movement for socialism. I designed and lead our chapter elections
+              last fall, helped to write our new bylaws, worked on the team
+              putting on and developing the processes for our general meetings.
+              (If you’ve been to the last few general meetings, you’ve watched
+              me pick up Robert’s Rules in real time as I chair the meetings!)
+              If elected, my goals for the new term are to continue to wage
+              class war in the form of our M4A and housing campaigns, to develop
+              new ties to rank-and-file labor organizers in the East Bay, and to
+              enact new member recruitment and retention systems with a goal of
+              further diversifying the chapter.
+            </CandidateStatment>
+          </Candidate>
         </Section>
       </div>
     );
