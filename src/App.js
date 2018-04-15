@@ -1,21 +1,23 @@
-import React from "react";
-import { Route, Switch } from "react-router-dom";
+import React from 'react';
+import { Route, Switch } from 'react-router-dom';
 
-import TopNav from "./components/sections/TopNav";
-import TOC from "./components/sections/TOC";
-import Cover from "./components/sections/Cover";
-import WelcomeSection from "./components/sections/WelcomeSection";
-import Priorities from "./components/sections/Priorities";
-import Elections from "./components/sections/Elections";
-import Venue from "./components/sections/Venue";
-import RSVP from "./components/sections/RSVP";
+import TopNav from './components/sections/TopNav';
+import TOC from './components/sections/TOC';
+import Cover from './components/sections/Cover';
+import WelcomeSection from './components/sections/WelcomeSection';
+import Priorities from './components/sections/Priorities';
+import Elections from './components/sections/Elections';
+import Cochair from './components/sections/candidates/Cochair';
+import Venue from './components/sections/Venue';
+import RSVP from './components/sections/RSVP';
 
 const links = [
-  { label: "Welcome", to: "/welcome" },
-  { label: "Priorities Resolutions", to: "/priorities" },
-  { label: "Steering Committee Elections", to: "/elections" },
-  { label: "RSVP and Volunteer", to: "/rsvp" },
-  { label: "Venue, Accomodations, Accessibility", to: "/venue" }
+  { label: 'Welcome', to: '/welcome' },
+  { label: 'Priorities Resolutions', to: '/priorities' },
+  { label: 'Steering Committee Elections', to: '/elections' },
+  { label: 'Co-Chairs', to: '/co-chairs' },
+  { label: 'RSVP and Volunteer', to: '/rsvp' },
+  { label: 'Venue, Accomodations, Accessibility', to: '/venue' }
 ];
 
 const Content = () => (
@@ -26,6 +28,7 @@ const Content = () => (
     <WelcomeSection anchor="welcome" />
     <Priorities anchor="priorities" />
     <Elections anchor="elections" />
+    <Cochair anchor="co-chairs" />
     <RSVP anchor="rsvp" />
     <Venue anchor="venue" />
   </div>
