@@ -10,8 +10,8 @@ class Cochair extends PureComponent {
   render() {
     return (
       <div>
-        <Section>
-          <NavAnchor anchor={this.props.anchor}>
+        <NavAnchor anchor={this.props.anchor}>
+          <Section>
             <Container>
               <H2>Co-Chairs</H2>
               <P>
@@ -45,16 +45,46 @@ class Cochair extends PureComponent {
               <Link href="co-chair-zach-mcdonald">Zach McDonald</Link>
               <Link href="co-chair-frances-reade">Frances Reade</Link>
             </Container>
-          </NavAnchor>
+          </Section>
+        </NavAnchor>
+        <Section>
+          <Candidate name="Rosa Astra" anchor="co-chair-rosa-astra">
+            <CandidateHeader
+              img="rosa.jpg"
+              nominations={[
+                'June LS',
+                'Antonio Birbeck-Herrera',
+                'Karina Stenquist',
+                'Noah Kirshbaum-Ray',
+                'Dominic Dagradi'
+              ]}
+            />
+            <CandidateStatment />
+          </Candidate>
+
+          <Candidate name="Angie LaFlame" anchor="co-chair-angie-laflame">
+            <CandidateHeader
+              img="angie.jpg"
+              nominations={[
+                'June LS',
+                'Antonio Birbeck-Herrera',
+                'Karina Stenquist',
+                'Noah Kirshbaum-Ray',
+                'Dominic Dagradi'
+              ]}
+            />
+            <CandidateStatment />
+          </Candidate>
+
           <Candidate name="Frances Reade" anchor="co-chair-frances-reade">
             <CandidateHeader
               img="frances.jpg"
               nominations={[
-                'Abigail Gutmann-Gonzalez',
-                'Hannah Ehrlinspiel',
+                'Daniel D',
                 'Matt Stone',
-                'Jeremy Gong',
-                'Mark Gabriel'
+                'Hannah Ehrlinspiel',
+                'Sean Murphy',
+                'Coleman Lukas'
               ]}
             />
             <CandidateStatment>
@@ -78,6 +108,20 @@ class Cochair extends PureComponent {
               enact new member recruitment and retention systems with a goal of
               further diversifying the chapter.
             </CandidateStatment>
+          </Candidate>
+
+          <Candidate name="Zach McDonald" anchor="co-chair-zach-mcdonald">
+            <CandidateHeader
+              img="zach.jpg"
+              nominations={[
+                'Daniel D',
+                'Matt Stone',
+                'Sean Murphy',
+                'Hannah Ehrlinspiel',
+                'Frances Reade'
+              ]}
+            />
+            <CandidateStatment />
           </Candidate>
         </Section>
       </div>

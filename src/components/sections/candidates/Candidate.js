@@ -4,6 +4,7 @@ import { red } from '../../colors';
 import { P, H3 } from '../../typography';
 import NavAnchor from '../../NavAnchor';
 import Container from '../../Container';
+import breakpoint from '../../styles/breakpoint';
 
 const A = styled.a`
   color: ${red};
@@ -11,11 +12,16 @@ const A = styled.a`
 
 const Img = styled.img`
   display: inline;
-  height: 220px;
-  width: 220px;
+  height: 140px;
+  width: 140px;
   border-radius: 50%;
   max-width: ${props => props.maxWidth};
   margin-right: 30px;
+
+  ${breakpoint.tablet`
+    height: 220px;
+    width: 220px;
+  `};
 `;
 
 const Header = styled.div`
@@ -30,6 +36,11 @@ const Nominations = styled.ul`
 
 const CandidateContainer = styled.div`
   margin-top: 30px;
+  width: 100%;
+
+  ${breakpoint.tablet`
+    width: 680px;
+  `};
 `;
 
 class Candidate extends PureComponent {
