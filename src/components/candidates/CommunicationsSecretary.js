@@ -43,7 +43,48 @@ class CommunicationsSecretary extends PureComponent {
               ]}
             />
             <CandidateStatment>
-              <P />
+              <P>
+                I'm an appointed external organizer and neighborhood leader in
+                South Berkeley, where I organize canvasses, rap trainings and
+                socials with our excellent M4A and electoral campaigns. I also
+                moderate the member Facebook group, built our current newsletter
+                templates and website, and support other organizers’ projects as
+                a technical advisor.
+              </P>
+              <P>
+                As Communications Secretary, I will be dedicated to building
+                structures that help membership exert its political will
+                frequently and with confidence. I want us to bring a razor-sharp
+                message and analysis to our communities about the struggles we
+                face as working class people, how taking action collectively is
+                the only way to solve our problems, and why socialism is the
+                only way out of the dead end abyss of capitalism. This
+                necessitates creating new propaganda, working closely with
+                press, and tight coordination of our public campaigns.
+              </P>
+              <P>
+                I'm a member of the Open EBDSA micro-slate (<a href="http://openEBDSA.org">
+                  openEBDSA.org
+                </a>) with Aaron Hall, and believe our chapter can reach its
+                greatest potential by focusing on fostering a true
+                multi-tendency democracy built on collective decision making and
+                open communication. The campaigns and tactics that build power
+                in the East Bay are going to come from unexpected places and
+                from communities we haven’t engaged with yet. It’s our duty as
+                socialists to create a structure and organization that invites
+                the working class in, lets their voices be heard, and organizes
+                them into a cohesive class that is too strong to be divided by
+                capitalism.
+              </P>
+              <P>
+                My first DSA experience was a Medicare for All canvass in
+                February of 2017. It was an awakening to finally understanding
+                what we can achieve through struggle together. Working with my
+                newfound comrades for the past year has been a powerful and
+                joyous experience that I never could have anticipated, and I
+                want every member of our chapter to have the chance to
+                experience the same.{' '}
+              </P>
             </CandidateStatment>
           </Candidate>
 
