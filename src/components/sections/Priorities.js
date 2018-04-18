@@ -17,7 +17,7 @@ class Priorities extends PureComponent {
               upcoming Convention. This document is a crucial mechanism of democratic
               accountability—it's the most direct way that we as members have of letting our
               incoming Steering Committee know how we want them to approach the bulk of our
-              chapter’s work.
+              chapter's work.
             </P>
 
             <P>
@@ -75,7 +75,7 @@ class Priorities extends PureComponent {
             <P>
               In several other large DSA chapters, the "base" Priorities Resolution is drafted by
               the Steering Committee and then open to member amendment. We think that the process
-              we’ve designed will enable East Bay DSA members to hear from a variety of differing
+              we've designed will enable East Bay DSA members to hear from a variety of differing
               political perspectives on the future of this organization, and then be empowered on
               the floor of the Convention to amend whichever "base" Resolution gains a majority.
             </P>

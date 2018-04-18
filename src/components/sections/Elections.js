@@ -25,7 +25,7 @@ class Elections extends PureComponent {
               <Strong> Nominations for Steering Committee candidates will close on April 7.</Strong>
             </P>
             <P>
-              At the April 29th Convention, we’ll be using paper ballots and a ranked-choice-voting
+              At the April 29th Convention, we'll be using paper ballots and a ranked-choice-voting
               system to elect our new Steering Committee. If you are unable to attend the convention
               due to accessibility issues, please email <Link
               href="mailto:gm@eastbaydsa.org">gm@eastbaydsa.org</Link> and you will be
