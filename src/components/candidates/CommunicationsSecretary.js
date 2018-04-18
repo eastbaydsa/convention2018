@@ -62,8 +62,8 @@ class CommunicationsSecretary extends PureComponent {
             />
             <CandidateStatment>
               <P>
-                I’m running for Communications Secretary with the Bread & Roses
-                slate because it’s time for an unapologetically socialist
+                I'm running for Communications Secretary with the Bread & Roses
+                slate because it's time for an unapologetically socialist
                 politics to go mainstream. After decades of neoliberal
                 austerity, millions of people demand an alternative. But this
                 exciting moment is also perilous, as the Right targets the
@@ -73,12 +73,12 @@ class CommunicationsSecretary extends PureComponent {
               <P>
                 As the son of immigrants, I grew up seeing how politics touched
                 our lives. My mom was a lunch lady and my dad was a Teamster,
-                but it wasn’t until I learned about socialism that I realized
+                but it wasn't until I learned about socialism that I realized
                 how fundamental the gains won by militant labor were to shaping
                 the material conditions of my life. Thanks to the union, I had a
                 comfortable middle-class upbringing and the ability to attend
-                college and land a good job – I’m even the President of a small
-                union now! Everybody should enjoy the opportunities I’ve had -
+                college and land a good job – I'm even the President of a small
+                union now! Everybody should enjoy the opportunities I've had -
                 but they are being denied to the vast majority by a tiny
                 minority of the ultra-rich.
               </P>
@@ -100,7 +100,7 @@ class CommunicationsSecretary extends PureComponent {
                 informal settings.
               </P>
               <P>
-                We can’t let the Right fill the void left behind by Democrats’
+                We can't let the Right fill the void left behind by Democrats'
                 abandonment of the working class!
               </P>
             </CandidateStatment>

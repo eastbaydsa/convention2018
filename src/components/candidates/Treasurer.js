@@ -47,15 +47,15 @@ class Treasurer extends PureComponent {
             />
             <CandidateStatment>
               <P>
-                I am honored to run for East Bay DSA’s Treasurer as part of the
+                I am honored to run for East Bay DSA's Treasurer as part of the
                 Unity & Power coalition.
               </P>
               <P>
                 I joined DSA to learn how to best organize to create a more just
                 social order. I believe in the wisdom and experience of our
-                chapter’s fellow members, and look forward to serving in our
+                chapter's fellow members, and look forward to serving in our
                 Steering Committee as your servant leader. I see leading an
-                organization like a shepherd does a fire. Neglect members’
+                organization like a shepherd does a fire. Neglect members'
                 organic enthusiasm and the fire dies out. Let it burn too hot
                 and members burn out quickly. But find members that show a
                 spark, and feed it in just the right way, and you can build an
@@ -66,7 +66,7 @@ class Treasurer extends PureComponent {
                 leading the DSA Accountability sample bylaws process, organizing
                 the drafting of alternative chapter bylaws and collaborating
                 with members over 2-3 months in workgroup meetings to draft
-                separate amendments, serving as a a chapter member’s advocate in
+                separate amendments, serving as a a chapter member's advocate in
                 their disciplinary proceeding, canvassing for single payer, and
                 researching national grievance procedures.
               </P>

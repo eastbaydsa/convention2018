@@ -49,20 +49,20 @@ class ViceChair extends PureComponent {
                 I want to make EBDSA a welcoming organization where diversity
                 and equity can thrive, where members feel included and
                 empowered, where multiple views and tendencies can work
-                together, and where disagreement doesn’t preclude collaboration.
+                together, and where disagreement doesn't preclude collaboration.
                 An organization that help us unlearn capitalist biases (fear,
                 scarcity, oppression, individualism) and help us learn socialist
                 ones (trust, camaraderie, liberation, solidarity) while fighting
                 for the working-class.
               </P>
               <P>
-                I’ve lived in Berkeley for the last 8 years, but I was born and
+                I've lived in Berkeley for the last 8 years, but I was born and
                 raised in Madrid, Spain. I was lucky to grow up in a country
                 with universal free health care, free public education
                 (including tuition-free college), public housing programs and
                 strong unions. To many, that would sound like the socialist
                 dream and the end of class-struggle, however that is far from
-                true. All of that didn’t preclude the fastest growth of
+                true. All of that didn't preclude the fastest growth of
                 inequality in Europe, the increase of corruption, a 25%
                 unemployment rate, and the biggest increase in poverty since the
                 Spanish Civil War. It is not enough to reach those goals, we
@@ -83,7 +83,7 @@ class ViceChair extends PureComponent {
                 world.
               </P>
               <P>
-                “The master’s tools will never dismantle the master’s house.”
+                “The master's tools will never dismantle the master's house.”
               </P>
               <P>“Las herramientas del amo, nunca desmantelaran su casa.”</P>
             </CandidateStatment>
@@ -104,10 +104,10 @@ class ViceChair extends PureComponent {
             />
             <CandidateStatment>
               <P>
-                It’s an honor to be running for Vice-Chair of East Bay DSA as
+                It's an honor to be running for Vice-Chair of East Bay DSA as
                 part of the Bread & Roses slate. I am running to bring more
                 members into DSA and help develop their socialist politics and
-                organizing skills. If elected, I hope to further build DSA’s
+                organizing skills. If elected, I hope to further build DSA's
                 capacity and make it a socialist force that can foster
                 solidarity, strengthen the working class, and take on capital.
                 The way we do that is by giving every member of our chapter the
@@ -136,10 +136,10 @@ class ViceChair extends PureComponent {
                 phone banking efforts and that led to more canvassing, and
                 running canvassing trainings. I was inspired along the way by my
                 devoted comrades who helped me grow politically and as a leader.
-                Taking their example, I’ve developed new neighborhood leaders,
+                Taking their example, I've developed new neighborhood leaders,
                 run neighborhood groups, and supported other chapters to launch
                 their own campaigns. I'm currently an external organizer and
-                co-chair of the chapter’s Medicare for All sub-committee.
+                co-chair of the chapter's Medicare for All sub-committee.
               </P>
               <P>Thanks for your support and trust. Solidarity forever!</P>
             </CandidateStatment>

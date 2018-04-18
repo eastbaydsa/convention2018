@@ -56,7 +56,7 @@ class AtLarge extends PureComponent {
             />
             <CandidateStatment>
               <P>
-                "Radicals should say what only radicals could say: I’ve “spoken
+                "Radicals should say what only radicals could say: I've “spoken
                 truth to power” and challenged conservative bullshit since
                 childhood. As a far-left EastCoast f*gg*ty hot mess of Turkish
                 descent, my politics are informed by politically charged trauma
@@ -74,21 +74,21 @@ class AtLarge extends PureComponent {
               <P>
                 I work with Bay Area Mesopotamia Solidarity Committee, SEIU as a
                 (very active) shop steward for my worksite, Communist Caucus,
-                various local affinity groups like last year’s popular front
+                various local affinity groups like last year's popular front
                 against fascism, and the occasional...incident. Informally, I do
                 translation, media projects, and feminist resistance
                 work...with/against my gentleman suitors. Disability and
-                struggle have hindered my “productivity” in the past, so I’m
-                humble about what I’ve accomplished and appreciate struggling
-                people’s resistance work without quantifying it.
+                struggle have hindered my “productivity” in the past, so I'm
+                humble about what I've accomplished and appreciate struggling
+                people's resistance work without quantifying it.
               </P>
               <P>
                 From 9-5 I do feminist-model clinical social work with San
                 Francisco's most marginalized and brutalized people, with
                 colleagues who are often a paycheck or prescription away from
                 the other side. As a recent survivor of displacement and
-                homelessness, I’m particularly sensitive to EBDSA's internal
-                culture and how that affects EBDSA’s impact on the community
+                homelessness, I'm particularly sensitive to EBDSA's internal
+                culture and how that affects EBDSA's impact on the community
                 (ie, colonization or counter-revolution. I joined DSA for the
                 richness and strength of its radical and racidalizing milieu,
                 and potential role in emerging multi-tendency revolutionary
@@ -96,7 +96,7 @@ class AtLarge extends PureComponent {
               </P>
               <P>
                 In my spare time, I enjoy ""capitalist realism"" like vaporwave,
-                “Belly” and “Sailor Moon”. I’ve practiced occult and esoteric
+                “Belly” and “Sailor Moon”. I've practiced occult and esoteric
                 arts for 20 years.
               </P>
               <P>Push back. Dont stop pushing."</P>
@@ -116,7 +116,7 @@ class AtLarge extends PureComponent {
             />
             <CandidateStatment>
               <P>
-                I arrived to Oakland from California’s Central Valley four years
+                I arrived to Oakland from California's Central Valley four years
                 ago and have been organizing in the Bay ever since. I spend time
                 in theory spaces with other anti-racist organizers, observe and
                 document the police during protests, participate in local
@@ -161,13 +161,13 @@ class AtLarge extends PureComponent {
                 <OLI>
                   Challenge the centrist tendency which orients power solely
                   toward the state and therefore risks replicating the same
-                  power dynamics we’re fighting now. Instead, I seek to build
+                  power dynamics we're fighting now. Instead, I seek to build
                   power within the class itself by building its capacity to
                   fight capitalist order beyond electoral politics.
                 </OLI>
               </OL>
               <P>
-                If you’d like to discuss the specifics of my past, current, and
+                If you'd like to discuss the specifics of my past, current, and
                 forthcoming projects and organizing partners, drop me a line!
               </P>
             </CandidateStatment>
@@ -194,7 +194,7 @@ class AtLarge extends PureComponent {
                 Committee, I aim to work collectively with comrades on a newly
                 formed Political Education committee to enhance and expand the
                 Night School, create more in-depth reading groups, while
-                incorporating political education into all of the chapter’s
+                incorporating political education into all of the chapter's
                 external campaigns.
               </P>
               <P>
@@ -215,7 +215,7 @@ class AtLarge extends PureComponent {
                 chapter are given a voice, even if I disagree with them
                 personally. One way to accomplish this goal would be to develop
                 chapter-wide panel discussions where various political
-                tendencies are represented. If what I’ve outlined above appeals
+                tendencies are represented. If what I've outlined above appeals
                 to you, I humbly ask for your vote and support in realizing this
                 vision.
               </P>
@@ -237,18 +237,18 @@ class AtLarge extends PureComponent {
             />
             <CandidateStatment>
               <P>
-                "After a life-changing year working with EBDSA and the people in
+                After a life-changing year working with EBDSA and the people in
                 it, I know on a deeply personal level that we have the power not
-                only to ameliorate people’s suffering under capitalism, but to
+                only to ameliorate people's suffering under capitalism, but to
                 transform our lives and our society. I believe the Bread & Roses
                 platform offers the most effective, actionable, and joyful path
                 to this transformation.
               </P>
               <P>
-                If elected, I’d like to develop an EBDSA platform on education,
+                If elected, I'd like to develop an EBDSA platform on education,
                 drawing on my experience as a member of an educators' union.
                 With public sector unions facing unprecedented attacks (and with
-                inspiring teachers’ strikes happening all around the world!),
+                inspiring teachers' strikes happening all around the world!),
                 the time to offer workers and families a socialist vision of
                 education is now. Exploring how we can create a free, equitable,
                 and just system of learning for all people will also enable us
@@ -258,10 +258,10 @@ class AtLarge extends PureComponent {
               <P>
                 In my time with EBDSA, I'm proud to have put hundreds of hours
                 of work into our Medicare for All campaign: as a North Oakland
-                district leader and appointed external organizer, I’ve hosted
+                district leader and appointed external organizer, I've hosted
                 neighborhood canvasses, led trainings on how to talk to our
                 neighbors about socialism, helped organize large canvasses, and
-                helped lead and organize our M4A strategy meetings. I’ve also
+                helped lead and organize our M4A strategy meetings. I've also
                 organized and led electoral canvasses, held regular meetings
                 with new and developing members, and cooked what at this point
                 feels like a metric tonnage of beans.
@@ -270,9 +270,9 @@ class AtLarge extends PureComponent {
                 I genuinely love meeting and talking to new people, and one of
                 the reasons EBDSA is so wonderful is because it allows us to
                 inflect socialist principles with the warmth of real working
-                relationships. I can’t wait to see what EBDSA can do in the next
-                year, and I’m honored to stand in this fight against the
-                profiteers and for the people with each and every one of you."
+                relationships. I can't wait to see what EBDSA can do in the next
+                year, and I'm honored to stand in this fight against the
+                profiteers and for the people with each and every one of you.
               </P>
             </CandidateStatment>
           </Candidate>
@@ -289,7 +289,7 @@ class AtLarge extends PureComponent {
               ]}
             />
             <CandidateStatment>
-              <P>I’m a rank-and-file union member, organizer, and stagehand.</P>
+              <P>I'm a rank-and-file union member, organizer, and stagehand.</P>
               <P>
                 I joined DSA in August of 2017 at the tail end of a worker-led
                 unionization drive at my workplace that I helped to lead. Much
@@ -300,7 +300,7 @@ class AtLarge extends PureComponent {
                 more deeply in politics.
               </P>
               <P>
-                In my time in our chapter, I’ve helped organize the North
+                In my time in our chapter, I've helped organize the North
                 Oakland single-payer canvass and served as canvass captain in a
                 Big Canvass. This work allowed me to understand both the
                 incredible benefits and limitations that canvassing offers. I
@@ -410,8 +410,8 @@ class AtLarge extends PureComponent {
               </P>
               <P>
                 I was one of the founding members of the East Bay Feminist
-                Socialist Caucus, and active in planning the 2017 & 2018 Women’s
-                Marches and the 2017 Women’s Strike. I have been involved in the
+                Socialist Caucus, and active in planning the 2017 & 2018 Women's
+                Marches and the 2017 Women's Strike. I have been involved in the
                 Bay Brake Lights Project and member-led initiatives for bylaws
                 amendments.
               </P>
@@ -419,7 +419,7 @@ class AtLarge extends PureComponent {
                 I have worked at a social justice non-profit and seen the
                 limitations of their tactics to create meaningful change. I am
                 neuroatypical and have worked as a care attendant for people
-                with disabilities for five years. Through that time I’ve seen
+                with disabilities for five years. Through that time I've seen
                 how privatization hurts everyone - disabled people and workers.
               </P>
               <P>
@@ -525,7 +525,7 @@ class AtLarge extends PureComponent {
               <P>
                 I am thrilled to be running for an at-large position on the
                 Steering Committee as part of the Bread & Roses slate. Since
-                joining East Bay DSA eight months ago, I’ve helped build our
+                joining East Bay DSA eight months ago, I've helped build our
                 Medicare for All campaign by leading rap trainings, launching
                 the North Berkeley neighborhood group, organizing Big Canvasses,
                 and planning M4A Strategy Meetings. Currently, I serve as
@@ -535,8 +535,8 @@ class AtLarge extends PureComponent {
                 the West Coast.
               </P>
               <P>
-                I fight tooth and nail for single-payer healthcare because I’ve
-                seen loved ones’ lives devastated by our broken insurance
+                I fight tooth and nail for single-payer healthcare because I've
+                seen loved ones' lives devastated by our broken insurance
                 system. These experiences inform my conviction that market-based
                 healthcare is affront to our humanity, and that organizing
                 around healthcare is essential to our larger project of building
@@ -548,7 +548,7 @@ class AtLarge extends PureComponent {
               <P>
                 This coming year, I want to continue building such a campaign by
                 expanding our tactical diversity with an eye toward mass tactics
-                that will accelerate our organization’s growth. I want to
+                that will accelerate our organization's growth. I want to
                 capitalize on the 2018 electoral cycle to center single-payer in
                 public discourse and deepen the political fault lines around it.
                 And I want to build coalitions among DSA chapters in California
@@ -578,16 +578,16 @@ class AtLarge extends PureComponent {
             />
             <CandidateStatment>
               <P>
-                I’m excited to be running for an At-Large position on the Bread
+                I'm excited to be running for an At-Large position on the Bread
                 and Roses platform. I joined DSA in January 2017, looking for a
                 way to get involved in a political movement that would fight to
                 improve the lives of working people.
               </P>
               <P>
-                As a member of East Bay DSA I’ve set up chairs before meetings,
+                As a member of East Bay DSA I've set up chairs before meetings,
                 lead rap trainings, facilitated breakout groups at night school,
                 and started two neighborhood canvassing groups in South Berkeley
-                and West Oakland. I’ve been a founding member of the Social
+                and West Oakland. I've been a founding member of the Social
                 Housing Caucus, helped to rewrite our bylaws, and given speeches
                 about why Single Payer is a strategic socialist campaign. I am a
                 Steering Committee member on the National DSA Medicare for All
@@ -601,7 +601,7 @@ class AtLarge extends PureComponent {
                 capital. The first person I knew to volunteer for the Bernie
                 campaign was a friend from high school who saw a video of Bernie
                 talking about all the ways the system was set up against
-                everyday people. I didn’t understand it then but I’ve learned
+                everyday people. I didn't understand it then but I've learned
                 that what attracted my friend was the centrality of universal
                 programs. Programs that would improve his life, my life, and the
                 lives of everyone we know. This is why millions of people
@@ -609,7 +609,7 @@ class AtLarge extends PureComponent {
                 continue lifting these up as socialist demands and providing a
                 place for people to fight for them. I believe that this is how
                 we continue to grow DSA as a movement for millions of people and
-                I’m honored to be this work with all of you. Love and solidarity
+                I'm honored to be this work with all of you. Love and solidarity
                 forever!
               </P>
             </CandidateStatment>
@@ -634,13 +634,13 @@ class AtLarge extends PureComponent {
                 practice being defined by sitting in reading circles and
                 debating socialism. Although that is a very important aspect of
                 being a socialist, I wanted to engage in the practice of
-                socialism and since joining East Bay DSA that is what I’ve done.
+                socialism and since joining East Bay DSA that is what I've done.
               </P>
               <P>
-                I’ve participated in a number of canvasses for Medicare-for-all,
+                I've participated in a number of canvasses for Medicare-for-all,
                 served as an alternate delegate to the DSA national convention
                 in Chicago, participated in the mobilizer pilot program.
-                Additionally, I’ve been informally organizing the Socialists of
+                Additionally, I've been informally organizing the Socialists of
                 Color Socials, as well as the San Leandro-Hayward Socials, with
                 the goal of expanding our work beyond the hubs of North Oakland
                 and Berkeley.
@@ -683,7 +683,7 @@ class AtLarge extends PureComponent {
                 I have been organizing for three years, on issues ranging from
                 mental health services to increasing the minimum wage. I have
                 worked on electoral campaigns ranging from student body
-                president to Bernie’s campaign for president of the United
+                president to Bernie's campaign for president of the United
                 States. I built an organization from scratch, that began with 5
                 people in a room talking about fossil fuel divestment, and grew
                 into a statewide organization fighting for free higher education
@@ -698,8 +698,8 @@ class AtLarge extends PureComponent {
                 I need Medicare for All. I am a member of an expensive high-risk
                 pool, and given my family history, I feel confident that I will
                 have an expensive cancer one day. I am fighting for my own
-                future. The successes in my organizing life, including Bernie’s
-                blowout win in my county and my college’s commitment to fossil
+                future. The successes in my organizing life, including Bernie's
+                blowout win in my county and my college's commitment to fossil
                 fuel divestment, came from specific, disciplined demands,
                 strategies and tactics. My wins came from the unglamorous work
                 of meetings, data management, canvasses, and talking with people
@@ -723,9 +723,9 @@ class AtLarge extends PureComponent {
             />
             <CandidateStatment>
               <P>
-                I’m Will. I’m a construction worker and political organizer
+                I'm Will. I'm a construction worker and political organizer
                 running for an At-Large position. I am a carpenter in the
-                Arizmendi construction workers’ cooperative, where I serve on
+                Arizmendi construction workers' cooperative, where I serve on
                 their policy council. This last year, as a member of the DSA, I
                 have been organizing tenants with the Communist Caucus. I have
                 been organizing in Oakland for the past nine years.
@@ -746,14 +746,14 @@ class AtLarge extends PureComponent {
                 members additional opportunity to become involved, and which are
                 focused on organized class power, beyond electoralism. I would
                 like to help develop a more robust education program that
-                focuses on anti-imperialism, Oakland’s radical black & brown
-                history, and have this knowledge inform East Bay DSA’s culture
+                focuses on anti-imperialism, Oakland's radical black & brown
+                history, and have this knowledge inform East Bay DSA's culture
                 and activity. I wish to provide and improve avenues for open
                 debate and organic conversation between members to help resolve
                 current chapter tensions.
               </P>
               <P>
-                I’m incredibly excited to transform East Bay DSA into a
+                I'm incredibly excited to transform East Bay DSA into a
                 successful organization that has meaningful roots in our
                 communities, workplaces, and schools.
               </P>

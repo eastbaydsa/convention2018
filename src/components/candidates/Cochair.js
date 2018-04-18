@@ -16,7 +16,7 @@ class Cochair extends PureComponent {
               <H2>Co-Chairs</H2>
               <P>
                 The Co-Chairs shall be the official public spokespersons for the
-                Local and will initiate such actions and policies as the Local’s
+                Local and will initiate such actions and policies as the Local's
                 general welfare may demand. The Co-Chairs shall organize and
                 preside over all official meetings of the organization and the
                 Steering Committee. The Co-Chairs shall maintain consistent
@@ -58,9 +58,9 @@ class Cochair extends PureComponent {
                 capitalist police state affects our lives.
               </P>
               <P>
-                It’s been inspiring and humbling to organize with you. We’ve all
+                It's been inspiring and humbling to organize with you. We've all
                 put so much into DSA, and we're off to a great start, even while
-                we still have so far to go. Here’s what I want to do over the
+                we still have so far to go. Here's what I want to do over the
                 next year:
               </P>
               <P>
@@ -84,7 +84,7 @@ class Cochair extends PureComponent {
               </P>
               <P>
                 I joined DSA because it seemed like the best path toward making
-                socialism a mass political demand in the US, and I’m more sure
+                socialism a mass political demand in the US, and I'm more sure
                 of that now than ever. My comrade Angie and I are running for
                 co-chairs because we want to make this a reality with you.
               </P>
@@ -114,7 +114,7 @@ class Cochair extends PureComponent {
                 take us kids to houses that she was cleaning, where we would
                 help vacuum and sweep. My parents are the hardest hustling
                 people I know, and today they own nothing but debt. They
-                introduced me to socialism; so it’s my turn to make DSA an
+                introduced me to socialism; so it's my turn to make DSA an
                 organization that they can be part of.
               </P>
               <P>
@@ -173,14 +173,14 @@ class Cochair extends PureComponent {
             />
             <CandidateStatment>
               <P>
-                It’s been an unbelievable honor to help build this chapter into
+                It's been an unbelievable honor to help build this chapter into
                 a fighting force for working people over the past year,
                 alongside hundreds of wonderful, committed, thoughtful, brave,
                 humble, and intelligent comrades.
               </P>
               <P>
-                I’m astounded at what we’ve all built this year, with no staff
-                and few material resources and as Vice Chair I’ve worked on a
+                I'm astounded at what we've all built this year, with no staff
+                and few material resources and as Vice Chair I've worked on a
                 huge range of our wildly ambitious projects. I've helped design,
                 implement, organize, and support: our fantastically successful
                 socialist school, our canvasses that bring hundreds of
@@ -191,9 +191,9 @@ class Cochair extends PureComponent {
                 across the country, and our elegantly revised bylaws.
               </P>
               <P>
-                We’ve come a long way from last summer’s election, when some
-                seats were unopposed. This time, I’m proud to be running for
-                office as a part of the Bread & Roses slate, and I’m proud of
+                We've come a long way from last summer's election, when some
+                seats were unopposed. This time, I'm proud to be running for
+                office as a part of the Bread & Roses slate, and I'm proud of
                 the diversity of opinions represented across the entire field of
                 candidates.
               </P>
@@ -202,15 +202,15 @@ class Cochair extends PureComponent {
                 which will grow our strength and diversity by supporting
                 rank-and-file labor and taking on big fights that build
                 solidarity and working-class power. As Jovanka Beckles says,
-                people can’t live full lives if they don’t have stability: a
+                people can't live full lives if they don't have stability: a
                 home, an income, healthcare, childcare, education. Our society
                 has the resources to provide these and more for everyone – these
                 resources are just in the wrong hands. The fights we pick this
                 year against landlords, bosses, and shitty insurance companies
-                can bring us closer to a world where everyone’s needs are met,
+                can bring us closer to a world where everyone's needs are met,
                 where the things that matter are under democratic control, and
                 where all people can live abundant, flourishing lives in a just
-                society. I’m proud to fight for this world with you.
+                society. I'm proud to fight for this world with you.
               </P>
             </CandidateStatment>
           </Candidate>
@@ -228,8 +228,8 @@ class Cochair extends PureComponent {
             />
             <CandidateStatment>
               <P>
-                I’m running for co-chair because I believe deeply in East Bay
-                DSA’s potential, and in the politics put forward in the Bread &
+                I'm running for co-chair because I believe deeply in East Bay
+                DSA's potential, and in the politics put forward in the Bread &
                 Roses platform. By advancing universal demands to decommodify
                 human needs and rooting our campaigns in the labor movement and
                 our communities, we will build a powerful democratic socialist
@@ -244,7 +244,7 @@ class Cochair extends PureComponent {
                 anyone who shares that goal in learning how to organize.
               </P>
               <P>
-                I’ve since been canvassing more times than I can count, co-led
+                I've since been canvassing more times than I can count, co-led
                 the North Oakland neighborhood group, co-led the rap training
                 program, became an appointed External Organizer and Steering
                 Committee member, served as liaison to coalition partners,
@@ -254,7 +254,7 @@ class Cochair extends PureComponent {
                 Gayle.
               </P>
               <P>
-                The guidance and support I’ve received in EBDSA has given my
+                The guidance and support I've received in EBDSA has given my
                 life meaning and purpose beyond what I thought possible.
                 Supporting others in developing their own power through class
                 struggle is, to me, the core of what it means to be a socialist
@@ -266,7 +266,7 @@ class Cochair extends PureComponent {
                 It has been the greatest honor of my life to participate with
                 you all in helping to build the early foundations for this
                 organization, and I look forward to giving everything I have to
-                this fight until we’ve won.
+                this fight until we've won.
               </P>
             </CandidateStatment>
           </Candidate>

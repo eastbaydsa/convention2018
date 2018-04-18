@@ -57,11 +57,11 @@ class RecordingSecretary extends PureComponent {
             />
             <CandidateStatment>
               <P>
-                Hi there! I’m Mark, and I’m running for the position of
+                Hi there! I'm Mark, and I'm running for the position of
                 Recording Secretary with the Bread & Roses slate.
               </P>
               <P>
-                I wasn’t an organizer when I came to DSA in the final days of
+                I wasn't an organizer when I came to DSA in the final days of
                 2016. The preceding decade left me politically apathetic and
                 without hope for anything beyond the bleak politics of
                 neoliberal logic. The impotence of liberal ideology in the face
@@ -76,9 +76,9 @@ class RecordingSecretary extends PureComponent {
                 of working-class demands.
               </P>
               <P>
-                Since joining DSA, I’ve spent the past year learning from
+                Since joining DSA, I've spent the past year learning from
                 comrades, sharpening my politics, and dedicating myself to
-                building our chapter. I’ve worked on a broad range of projects
+                building our chapter. I've worked on a broad range of projects
                 both internal and external — from canvassing and phone banking,
                 to organizing the expansion of our neighborhood groups,
                 facilitating meetings large and small, developing our Membership
@@ -88,11 +88,11 @@ class RecordingSecretary extends PureComponent {
               <P>
                 Today, I am an organizer. As Recording Secretary, I want to
                 honor and reflect the work of every project that has hundreds or
-                thousands of hours of our comrades’ time invested in it — this
+                thousands of hours of our comrades' time invested in it — this
                 means I will never allow details to slip through the cracks, I
                 will work with the website team to make all important
                 information transparent and accessible to members, and I will
-                commit myself to the service of documenting our chapter’s
+                commit myself to the service of documenting our chapter's
                 democratically mandated work clearly, cleanly, and quickly.
               </P>
               <P>
