@@ -10,8 +10,8 @@ class Cochair extends PureComponent {
   render() {
     return (
       <div>
-        <NavAnchor anchor={this.props.anchor}>
-          <Section>
+        <Section>
+          <NavAnchor anchor={this.props.anchor}>
             <Container>
               <H2>Co-Chairs</H2>
               <P>
@@ -29,23 +29,21 @@ class Cochair extends PureComponent {
               </P>
 
               <H2>Candidates</H2>
-              <Link href="co-chair-rosa-astra">Rosa Astra</Link>
-              <Link href="co-chair-angie-laflame">Angie LaFlame</Link>
-              <Link href="co-chair-zach-mcdonald">Zach McDonald</Link>
-              <Link href="co-chair-frances-reade">Frances Reade</Link>
+              <Link href="#co-chair-rosa-astra">Rosa Astra</Link>
+              <Link href="#co-chair-angie-laflame">Angie LaFlame</Link>
+              <Link href="#co-chair-zach-mcdonald">Zach McDonald</Link>
+              <Link href="#co-chair-frances-reade">Frances Reade</Link>
             </Container>
-          </Section>
-        </NavAnchor>
-        <Section>
+          </NavAnchor>
           <Candidate name="Rosa Astra" anchor="co-chair-rosa-astra">
             <CandidateHeader
               img="rosa.jpg"
               nominations={[
+                'Angie LaFlame',
                 'June LS',
                 'Antonio Birbeck-Herrera',
                 'Karina Stenquist',
-                'Noah Kirshbaum-Ray',
-                'Dominic Dagradi'
+                'Noah Kirshbaum-Ray'
               ]}
             />
             <CandidateStatment>
@@ -97,11 +95,11 @@ class Cochair extends PureComponent {
             <CandidateHeader
               img="angie.jpg"
               nominations={[
+                'Rosa Astra',
                 'June LS',
                 'Antonio Birbeck-Herrera',
                 'Karina Stenquist',
-                'Noah Kirshbaum-Ray',
-                'Dominic Dagradi'
+                'Noah Kirshbaum-Ray'
               ]}
             />
             <CandidateStatment>
@@ -166,11 +164,11 @@ class Cochair extends PureComponent {
             <CandidateHeader
               img="frances.jpg"
               nominations={[
+                'Zach McDonald',
                 'Daniel D',
                 'Matt Stone',
                 'Hannah Ehrlinspiel',
-                'Sean Murphy',
-                'Coleman Lukas'
+                'Sean Murphy'
               ]}
             />
             <CandidateStatment>
@@ -221,11 +219,11 @@ class Cochair extends PureComponent {
             <CandidateHeader
               img="zach.jpg"
               nominations={[
+                'Frances Reade',
                 'Daniel D',
                 'Matt Stone',
                 'Sean Murphy',
-                'Hannah Ehrlinspiel',
-                'Frances Reade'
+                'Hannah Ehrlinspiel'
               ]}
             />
             <CandidateStatment>

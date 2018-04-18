@@ -10,8 +10,8 @@ class ViceChair extends PureComponent {
   render() {
     return (
       <div>
-        <NavAnchor anchor={this.props.anchor}>
-          <Section>
+        <Section>
+          <NavAnchor anchor={this.props.anchor}>
             <Container>
               <H2>Vice Chair</H2>
               <P>
@@ -23,14 +23,14 @@ class ViceChair extends PureComponent {
               </P>
 
               <H2>Candidates</H2>
-              <Link href="vice-chair-sergio-guadarrama">Sergio Guadarrama</Link>
-              <Link href="vice-chair-abigail-gutmann-gonzalez">
+              <Link href="#vice-chair-sergio-guadarrama">
+                Sergio Guadarrama
+              </Link>
+              <Link href="#vice-chair-abigail-gutmann-gonzalez">
                 Abigail Gutmann-Gonzalez
               </Link>
             </Container>
-          </Section>
-        </NavAnchor>
-        <Section>
+          </NavAnchor>
           <Candidate
             name="Sergio Guadarrama"
             anchor="vice-chair-sergio-guadarrama">

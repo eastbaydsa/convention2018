@@ -9,6 +9,10 @@ import Priorities from './components/sections/Priorities';
 import Elections from './components/sections/Elections';
 import Cochair from './components/candidates/Cochair';
 import ViceChair from './components/candidates/ViceChair';
+import RecordingSecretary from './components/candidates/RecordingSecretary';
+import CommunicationsSecretary from './components/candidates/CommunicationsSecretary';
+import Treasurer from './components/candidates/Treasurer';
+import AtLarge from './components/candidates/AtLarge';
 import Venue from './components/sections/Venue';
 import RSVP from './components/sections/RSVP';
 
@@ -18,6 +22,10 @@ const links = [
   { label: 'Steering Committee Elections', to: '/elections' },
   { label: 'Co-Chairs', to: '/co-chairs' },
   { label: 'Vice Chair', to: '/vice-chair' },
+  { label: 'Recording Secretary', to: '/recording-secretary' },
+  { label: 'Communications Secretary', to: '/communications-secretary' },
+  { label: 'Treasurer', to: '/treasurer' },
+  { label: 'At-Large Member', to: '/at-large' },
   { label: 'RSVP and Volunteer', to: '/rsvp' },
   { label: 'Venue, Accomodations, Accessibility', to: '/venue' }
 ];
@@ -32,6 +40,10 @@ const Content = () => (
     <Elections anchor="elections" />
     <Cochair anchor="co-chairs" />
     <ViceChair anchor="vice-chair" />
+    <RecordingSecretary anchor="recording-secretary" />
+    <CommunicationsSecretary anchor="communications-secretary" />
+    <Treasurer anchor="treasurer" />
+    <AtLarge anchor="at-large" />
     <RSVP anchor="rsvp" />
     <Venue anchor="venue" />
   </div>
