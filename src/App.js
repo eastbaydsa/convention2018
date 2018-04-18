@@ -7,7 +7,8 @@ import Cover from './components/sections/Cover';
 import WelcomeSection from './components/sections/WelcomeSection';
 import Priorities from './components/sections/Priorities';
 import Elections from './components/sections/Elections';
-import Cochair from './components/sections/candidates/Cochair';
+import Cochair from './components/candidates/Cochair';
+import ViceChair from './components/candidates/ViceChair';
 import Venue from './components/sections/Venue';
 import RSVP from './components/sections/RSVP';
 
@@ -16,6 +17,7 @@ const links = [
   { label: 'Priorities Resolutions', to: '/priorities' },
   { label: 'Steering Committee Elections', to: '/elections' },
   { label: 'Co-Chairs', to: '/co-chairs' },
+  { label: 'Vice Chair', to: '/vice-chair' },
   { label: 'RSVP and Volunteer', to: '/rsvp' },
   { label: 'Venue, Accomodations, Accessibility', to: '/venue' }
 ];
@@ -29,6 +31,7 @@ const Content = () => (
     <Priorities anchor="priorities" />
     <Elections anchor="elections" />
     <Cochair anchor="co-chairs" />
+    <ViceChair anchor="vice-chair" />
     <RSVP anchor="rsvp" />
     <Venue anchor="venue" />
   </div>

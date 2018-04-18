@@ -1,9 +1,9 @@
 import React, { PureComponent } from 'react';
-import Container from '../../Container';
-import Section from '../../Section';
-import { H2, P } from '../../typography';
-import Link from '../../Link';
-import NavAnchor from '../../NavAnchor';
+import Container from '../Container';
+import Section from '../Section';
+import { H2, P } from '../typography';
+import Link from '../Link';
+import NavAnchor from '../NavAnchor';
 import { Candidate, CandidateHeader, CandidateStatment } from './Candidate';
 
 class Cochair extends PureComponent {
@@ -19,24 +19,13 @@ class Cochair extends PureComponent {
                 Local and will initiate such actions and policies as the Local’s
                 general welfare may demand. The Co-Chairs shall organize and
                 preside over all official meetings of the organization and the
-                Local Council. The Co-Chairs shall maintain consistent
+                Steering Committee. The Co-Chairs shall maintain consistent
                 communication with all committee leaders and facilitate
                 collaboration and coordination between them. Additionally:
               </P>
               <P>
-                The Co-Chairs will also act as, or appoint, the official
-                representatives of the Local to the National Organization and to
-                other DSA Locals. This does not apply during official business
-                at the National DSA Convention, when Local Delegates may act
-                independently on behalf of the Local’s membership.
-              </P>
-              <P>
                 The Co-Chairs serve as executive officers of the Local, and they
                 are listed on financial accounts along with the Treasurer.
-              </P>
-              <P>
-                At least one Co-Chair must not identify as both White and
-                Cis-Male.
               </P>
 
               <H2>Candidates</H2>

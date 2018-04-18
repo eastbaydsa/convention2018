@@ -1,10 +1,10 @@
 import React, { PureComponent } from 'react';
 import styled from 'styled-components';
-import { red } from '../../colors';
-import { P, H3 } from '../../typography';
-import NavAnchor from '../../NavAnchor';
-import Container from '../../Container';
-import breakpoint from '../../styles/breakpoint';
+import { red } from '../colors';
+import { P, H3 } from '../typography';
+import NavAnchor from '../NavAnchor';
+import Container from '../Container';
+import breakpoint from '../styles/breakpoint';
 
 const A = styled.a`
   color: ${red};
