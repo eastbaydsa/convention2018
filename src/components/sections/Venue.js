@@ -37,10 +37,10 @@ class Venue extends PureComponent {
               accessible restrooms.
             </P>
             <P>
-              EBDSA will provide child supervision; please
+              EBDSA will provide child supervision; please{' '}
               <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQhhqJbB6f3bFsgyC7OQ8q7PWv28BhRjoAyL_vI0cude8OjQ/viewform">
                 fill out this form
-              </a>
+              </a>{' '}
               ahead of time if you will need child supervision. If anyone would
               like an ASL interpreter for the convention, we have volunteers
               available; please email{' '}
