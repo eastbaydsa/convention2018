@@ -56,30 +56,6 @@ class Priorities extends PureComponent {
               can co-sponsor more than one priorities resolution.
             </P>
             <P>
-              The final submitted Priorities Resolutions can be found in the
-              links below:
-              <ul>
-                <li>
-                  <h2>
-                    <PriorityResolution
-                      href="https://d3n8a8pro7vhmx.cloudfront.net/eastbaydsa/pages/503/attachments/original/1524166730/bread-and-roses.pdf?1524166730"
-                      target="_blank">
-                      Priorities Resolution: Bread & Roses
-                    </PriorityResolution>
-                  </h2>
-                </li>
-                <li>
-                  <h2>
-                    <PriorityResolution
-                      href="https://d3n8a8pro7vhmx.cloudfront.net/eastbaydsa/pages/503/attachments/original/1524166731/working-class-unity-and-power.pdf?1524166731"
-                      target="_blank">
-                      Priorities Resolution: Working-Class Unity and Power
-                    </PriorityResolution>
-                  </h2>
-                </li>
-              </ul>
-            </P>
-            <P>
               At the Convention (<Strong>April 29</Strong>), members will have
               an open discussion on all of the different submitted Priorities
               Resolutions, and then decide by majority which Resolution will
