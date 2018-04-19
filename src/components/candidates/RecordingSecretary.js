@@ -2,9 +2,13 @@ import React, { PureComponent } from 'react';
 import Container from '../Container';
 import Section from '../Section';
 import { H2, P, OL, OLI } from '../typography';
-import Link from '../Link';
 import NavAnchor from '../NavAnchor';
-import { Candidate, CandidateHeader, CandidateStatment } from './Candidate';
+import {
+  Candidate,
+  CandidateHeader,
+  CandidateStatment,
+  CandidateLink
+} from './Candidate';
 
 class RecordingSecretary extends PureComponent {
   render() {
@@ -36,10 +40,12 @@ class RecordingSecretary extends PureComponent {
               </OL>
 
               <H2>Candidates</H2>
-              <Link href="#recording-secretary-mark-gabriel">Mark Gabriel</Link>
-              <Link href="#recording-secretary-karina-stenquist">
+              <CandidateLink href="#recording-secretary-mark-gabriel">
+                Mark Gabriel
+              </CandidateLink>
+              <CandidateLink href="#recording-secretary-karina-stenquist">
                 Karina Stenquist
-              </Link>
+              </CandidateLink>
             </Container>
           </NavAnchor>
           <Candidate

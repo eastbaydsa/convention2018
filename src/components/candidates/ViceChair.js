@@ -2,9 +2,13 @@ import React, { PureComponent } from 'react';
 import Container from '../Container';
 import Section from '../Section';
 import { H2, P } from '../typography';
-import Link from '../Link';
 import NavAnchor from '../NavAnchor';
-import { Candidate, CandidateHeader, CandidateStatment } from './Candidate';
+import {
+  Candidate,
+  CandidateHeader,
+  CandidateStatment,
+  CandidateLink
+} from './Candidate';
 
 class ViceChair extends PureComponent {
   render() {
@@ -23,12 +27,12 @@ class ViceChair extends PureComponent {
               </P>
 
               <H2>Candidates</H2>
-              <Link href="#vice-chair-sergio-guadarrama">
+              <CandidateLink href="#vice-chair-sergio-guadarrama">
                 Sergio Guadarrama
-              </Link>
-              <Link href="#vice-chair-abigail-gutmann-gonzalez">
+              </CandidateLink>
+              <CandidateLink href="#vice-chair-abigail-gutmann-gonzalez">
                 Abigail Gutmann-Gonzalez
-              </Link>
+              </CandidateLink>
             </Container>
           </NavAnchor>
           <Candidate

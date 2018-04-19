@@ -2,9 +2,13 @@ import React, { PureComponent } from 'react';
 import Container from '../Container';
 import Section from '../Section';
 import { H2, P, OL, OLI } from '../typography';
-import Link from '../Link';
 import NavAnchor from '../NavAnchor';
-import { Candidate, CandidateHeader, CandidateStatment } from './Candidate';
+import {
+  Candidate,
+  CandidateHeader,
+  CandidateStatment,
+  CandidateLink
+} from './Candidate';
 
 class Treasurer extends PureComponent {
   render() {
@@ -26,10 +30,12 @@ class Treasurer extends PureComponent {
               </P>
 
               <H2>Candidates</H2>
-              <Link href="#treasurer-antonio-birbeck-herrera">
+              <CandidateLink href="#treasurer-antonio-birbeck-herrera">
                 Antonio Birbeck-Herrera
-              </Link>
-              <Link href="#treasurer-sean-murphy">Sean Murphy</Link>
+              </CandidateLink>
+              <CandidateLink href="#treasurer-sean-murphy">
+                Sean Murphy
+              </CandidateLink>
             </Container>
           </NavAnchor>
           <Candidate

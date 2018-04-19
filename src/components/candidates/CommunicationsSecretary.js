@@ -1,10 +1,14 @@
 import React, { PureComponent } from 'react';
 import Container from '../Container';
 import Section from '../Section';
-import { H2, P, OL, OLI } from '../typography';
-import Link from '../Link';
+import { H2, P } from '../typography';
 import NavAnchor from '../NavAnchor';
-import { Candidate, CandidateHeader, CandidateStatment } from './Candidate';
+import {
+  Candidate,
+  CandidateHeader,
+  CandidateStatment,
+  CandidateLink
+} from './Candidate';
 
 class CommunicationsSecretary extends PureComponent {
   render() {
@@ -21,12 +25,12 @@ class CommunicationsSecretary extends PureComponent {
               </P>
 
               <H2>Candidates</H2>
-              <Link href="#communications-secretary-dominic-dagradi">
+              <CandidateLink href="#communications-secretary-dominic-dagradi">
                 Dominic Dagradi
-              </Link>
-              <Link href="#communications-secretary-miguel-duarte">
+              </CandidateLink>
+              <CandidateLink href="#communications-secretary-miguel-duarte">
                 Miguel Duarte
-              </Link>
+              </CandidateLink>
             </Container>
           </NavAnchor>
           <Candidate

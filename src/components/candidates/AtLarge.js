@@ -2,9 +2,13 @@ import React, { PureComponent } from 'react';
 import Container from '../Container';
 import Section from '../Section';
 import { H2, P, OL, OLI } from '../typography';
-import Link from '../Link';
 import NavAnchor from '../NavAnchor';
-import { Candidate, CandidateHeader, CandidateStatment } from './Candidate';
+import {
+  Candidate,
+  CandidateHeader,
+  CandidateStatment,
+  CandidateLink
+} from './Candidate';
 
 class AtLarge extends PureComponent {
   render() {
@@ -24,23 +28,43 @@ class AtLarge extends PureComponent {
               </P>
 
               <H2>Candidates</H2>
-              <Link href="#at-large-hasan-can-arat">Hasan-Can Arat</Link>
-              <Link href="#at-large-sandy-barnard">Sandy Barnard</Link>
-              <Link href="#at-large-keith-brower-brown">
+              <CandidateLink href="#at-large-hasan-can-arat">
+                Hasan-Can Arat
+              </CandidateLink>
+              <CandidateLink href="#at-large-sandy-barnard">
+                Sandy Barnard
+              </CandidateLink>
+              <CandidateLink href="#at-large-keith-brower-brown">
                 Keith Brower Brown
-              </Link>
-              <Link href="#at-large-nestor-castillo">Nestor Castillo</Link>
-              <Link href="#at-large-emily-claffy">Emily Claffy</Link>
-              <Link href="#at-large-dan-d">Dan D</Link>
-              <Link href="#at-large-hannah-ehrlinspiel">
+              </CandidateLink>
+              <CandidateLink href="#at-large-nestor-castillo">
+                Nestor Castillo
+              </CandidateLink>
+              <CandidateLink href="#at-large-emily-claffy">
+                Emily Claffy
+              </CandidateLink>
+              <CandidateLink href="#at-large-dan-d">Dan D</CandidateLink>
+              <CandidateLink href="#at-large-hannah-ehrlinspiel">
                 Hannah Ehrlinspiel
-              </Link>
-              <Link href="#at-large-aaron-hall">Aaron Hall</Link>
-              <Link href="#at-large-jeremy-gong">Jeremy Gong</Link>
-              <Link href="#at-large-kate-mcdonnell">Kate McDonnell</Link>
-              <Link href="#at-large-william-orr">William Orr</Link>
-              <Link href="#at-large-matt-stone">Matt Stone</Link>
-              <Link href="#at-large-megan-svoboda">Megan Svoboda</Link>
+              </CandidateLink>
+              <CandidateLink href="#at-large-aaron-hall">
+                Aaron Hall
+              </CandidateLink>
+              <CandidateLink href="#at-large-jeremy-gong">
+                Jeremy Gong
+              </CandidateLink>
+              <CandidateLink href="#at-large-kate-mcdonnell">
+                Kate McDonnell
+              </CandidateLink>
+              <CandidateLink href="#at-large-william-orr">
+                William Orr
+              </CandidateLink>
+              <CandidateLink href="#at-large-matt-stone">
+                Matt Stone
+              </CandidateLink>
+              <CandidateLink href="#at-large-megan-svoboda">
+                Megan Svoboda
+              </CandidateLink>
             </Container>
           </NavAnchor>
 
