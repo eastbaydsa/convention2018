@@ -71,7 +71,7 @@ class Priorities extends PureComponent {
                 <li>
                   <h2>
                     <PriorityResolution
-                      href="https://d3n8a8pro7vhmx.cloudfront.net/eastbaydsa/pages/503/attachments/original/1524166731/working-class-unity-and-power.pdf?1524166731"
+                      href="https://d3n8a8pro7vhmx.cloudfront.net/eastbaydsa/pages/503/attachments/original/1524178854/pr-working-class-unity-and-power.pdf?1524178854"
                       target="_blank">
                       Priorities Resolution: Working-Class Unity and Power
                     </PriorityResolution>
