@@ -62,7 +62,7 @@ class Priorities extends PureComponent {
                 <li>
                   <h2>
                     <PriorityResolution
-                      href="/pdfs/bread-and-roses.pdf"
+                      href="https://d3n8a8pro7vhmx.cloudfront.net/eastbaydsa/pages/503/attachments/original/1524166730/bread-and-roses.pdf?1524166730"
                       target="_blank">
                       Priorities Resolution: Bread & Roses
                     </PriorityResolution>
@@ -71,7 +71,7 @@ class Priorities extends PureComponent {
                 <li>
                   <h2>
                     <PriorityResolution
-                      href="/pdfs/working-class-unity-and-power.pdf"
+                      href="https://d3n8a8pro7vhmx.cloudfront.net/eastbaydsa/pages/503/attachments/original/1524166731/working-class-unity-and-power.pdf?1524166731"
                       target="_blank">
                       Priorities Resolution: Working-Class Unity and Power
                     </PriorityResolution>
