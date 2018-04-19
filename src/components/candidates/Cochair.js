@@ -2,9 +2,13 @@ import React, { PureComponent } from 'react';
 import Container from '../Container';
 import Section from '../Section';
 import { H2, P, OL, OLI } from '../typography';
-import Link from '../Link';
 import NavAnchor from '../NavAnchor';
-import { Candidate, CandidateHeader, CandidateStatment } from './Candidate';
+import {
+  Candidate,
+  CandidateHeader,
+  CandidateStatment,
+  CandidateLink
+} from './Candidate';
 
 class Cochair extends PureComponent {
   render() {
@@ -29,10 +33,18 @@ class Cochair extends PureComponent {
               </P>
 
               <H2>Candidates</H2>
-              <Link href="#co-chair-rosa-astra">Rosa Astra</Link>
-              <Link href="#co-chair-angie-laflame">Angie LaFlame</Link>
-              <Link href="#co-chair-zach-mcdonald">Zach McDonald</Link>
-              <Link href="#co-chair-frances-reade">Frances Reade</Link>
+              <CandidateLink href="#co-chair-rosa-astra">
+                Rosa Astra
+              </CandidateLink>
+              <CandidateLink href="#co-chair-angie-laflame">
+                Angie LaFlame
+              </CandidateLink>
+              <CandidateLink href="#co-chair-zach-mcdonald">
+                Zach McDonald
+              </CandidateLink>
+              <CandidateLink href="#co-chair-frances-reade">
+                Frances Reade
+              </CandidateLink>
             </Container>
           </NavAnchor>
           <Candidate name="Rosa Astra" anchor="co-chair-rosa-astra">

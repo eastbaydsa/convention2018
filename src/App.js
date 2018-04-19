@@ -17,17 +17,27 @@ import Venue from './components/sections/Venue';
 import RSVP from './components/sections/RSVP';
 
 const links = [
-  { label: 'Welcome', to: '/welcome' },
-  { label: 'Priorities Resolutions', to: '/priorities' },
-  { label: 'Steering Committee Elections', to: '/elections' },
-  { label: 'Co-Chairs', to: '/co-chairs' },
-  { label: 'Vice Chair', to: '/vice-chair' },
-  { label: 'Recording Secretary', to: '/recording-secretary' },
-  { label: 'Communications Secretary', to: '/communications-secretary' },
-  { label: 'Treasurer', to: '/treasurer' },
-  { label: 'At-Large Member', to: '/at-large' },
-  { label: 'RSVP and Volunteer', to: '/rsvp' },
-  { label: 'Venue, Accomodations, Accessibility', to: '/venue' }
+  { num: 1, label: 'Welcome', to: '/welcome' },
+  { num: 2, label: 'Priorities Resolutions', to: '/priorities' },
+  { num: 3, label: 'Steering Committee Elections', to: '/elections' },
+  { num: 'a', label: 'Co-Chairs', to: '/co-chairs', indent: true },
+  { num: 'b', label: 'Vice Chair', to: '/vice-chair', indent: true },
+  {
+    num: 'c',
+    label: 'Recording Secretary',
+    to: '/recording-secretary',
+    indent: true
+  },
+  {
+    num: 'd',
+    label: 'Communications Secretary',
+    to: '/communications-secretary',
+    indent: true
+  },
+  { num: 'e', label: 'Treasurer', to: '/treasurer', indent: true },
+  { num: 'f', label: 'At-Large Member', to: '/at-large', indent: true },
+  { num: 4, label: 'RSVP and Volunteer', to: '/rsvp' },
+  { num: 5, label: 'Venue, Accomodations, Accessibility', to: '/venue' }
 ];
 
 const Content = () => (

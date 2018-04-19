@@ -5,6 +5,7 @@ import { P, H3 } from '../typography';
 import NavAnchor from '../NavAnchor';
 import Container from '../Container';
 import breakpoint from '../styles/breakpoint';
+import Link from '../Link';
 
 const A = styled.a`
   color: ${red};
@@ -100,4 +101,26 @@ class CandidateHeader extends PureComponent {
   }
 }
 
-export { Candidate, CandidateHeader, CandidateStatment };
+const CandidateLinkWrapper = styled.div`
+  span {
+    display: block;
+    padding-top: 8px;
+    margin-top: 4px;
+  }
+
+  a {
+    display: block;
+  }
+`;
+
+class CandidateLink extends PureComponent {
+  render() {
+    return (
+      <CandidateLinkWrapper>
+        <Link href={this.props.href}>{this.props.children}</Link>
+      </CandidateLinkWrapper>
+    );
+  }
+}
+
+export { Candidate, CandidateHeader, CandidateStatment, CandidateLink };

@@ -25,6 +25,11 @@ class AtLarge extends PureComponent {
 
               <H2>Candidates</H2>
               <Link href="#at-large-hasan-can-arat">Hasan-Can Arat</Link>
+              <Link href="#at-large-sandy-barnard">Sandy Barnard</Link>
+              <Link href="#at-large-keith-brower-brown">
+                Keith Brower Brown
+              </Link>
+              <Link href="#at-large-nestor-castillo">Nestor Castillo</Link>
               <Link href="#at-large-emily-claffy">Emily Claffy</Link>
               <Link href="#at-large-dan-d">Dan D</Link>
               <Link href="#at-large-hannah-ehrlinspiel">
@@ -33,16 +38,12 @@ class AtLarge extends PureComponent {
               <Link href="#at-large-aaron-hall">Aaron Hall</Link>
               <Link href="#at-large-jeremy-gong">Jeremy Gong</Link>
               <Link href="#at-large-kate-mcdonnell">Kate McDonnell</Link>
-              <Link href="#at-large-keith-brower-brown">
-                Keith Brower Brown
-              </Link>
+              <Link href="#at-large-william-orr">William Orr</Link>
               <Link href="#at-large-matt-stone">Matt Stone</Link>
               <Link href="#at-large-megan-svoboda">Megan Svoboda</Link>
-              <Link href="#at-large-nestor-castillo">Nestor Castillo</Link>
-              <Link href="#at-large-sandy-barnard">Sandy Barnard</Link>
-              <Link href="#at-large-william-orr">William Orr</Link>
             </Container>
           </NavAnchor>
+
           <Candidate name="Hasan-Can Arat" anchor="at-large-hasan-can-arat">
             <CandidateHeader
               img="hasan.jpg"
@@ -100,6 +101,158 @@ class AtLarge extends PureComponent {
                 arts for 20 years.
               </P>
               <P>Push back. Dont stop pushing."</P>
+            </CandidateStatment>
+          </Candidate>
+
+          <Candidate name="Sandy Barnard" anchor="at-large-sandy-barnard">
+            <CandidateHeader
+              img="sandy.jpg"
+              nominations={[
+                'Matt Stone',
+                'Hannah Ehrlinspiel',
+                'Sean Murphy',
+                'Frances Reade',
+                'Graham Denevan'
+              ]}
+            />
+            <CandidateStatment>
+              <P>
+                I have been organizing for three years, on issues ranging from
+                mental health services to increasing the minimum wage. I have
+                worked on electoral campaigns ranging from student body
+                president to Bernie's campaign for president of the United
+                States. I built an organization from scratch, that began with 5
+                people in a room talking about fossil fuel divestment, and grew
+                into a statewide organization fighting for free higher education
+                in Iowa. I am always working to expand the range of the
+                possible, while remaining realistic about the power we have, and
+                the power we need to win. I intend to use my at-large position
+                to expand our leadership development program to ensure that
+                everyone working on our campaigns has the tools they need to
+                flourish. I want to organize our organizers.
+              </P>
+              <P>
+                I need Medicare for All. I am a member of an expensive high-risk
+                pool, and given my family history, I feel confident that I will
+                have an expensive cancer one day. I am fighting for my own
+                future. The successes in my organizing life, including Bernie's
+                blowout win in my county and my college's commitment to fossil
+                fuel divestment, came from specific, disciplined demands,
+                strategies and tactics. My wins came from the unglamorous work
+                of meetings, data management, canvasses, and talking with people
+                individually. Our task is to turn the politically impossible
+                into the politically inevitable, and I intend to work until we
+                win.
+              </P>
+            </CandidateStatment>
+          </Candidate>
+
+          <Candidate
+            name="Keith Brower Brown"
+            anchor="at-large-keith-brower-brown">
+            <CandidateHeader
+              img="keith.jpg"
+              nominations={[
+                'Hannah Ehrlinspiel',
+                'Daniel D',
+                'Coleman Lukas',
+                'Sean Murphy',
+                'Frances Reade'
+              ]}
+            />
+            <CandidateStatment>
+              <P>
+                You might recognize me as an outspoken leader in our housing
+                campaign to win universal rent control and beautiful social
+                housing for all. I am dedicated to organizing a housing campaign
+                that can bring in and build up new organizers from across the
+                East Bay's working class.
+              </P>
+              <P>
+                I organize for socialism for very personal reasons. My dad and
+                his family came to the Bay as German-Jewish refugees. My
+                longtime Oakland home is deeply insecure, rent-decontrolled by
+                Costa-Hawkins, all so my landlord in Paris can get rich. I won't
+                stop fighting until we have broken the power of capitalists to
+                get rich by pitting working people against each other and
+                forcing us from our homes.
+              </P>
+              <P>
+                Before joining DSA at the end of 2016, I was involved for a
+                decade in local organizing, including stretches volunteering
+                with the Ella Baker Center, the anti-austerity Berkeley student
+                movement, and the Oakland Justice Coalition campaigns for tenant
+                protection and police accountability measures in 2016. For work,
+                I am a social science educator-in-training, an education union
+                activist and department steward with UAW-2865, and have written
+                for Jacobin. In our chapter, in addition to my housing
+                organizing, I led our fabulous first propaganda committee for
+                six months, and currently lead our 160-member Mobilizer program
+                in neighborhoods from Albany to San Leandro.
+              </P>
+              <P>
+                Leaders in our organization need to listen carefully and lead
+                boldly. If you've organized with me, I hope you've felt my deep
+                dedication to the care work needed in supporting developing
+                organizers and opening inclusive, democratic spaces—that work
+                must be constant. I also believe leaders must put forward a
+                clear political strategy for the chapter to debate. I stand
+                proudly for the Bread & Roses platform and priorities as the
+                best strategy yet to develop our chapter into the visionary,
+                inclusive center of a powerful working class mass movement.
+              </P>
+            </CandidateStatment>
+          </Candidate>
+
+          <Candidate name="Nestor Castillo" anchor="at-large-nestor-castillo">
+            <CandidateHeader
+              img="nestor.jpg"
+              nominations={[
+                'Ahmed Kanna',
+                'Celina Chan',
+                'Noah Kirshbaum-Ray',
+                'Karina Stenquist',
+                'Sergio Guadarrama'
+              ]}
+            />
+            <CandidateStatment>
+              <P>
+                Before becoming a member of DSA, I was looking to join a
+                socialist organization that not only reflected my values, but
+                that was actually doing something. I was tired of my socialist
+                practice being defined by sitting in reading circles and
+                debating socialism. Although that is a very important aspect of
+                being a socialist, I wanted to engage in the practice of
+                socialism and since joining East Bay DSA that is what I've done.
+              </P>
+              <P>
+                I've participated in a number of canvasses for Medicare-for-all,
+                served as an alternate delegate to the DSA national convention
+                in Chicago, participated in the mobilizer pilot program.
+                Additionally, I've been informally organizing the Socialists of
+                Color Socials, as well as the San Leandro-Hayward Socials, with
+                the goal of expanding our work beyond the hubs of North Oakland
+                and Berkeley.
+              </P>
+              <P>
+                One of the areas that I am dedicated to improving is the
+                critical need for more people of color in our membership. Our
+                organization is at a turning point and our membership recognizes
+                that we need to do better. The question that needs to be asked
+                is does our leadership recognize this? We need diversity not for
+                the sake of diversity, but because our struggle for socialism
+                and democracy will not bring the change we want unless it is one
+                that is inclusive of all. Our organization needs to reflect the
+                interests of the poor working class if we are going to be taken
+                seriously and if we want to win.
+              </P>
+              <P>
+                We can achieve this through genuine collaboration, strong
+                coalition, and broad based building. It will take all of us to
+                step up as leaders in our organization and put solidarity into
+                practice. Vote for me and we can begin to make East Bay DSA
+                reflect the world we are looking to build.
+              </P>
             </CandidateStatment>
           </Candidate>
 
@@ -453,59 +606,53 @@ class AtLarge extends PureComponent {
               <P>I look forward to representing you!</P>
             </CandidateStatment>
           </Candidate>
-          <Candidate
-            name="Keith Brower Brown"
-            anchor="at-large-keith-brower-brown">
+
+          <Candidate name="William Orr" anchor="at-large-william-orr">
             <CandidateHeader
-              img="keith.jpg"
+              img="william.jpg"
               nominations={[
-                'Hannah Ehrlinspiel',
-                'Daniel D',
-                'Coleman Lukas',
-                'Sean Murphy',
-                'Frances Reade'
+                'Karina Stenquist',
+                'Antonio Birbeck-Herrera',
+                'Noah Kirshbaum-Ray',
+                'Hasan-Can Arat',
+                'Sergio Guadarrama'
               ]}
             />
             <CandidateStatment>
               <P>
-                You might recognize me as an outspoken leader in our housing
-                campaign to win universal rent control and beautiful social
-                housing for all. I am dedicated to organizing a housing campaign
-                that can bring in and build up new organizers from across the
-                East Bay's working class.
+                I'm Will. I'm a construction worker and political organizer
+                running for an At-Large position. I am a carpenter in the
+                Arizmendi construction workers' cooperative, where I serve on
+                their policy council. This last year, as a member of the DSA, I
+                have been organizing tenants with the Communist Caucus. I have
+                been organizing in Oakland for the past nine years.
               </P>
               <P>
-                I organize for socialism for very personal reasons. My dad and
-                his family came to the Bay as German-Jewish refugees. My
-                longtime Oakland home is deeply insecure, rent-decontrolled by
-                Costa-Hawkins, all so my landlord in Paris can get rich. I won't
-                stop fighting until we have broken the power of capitalists to
-                get rich by pitting working people against each other and
-                forcing us from our homes.
+                I was part of the Oscar Grant movement. As a community college
+                student I organized childcare workers and custodians. I also
+                organized a struggle for gender-neutral bathrooms on campus. I
+                helped found the East Bay Solidarity network, which fought to
+                win the demands of workers and tenants. I was also part of
+                Occupy Oakland, the most radical occupation site in the United
+                States.
               </P>
               <P>
-                Before joining DSA at the end of 2016, I was involved for a
-                decade in local organizing, including stretches volunteering
-                with the Ella Baker Center, the anti-austerity Berkeley student
-                movement, and the Oakland Justice Coalition campaigns for tenant
-                protection and police accountability measures in 2016. For work,
-                I am a social science educator-in-training, an education union
-                activist and department steward with UAW-2865, and have written
-                for Jacobin. In our chapter, in addition to my housing
-                organizing, I led our fabulous first propaganda committee for
-                six months, and currently lead our 160-member Mobilizer program
-                in neighborhoods from Albany to San Leandro.
+                As an At-large member of the Steering Committee, I intend to
+                increase member control within the organization. I hope to
+                develop projects like tenant councils, which offer East Bay DSA
+                members additional opportunity to become involved, and which are
+                focused on organized class power, beyond electoralism. I would
+                like to help develop a more robust education program that
+                focuses on anti-imperialism, Oakland's radical black & brown
+                history, and have this knowledge inform East Bay DSA's culture
+                and activity. I wish to provide and improve avenues for open
+                debate and organic conversation between members to help resolve
+                current chapter tensions.
               </P>
               <P>
-                Leaders in our organization need to listen carefully and lead
-                boldly. If you've organized with me, I hope you've felt my deep
-                dedication to the care work needed in supporting developing
-                organizers and opening inclusive, democratic spaces—that work
-                must be constant. I also believe leaders must put forward a
-                clear political strategy for the chapter to debate. I stand
-                proudly for the Bread & Roses platform and priorities as the
-                best strategy yet to develop our chapter into the visionary,
-                inclusive center of a powerful working class mass movement.
+                I'm incredibly excited to transform East Bay DSA into a
+                successful organization that has meaningful roots in our
+                communities, workplaces, and schools.
               </P>
             </CandidateStatment>
           </Candidate>
@@ -611,151 +758,6 @@ class AtLarge extends PureComponent {
                 we continue to grow DSA as a movement for millions of people and
                 I'm honored to be this work with all of you. Love and solidarity
                 forever!
-              </P>
-            </CandidateStatment>
-          </Candidate>
-
-          <Candidate name="Nestor Castillo" anchor="at-large-nestor-castillo">
-            <CandidateHeader
-              img="nestor.jpg"
-              nominations={[
-                'Ahmed Kanna',
-                'Celina Chan',
-                'Noah Kirshbaum-Ray',
-                'Karina Stenquist',
-                'Sergio Guadarrama'
-              ]}
-            />
-            <CandidateStatment>
-              <P>
-                Before becoming a member of DSA, I was looking to join a
-                socialist organization that not only reflected my values, but
-                that was actually doing something. I was tired of my socialist
-                practice being defined by sitting in reading circles and
-                debating socialism. Although that is a very important aspect of
-                being a socialist, I wanted to engage in the practice of
-                socialism and since joining East Bay DSA that is what I've done.
-              </P>
-              <P>
-                I've participated in a number of canvasses for Medicare-for-all,
-                served as an alternate delegate to the DSA national convention
-                in Chicago, participated in the mobilizer pilot program.
-                Additionally, I've been informally organizing the Socialists of
-                Color Socials, as well as the San Leandro-Hayward Socials, with
-                the goal of expanding our work beyond the hubs of North Oakland
-                and Berkeley.
-              </P>
-              <P>
-                One of the areas that I am dedicated to improving is the
-                critical need for more people of color in our membership. Our
-                organization is at a turning point and our membership recognizes
-                that we need to do better. The question that needs to be asked
-                is does our leadership recognize this? We need diversity not for
-                the sake of diversity, but because our struggle for socialism
-                and democracy will not bring the change we want unless it is one
-                that is inclusive of all. Our organization needs to reflect the
-                interests of the poor working class if we are going to be taken
-                seriously and if we want to win.
-              </P>
-              <P>
-                We can achieve this through genuine collaboration, strong
-                coalition, and broad based building. It will take all of us to
-                step up as leaders in our organization and put solidarity into
-                practice. Vote for me and we can begin to make East Bay DSA
-                reflect the world we are looking to build.
-              </P>
-            </CandidateStatment>
-          </Candidate>
-
-          <Candidate name="Sandy Barnard" anchor="at-large-sandy-barnard">
-            <CandidateHeader
-              img="sandy.jpg"
-              nominations={[
-                'Matt Stone',
-                'Hannah Ehrlinspiel',
-                'Sean Murphy',
-                'Frances Reade',
-                'Graham Denevan'
-              ]}
-            />
-            <CandidateStatment>
-              <P>
-                I have been organizing for three years, on issues ranging from
-                mental health services to increasing the minimum wage. I have
-                worked on electoral campaigns ranging from student body
-                president to Bernie's campaign for president of the United
-                States. I built an organization from scratch, that began with 5
-                people in a room talking about fossil fuel divestment, and grew
-                into a statewide organization fighting for free higher education
-                in Iowa. I am always working to expand the range of the
-                possible, while remaining realistic about the power we have, and
-                the power we need to win. I intend to use my at-large position
-                to expand our leadership development program to ensure that
-                everyone working on our campaigns has the tools they need to
-                flourish. I want to organize our organizers.
-              </P>
-              <P>
-                I need Medicare for All. I am a member of an expensive high-risk
-                pool, and given my family history, I feel confident that I will
-                have an expensive cancer one day. I am fighting for my own
-                future. The successes in my organizing life, including Bernie's
-                blowout win in my county and my college's commitment to fossil
-                fuel divestment, came from specific, disciplined demands,
-                strategies and tactics. My wins came from the unglamorous work
-                of meetings, data management, canvasses, and talking with people
-                individually. Our task is to turn the politically impossible
-                into the politically inevitable, and I intend to work until we
-                win.
-              </P>
-            </CandidateStatment>
-          </Candidate>
-
-          <Candidate name="William Orr" anchor="at-large-william-orr">
-            <CandidateHeader
-              img="william.jpg"
-              nominations={[
-                'Karina Stenquist',
-                'Antonio Birbeck-Herrera',
-                'Noah Kirshbaum-Ray',
-                'Hasan-Can Arat',
-                'Sergio Guadarrama'
-              ]}
-            />
-            <CandidateStatment>
-              <P>
-                I'm Will. I'm a construction worker and political organizer
-                running for an At-Large position. I am a carpenter in the
-                Arizmendi construction workers' cooperative, where I serve on
-                their policy council. This last year, as a member of the DSA, I
-                have been organizing tenants with the Communist Caucus. I have
-                been organizing in Oakland for the past nine years.
-              </P>
-              <P>
-                I was part of the Oscar Grant movement. As a community college
-                student I organized childcare workers and custodians. I also
-                organized a struggle for gender-neutral bathrooms on campus. I
-                helped found the East Bay Solidarity network, which fought to
-                win the demands of workers and tenants. I was also part of
-                Occupy Oakland, the most radical occupation site in the United
-                States.
-              </P>
-              <P>
-                As an At-large member of the Steering Committee, I intend to
-                increase member control within the organization. I hope to
-                develop projects like tenant councils, which offer East Bay DSA
-                members additional opportunity to become involved, and which are
-                focused on organized class power, beyond electoralism. I would
-                like to help develop a more robust education program that
-                focuses on anti-imperialism, Oakland's radical black & brown
-                history, and have this knowledge inform East Bay DSA's culture
-                and activity. I wish to provide and improve avenues for open
-                debate and organic conversation between members to help resolve
-                current chapter tensions.
-              </P>
-              <P>
-                I'm incredibly excited to transform East Bay DSA into a
-                successful organization that has meaningful roots in our
-                communities, workplaces, and schools.
               </P>
             </CandidateStatment>
           </Candidate>

@@ -13,13 +13,6 @@ class Venue extends PureComponent {
           <Container>
             <H2>Venue, Accomodations and Accessibility</H2>
             <P>
-              <Link href="https://www.eastbaydsa.org/event-meeting-2018-03-24-pre-convention-informational-meeting">
-                Informational Meeting
-              </Link>
-              <br />Saturday, March 24, 2pm - 4pm<br />East Bay Community Space
-              <br />507 55th St, Oakland
-            </P>
-            <P>
               <Link href="https://www.eastbaydsa.org/event-meeting-2018-04-22-candidate-forum">
                 Candidate Forum
               </Link>
@@ -40,9 +33,20 @@ class Venue extends PureComponent {
               <br />155 Grand Ave, Oakland
             </P>
             <P>
-              CNA offices are wheelchair accessible with accessible restrooms.
-              More detailed accessibility information will be posted as soon as
-              possible.
+              The California Nurses Association is wheelchair-accessible with
+              accessible restrooms.
+            </P>
+            <P>
+              EBDSA will provide child supervision; please
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQhhqJbB6f3bFsgyC7OQ8q7PWv28BhRjoAyL_vI0cude8OjQ/viewform">
+                fill out this form
+              </a>
+              ahead of time if you will need child supervision. If anyone would
+              like an ASL interpreter for the convention, we have volunteers
+              available; please email{' '}
+              <a href="mailto:gm@eastbaydsa.org">gm@eastbaydsa.org</a> if an
+              interpreter is desired. Any other accessibility questions or
+              requests can also be sent to that email address.
             </P>
             <P>
               If you require any accessible accommodations to participate fully

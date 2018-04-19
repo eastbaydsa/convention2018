@@ -1,6 +1,6 @@
-import React from "react";
-import styled from "styled-components";
-import IndexLink from "./IndexLink";
+import React from 'react';
+import styled from 'styled-components';
+import IndexLink from './IndexLink';
 
 const Wrapper = styled.div`
   padding: 0 20px;
@@ -19,11 +19,12 @@ function Index(props) {
   return (
     <Wrapper>
       <Title>{props.title}</Title>
-      {props.links.map((link, i) => (
+      {props.links.map(link => (
         <IndexLink
-          number={i + 1}
+          number={link.num}
           onClick={props.onAnyLinkClicked}
           key={link.to}
+          indent={link.indent}
           {...link}
         />
       ))}
