@@ -284,7 +284,7 @@ class AtLarge extends PureComponent {
                 'Claudette Begin',
                 'Maia Averett',
                 'Ahmed Kanna',
-                'Dominic Dagradi',
+                'Khawer Khan',
                 'John Pearson'
               ]}
             />
