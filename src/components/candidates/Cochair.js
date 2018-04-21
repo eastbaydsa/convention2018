@@ -51,11 +51,11 @@ class Cochair extends PureComponent {
             <CandidateHeader
               img="rosa.jpg"
               nominations={[
-                'Angie LaFlame',
+                'Angie L.',
                 'June LS',
-                'Antonio Birbeck-Herrera',
-                'Karina Stenquist',
-                'Noah Kirshbaum-Ray'
+                'Antonio B.H.',
+                'Karina S.',
+                'Noah K.R.'
               ]}
             />
             <CandidateStatment>
@@ -107,11 +107,11 @@ class Cochair extends PureComponent {
             <CandidateHeader
               img="angie.jpg"
               nominations={[
-                'Rosa Astra',
+                'Rosa A',
                 'June LS',
-                'Antonio Birbeck-Herrera',
-                'Karina Stenquist',
-                'Noah Kirshbaum-Ray'
+                'Antonio B.H.',
+                'Karina S.',
+                'Noah K.R.'
               ]}
             />
             <CandidateStatment>
@@ -176,11 +176,11 @@ class Cochair extends PureComponent {
             <CandidateHeader
               img="frances.jpg"
               nominations={[
-                'Zach McDonald',
+                'Zach M.',
                 'Daniel D',
-                'Matt Stone',
-                'Hannah Ehrlinspiel',
-                'Sean Murphy'
+                'Matt S.',
+                'Hannah E.',
+                'Sean M.'
               ]}
             />
             <CandidateStatment>
@@ -231,11 +231,11 @@ class Cochair extends PureComponent {
             <CandidateHeader
               img="zach.jpg"
               nominations={[
-                'Frances Reade',
-                'Daniel D',
-                'Matt Stone',
-                'Sean Murphy',
-                'Hannah Ehrlinspiel'
+                'Frances R.',
+                'Daniel D.',
+                'Matt S.',
+                'Sean M.',
+                'Hannah E.'
               ]}
             />
             <CandidateStatment>

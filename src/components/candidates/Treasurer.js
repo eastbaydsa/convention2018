@@ -31,7 +31,7 @@ class Treasurer extends PureComponent {
 
               <H2>Candidates</H2>
               <CandidateLink href="#treasurer-antonio-birbeck-herrera">
-                Antonio Birbeck-Herrera
+                Antonio B.H.
               </CandidateLink>
               <CandidateLink href="#treasurer-sean-murphy">
                 Sean Murphy
@@ -39,16 +39,16 @@ class Treasurer extends PureComponent {
             </Container>
           </NavAnchor>
           <Candidate
-            name="Antonio Birbeck-Herrera"
+            name="Antonio B.H."
             anchor="treasurer-antonio-birbeck-herrera">
             <CandidateHeader
               img="antonio.jpg"
               nominations={[
-                'Justin Gilmore',
-                'Hasan-Can Arat',
-                'Sergio Guadarrama',
-                'Noah Kirshbaum-Ray',
-                'Kevin Arauz'
+                'Justin G.',
+                'Hasan-Can A.',
+                'Sergio G.',
+                'Noah K.R.',
+                'Kevin A.'
               ]}
             />
             <CandidateStatment>
@@ -102,11 +102,11 @@ class Treasurer extends PureComponent {
             <CandidateHeader
               img="sean.jpg"
               nominations={[
-                'Daniel D',
-                'Matt Stone',
-                'Jeff Lee',
-                'Hannah Ehrlinspiel',
-                'Coleman Lukas'
+                'Daniel D.',
+                'Matt S.',
+                'Jeff L.',
+                'Hannah E.',
+                'Coleman L.'
               ]}
             />
             <CandidateStatment>

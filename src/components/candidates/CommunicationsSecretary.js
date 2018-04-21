@@ -39,11 +39,11 @@ class CommunicationsSecretary extends PureComponent {
             <CandidateHeader
               img="dominic.jpg"
               nominations={[
-                'Jeff Lee',
-                'Maia Averett',
-                'Ahmed Kanna',
-                'Emily Claffy',
-                'Rosa Astra'
+                'Jeff L.',
+                'Maia A.',
+                'Ahmed K.',
+                'Emily C.',
+                'Rosa A.'
               ]}
             />
             <CandidateStatment>
@@ -98,11 +98,11 @@ class CommunicationsSecretary extends PureComponent {
             <CandidateHeader
               img="miguel.jpg"
               nominations={[
-                'Matt Stone',
-                'Hannah Ehrlinspiel',
-                'Sean Murpht',
-                'Coleman Lukas',
-                'Frances Reade'
+                'Matt S.',
+                'Hannah E.',
+                'Sean M.',
+                'Coleman L.',
+                'Frances R.'
               ]}
             />
             <CandidateStatment>

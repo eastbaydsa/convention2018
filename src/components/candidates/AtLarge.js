@@ -73,10 +73,10 @@ class AtLarge extends PureComponent {
               img="hasan.jpg"
               nominations={[
                 'June LS',
-                'Elizabeth Cho',
-                'Kelsey James',
-                'Justin Gilmore',
-                'Sergio Guadarrama'
+                'Elizabeth C.',
+                'Kelsey J.',
+                'Justin G.',
+                'Sergio G.'
               ]}
             />
             <CandidateStatment>
@@ -132,11 +132,11 @@ class AtLarge extends PureComponent {
             <CandidateHeader
               img="sandy.jpg"
               nominations={[
-                'Matt Stone',
-                'Hannah Ehrlinspiel',
-                'Sean Murphy',
-                'Frances Reade',
-                'Graham Denevan'
+                'Matt S.',
+                'Hannah E.',
+                'Sean M.',
+                'Frances R.',
+                'Graham D.'
               ]}
             />
             <CandidateStatment>
@@ -177,11 +177,11 @@ class AtLarge extends PureComponent {
             <CandidateHeader
               img="keith.jpg"
               nominations={[
-                'Hannah Ehrlinspiel',
-                'Daniel D',
-                'Coleman Lukas',
-                'Sean Murphy',
-                'Frances Reade'
+                'Hannah E.',
+                'Daniel D.',
+                'Coleman L.',
+                'Sean M.',
+                'Frances R.'
               ]}
             />
             <CandidateStatment>
@@ -232,11 +232,11 @@ class AtLarge extends PureComponent {
             <CandidateHeader
               img="nestor.jpg"
               nominations={[
-                'Ahmed Kanna',
-                'Celina Chan',
-                'Noah Kirshbaum-Ray',
-                'Karina Stenquist',
-                'Sergio Guadarrama'
+                'Ahmed K.',
+                'Celina C.',
+                'Noah K.R.',
+                'Karina S.',
+                'Sergio G.'
               ]}
             />
             <CandidateStatment>
@@ -284,11 +284,11 @@ class AtLarge extends PureComponent {
             <CandidateHeader
               img="emily.jpg"
               nominations={[
-                'Noah Kirshbaum-Ray',
-                'Dominic Dagradi',
-                'Rosa Astra',
-                'Hasan-Can Arat',
-                'Sergio Guadarrama'
+                'Noah K.R.',
+                'Dominic D.',
+                'Rosa A.',
+                'Hasan-Can A.',
+                'Sergio G.'
               ]}
             />
             <CandidateStatment>
@@ -354,11 +354,11 @@ class AtLarge extends PureComponent {
             <CandidateHeader
               img="dan.jpg"
               nominations={[
-                'Matt Stone',
-                'Hannah Ehrlinspiel',
-                'Sean Murphy',
-                'Frances Reade',
-                'Miguel Duarte'
+                'Matt S.',
+                'Hannah E.',
+                'Sean M.',
+                'Frances R.',
+                'Miguel D.'
               ]}
             />
             <CandidateStatment>
@@ -405,11 +405,11 @@ class AtLarge extends PureComponent {
             <CandidateHeader
               img="hannah.jpg"
               nominations={[
-                'Graham Denevan',
-                'Daniel D',
-                'Matt Stone',
-                'Frances Reade',
-                'Miguel Duarte'
+                'Graham D.',
+                'Daniel D.',
+                'Matt S.',
+                'Frances R.',
+                'Miguel D.'
               ]}
             />
             <CandidateStatment>
@@ -458,11 +458,11 @@ class AtLarge extends PureComponent {
             <CandidateHeader
               img="aaron.jpg"
               nominations={[
-                'Claudette Begin',
-                'Maia Averett',
-                'Ahmed Kanna',
-                'Khawer Khan',
-                'John Pearson'
+                'Claudette B.',
+                'Maia A.',
+                'Ahmed K.',
+                'Khawer K.',
+                'John P.'
               ]}
             />
             <CandidateStatment>
@@ -514,11 +514,11 @@ class AtLarge extends PureComponent {
             <CandidateHeader
               img="jeremy.jpg"
               nominations={[
-                'Daniel D',
-                'Matt Stone',
-                'Hannah Ehrlinspiel',
-                'Coleman Lukas',
-                'Sean Murphy'
+                'Daniel D.',
+                'Matt S.',
+                'Hannah E.',
+                'Coleman L.',
+                'Sean M.'
               ]}
             />
             <CandidateStatment>
@@ -568,11 +568,11 @@ class AtLarge extends PureComponent {
             <CandidateHeader
               img="kate.jpg"
               nominations={[
-                'Antonio Birbeck-Herrera',
-                'Noah Kirshbaum-Ray',
-                'Rosa Astra',
-                'Hasan-Can Arat',
-                'Sergio Guadarrama'
+                'Antonio B.H.',
+                'Noah K.R.',
+                'Rosa A.',
+                'Hasan-Can A.',
+                'Sergio G.'
               ]}
             />
             <CandidateStatment>
@@ -635,11 +635,11 @@ class AtLarge extends PureComponent {
             <CandidateHeader
               img="william.jpg"
               nominations={[
-                'Karina Stenquist',
-                'Antonio Birbeck-Herrera',
-                'Noah Kirshbaum-Ray',
-                'Hasan-Can Arat',
-                'Sergio Guadarrama'
+                'Karina S.',
+                'Antonio B.H.',
+                'Noah K.R.',
+                'Hasan-Can A.',
+                'Sergio G.'
               ]}
             />
             <CandidateStatment>
@@ -686,10 +686,10 @@ class AtLarge extends PureComponent {
               img="matt.jpg"
               nominations={[
                 'Daniel D',
-                'Hannah Ehrlinspiel',
-                'Coleman Lukas',
-                'Sean Murphy',
-                'Frances Reade'
+                'Hannah E.',
+                'Coleman L.',
+                'Sean M.',
+                'Frances R.'
               ]}
             />
             <CandidateStatment>
@@ -741,10 +741,10 @@ class AtLarge extends PureComponent {
               img="megan.jpg"
               nominations={[
                 'Daniel D',
-                'Matt Stone',
-                'Hannah Ehrlinspiel',
-                'Sean Murphy',
-                'Michael Kaufman'
+                'Matt S.',
+                'Hannah E.',
+                'Sean M.',
+                'Michael K.'
               ]}
             />
             <CandidateStatment>

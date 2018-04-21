@@ -54,11 +54,11 @@ class RecordingSecretary extends PureComponent {
             <CandidateHeader
               img="mark.jpg"
               nominations={[
-                'Matt Stone',
-                'Hannah Ehrlinspiel',
-                'Sean Murphy',
-                'Frances Reade',
-                'Miguel Duarte'
+                'Matt S.',
+                'Hannah E.',
+                'Sean M.',
+                'Frances R.',
+                'Miguel D.'
               ]}
             />
             <CandidateStatment>
@@ -115,11 +115,11 @@ class RecordingSecretary extends PureComponent {
             <CandidateHeader
               img="karina.jpg"
               nominations={[
-                'Justin Gilmore',
-                'Antonio Birbeck-Herrera',
-                'Sergio Guadarrama',
-                'Noah Kirshbaum-Ray',
-                'David Spenger'
+                'Justin G.',
+                'Antonio B.H.',
+                'Sergio G.',
+                'Noah K.R.',
+                'David S.'
               ]}
             />
             <CandidateStatment>

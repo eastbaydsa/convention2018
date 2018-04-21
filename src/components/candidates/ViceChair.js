@@ -41,11 +41,11 @@ class ViceChair extends PureComponent {
             <CandidateHeader
               img="sergio.jpg"
               nominations={[
-                'Noah Kirshbaum-Ray',
-                'Justin Gilmore',
-                'Antonio Birbeck-Herrera',
-                'Karina Stenquist',
-                'Kate McDonnell'
+                'Noah K.R.',
+                'Justin G.',
+                'Antonio B.H.',
+                'Karina S.',
+                'Kate M.'
               ]}
             />
             <CandidateStatment>
@@ -99,11 +99,11 @@ class ViceChair extends PureComponent {
             <CandidateHeader
               img="abigail.jpg"
               nominations={[
-                'Sean Murphy',
+                'Sean M.',
                 'Daniel D',
-                'Hannah Ehrlinspiel',
-                'Matt Stone',
-                'Coleman Lukas'
+                'Hannah E.',
+                'Matt S.',
+                'Coleman L.'
               ]}
             />
             <CandidateStatment>
