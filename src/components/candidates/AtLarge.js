@@ -30,7 +30,7 @@ class AtLarge extends PureComponent {
 
               <H2>Candidates</H2>
               <CandidateLink href="#at-large-hasan-can-arat">
-                Hasan-Can Arat
+                Hasan A.
               </CandidateLink>
               <CandidateLink href="#at-large-sandy-barnard">
                 Sandy Barnard
@@ -44,7 +44,7 @@ class AtLarge extends PureComponent {
               <CandidateLink href="#at-large-emily-claffy">
                 Emily Claffy
               </CandidateLink>
-              <CandidateLink href="#at-large-dan-d">Dan D</CandidateLink>
+              <CandidateLink href="#at-large-dan-d">Dan D.</CandidateLink>
               <CandidateLink href="#at-large-hannah-ehrlinspiel">
                 Hannah Ehrlinspiel
               </CandidateLink>
@@ -69,7 +69,7 @@ class AtLarge extends PureComponent {
             </Container>
           </NavAnchor>
 
-          <Candidate name="Hasan-Can Arat" anchor="at-large-hasan-can-arat">
+          <Candidate name="Hasan A." anchor="at-large-hasan-can-arat">
             <CandidateHeader
               img="hasan.jpg"
               nominations={[
@@ -288,7 +288,7 @@ class AtLarge extends PureComponent {
                 'Noah K.R.',
                 'Dominic D.',
                 'Rosa A.',
-                'Hasan-Can A.',
+                'Hasan A.',
                 'Sergio G.'
               ]}
             />
@@ -351,7 +351,7 @@ class AtLarge extends PureComponent {
             </CandidateStatment>
           </Candidate>
 
-          <Candidate name="Dan D" anchor="at-large-dan-d">
+          <Candidate name="Dan D." anchor="at-large-dan-d">
             <CandidateHeader
               img="dan.jpg"
               nominations={[
@@ -572,7 +572,7 @@ class AtLarge extends PureComponent {
                 'Antonio B.H.',
                 'Noah K.R.',
                 'Rosa A.',
-                'Hasan-Can A.',
+                'Hasan A.',
                 'Sergio G.'
               ]}
             />
@@ -639,7 +639,7 @@ class AtLarge extends PureComponent {
                 'Karina S.',
                 'Antonio B.H.',
                 'Noah K.R.',
-                'Hasan-Can A.',
+                'Hasan A.',
                 'Sergio G.'
               ]}
             />

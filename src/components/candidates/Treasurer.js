@@ -45,7 +45,7 @@ class Treasurer extends PureComponent {
               img="antonio.jpg"
               nominations={[
                 'Justin G.',
-                'Hasan-Can A.',
+                'Hasan A.',
                 'Sergio G.',
                 'Noah K.R.',
                 'Kevin A.'
