@@ -17,15 +17,16 @@ class AtLarge extends PureComponent {
         <Section>
           <NavAnchor anchor={this.props.anchor}>
             <Container>
-              <H2>At-Large Member</H2>
+              <H2>At-Large Members</H2>
               <P>
-                At-Large Local Council Members will participate in Local Council
-                decision-making, and are responsible for attending all relevant
-                meetings and reading all relevant documents. At-Large Local
-                Council members are also tasked with representing the views of
-                the membership that elected them as well as helping to advance
-                the goals of the Local generally.
+                At-Large Steering Committee Members will participate in Steering
+                Committee decision-making, and are responsible for attending all
+                relevant meetings and reading all relevant documents. At-Large
+                Local Council members are also tasked with representing the
+                views of the membership that elected them as well as helping to
+                advance the goals of the Local generally.
               </P>
+              <P>There are seven At-Large Members to be elected.</P>
 
               <H2>Candidates</H2>
               <CandidateLink href="#at-large-hasan-can-arat">
