@@ -82,7 +82,7 @@ class AtLarge extends PureComponent {
             />
             <CandidateStatment>
               <P>
-                "Radicals should say what only radicals could say: I've “spoken
+                Radicals should say what only radicals could say: I've “spoken
                 truth to power” and challenged conservative bullshit since
                 childhood. As a far-left EastCoast f*gg*ty hot mess of Turkish
                 descent, my politics are informed by politically charged trauma
@@ -125,7 +125,7 @@ class AtLarge extends PureComponent {
                 “Belly” and “Sailor Moon”. I've practiced occult and esoteric
                 arts for 20 years.
               </P>
-              <P>Push back. Dont stop pushing."</P>
+              <P>Push back. Dont stop pushing.</P>
             </CandidateStatment>
           </Candidate>
 
