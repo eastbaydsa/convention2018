@@ -26,9 +26,9 @@ class Elections extends PureComponent {
               new Steering Committee. If you are unable to attend the convention
               due to accessibility issues, work or care responsibilities, or
               travel outside of the East Bay, please email{' '}
-              <Link href="mailto:gm@eastbaydsa.org">gm@eastbaydsa.org</Link> and
-              you will be provided with instructions for submitting a proxy
-              ballot.
+              <Link href="mailto:gm@eastbaydsa.org">gm@eastbaydsa.org</Link>{' '}
+              before April 27th and you will be provided with instructions for
+              submitting a proxy ballot.
             </P>
             <P>
               There will be a <Underline>Candidate Forum</Underline>, open to

@@ -76,7 +76,8 @@ class CandidateStatment extends PureComponent {
       <div>
         <P>
           <A href="" onClick={this.toggleStatement}>
-            {this.state.showStatement ? 'Hide' : 'Show'} statement
+            {this.state.showStatement ? 'Hide' : 'Show'}{' '}
+            {this.props.title ? this.props.title : 'statement'}
           </A>
         </P>
         {this.state.showStatement && this.props.children}
