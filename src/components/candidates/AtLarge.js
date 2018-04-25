@@ -29,9 +29,7 @@ class AtLarge extends PureComponent {
               <P>There are seven At-Large Members to be elected.</P>
 
               <H2>Candidates</H2>
-              <CandidateLink href="#at-large-hasan-can-arat">
-                Hasan A.
-              </CandidateLink>
+              <CandidateLink href="#at-large-hasan-a">Hasan A.</CandidateLink>
               <CandidateLink href="#at-large-sandy-barnard">
                 Sandy Barnard
               </CandidateLink>
@@ -69,7 +67,7 @@ class AtLarge extends PureComponent {
             </Container>
           </NavAnchor>
 
-          <Candidate name="Hasan A." anchor="at-large-hasan-can-arat">
+          <Candidate name="Hasan A." anchor="at-large-hasan-a">
             <CandidateHeader
               img="hasan.jpg"
               nominations={[

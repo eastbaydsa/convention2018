@@ -19,11 +19,11 @@ class ViceChair extends PureComponent {
             <Container>
               <H2>Vice Chair</H2>
               <P>
-                The Vice Chair is responsible for assisting the Co-Chairs with
-                all of their duties. If both Co-Chairs are unable to perform
-                their duties, the Vice Chair shall perform all duties and assume
-                all responsibilities of the Co-Chairs until such a time as one
-                or both Co-Chairs are able to resume their posts.
+                The vice chair is responsible for assisting the co-chairs with
+                all of their duties. If both co-chairs are unable to perform
+                their duties, the vice chair shall perform all duties and assume
+                all responsibilities of the co-chairs until such a time as one
+                or both co-chairs are able to resume their posts.
               </P>
 
               <H2>Candidates</H2>

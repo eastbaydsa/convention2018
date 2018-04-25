@@ -31,25 +31,70 @@ class Elections extends PureComponent {
               submitting a proxy ballot.
             </P>
             <P>
-              There will be a <Underline>Candidate Forum</Underline>, open to
-              all members, on Sunday, April 22, from 1-3 pm at Niebyl-Proctor
-              Marxist Library. Come hear from the candidates and ask them
-              questions about their political vision for our organization! More
-              detailed info on the forum can be found on the{' '}
-              <Link href="https://www.eastbaydsa.org/event-meeting-2018-04-22-candidate-forum">
-                event page
-              </Link>{' '}
-              or on{' '}
-              <Link href="https://www.facebook.com/events/340862126423919/">
-                Facebook
-              </Link>.
+              East Bay DSA members will vote for 13 members of the Steering
+              Committee: co-chairs (2), vice chair, recording secretary,
+              communications secretary, treasurer, and at-large members (7).
             </P>
             <P>
-              Steering Committee elections are a crucial part of collectively
-              deciding the direction of our organization, but they happen in
-              conjunction with the Priorities Resolution. Candidates will be
-              running to broadly carry out the Priorities Resolution passed by
-              members.
+              For the four single-officer positions in which only two candidates
+              are running (vice-chair, recording secretary, communications
+              secretary, and treasurer), members will indicate which of the
+              candidates they wish to vote for. For each office, the candidate
+              who receives the most votes will be elected.
+            </P>
+            <P>
+              For the multi-member officer positions in which more than two
+              candidates are running (co-chair and at-large members),{' '}
+              <Strong>
+                members will rank the candidates in order of their preference.
+              </Strong>{' '}
+              Members can rank as few or as many candidates as they wish. For
+              example, a member can rank each of the 13 candidates for at-large
+              positions (1,2,3...13), or they can rank only their top three
+              preferences (1,2,3). We encourage members to mark as many rankings
+              as they feel comfortable with.
+            </P>
+            <P>
+              As per our bylaws, we will use ranked-choice voting to determine
+              the winners for those offices. The method we’re using at the
+              convention is the “single transferable vote.” More detailed
+              information on this method can be found at{' '}
+              <Link href="http://opavote.com" target="_blank">
+                OpaVote
+              </Link>. Together at the convention before the Steering Committee
+              elections, we will{' '}
+              <Link
+                href="https://www.youtube.com/watch?v=lNxwMdI8OWw
+"
+                target="_blank">
+                watch a video
+              </Link>{' '}
+              that describes in detail the way this system is used in
+              multi-member elections.
+            </P>
+            <P>
+              One of the primary advantages of the single transferable vote is
+              that voters aren’t disempowered if they vote for a candidate that
+              is very popular or for a candidate that is very unpopular. If the
+              candidate you rank as “1” surpasses the threshold necessary to be
+              elected, the “extra” part of your vote then gets transferred to
+              the candidate you rank as “2”, etc. If the candidate you rank as
+              “1” gets the fewest “1” votes of any candidate, your vote then
+              gets transferred to the candidate you rank as “2.”
+            </P>
+            <P>
+              While ranked-choice voting systems can seem a little complicated,
+              just remember:{' '}
+              <Strong>
+                for the multi-member elections (co-chair and at-large members),
+                members should rank however many candidates they wish, in order
+                of their preference.
+              </Strong>
+            </P>
+            <P>
+              After the results of the election are announced, we will also
+              publish the 14 total vote data and the results online for all
+              members to see.{' '}
             </P>
           </Container>
         </Section>

@@ -30,7 +30,7 @@ class Treasurer extends PureComponent {
               </P>
 
               <H2>Candidates</H2>
-              <CandidateLink href="#treasurer-antonio-birbeck-herrera">
+              <CandidateLink href="#treasurer-antonio-b-h">
                 Antonio B.H.
               </CandidateLink>
               <CandidateLink href="#treasurer-sean-murphy">
@@ -38,9 +38,7 @@ class Treasurer extends PureComponent {
               </CandidateLink>
             </Container>
           </NavAnchor>
-          <Candidate
-            name="Antonio B.H."
-            anchor="treasurer-antonio-birbeck-herrera">
+          <Candidate name="Antonio B.H." anchor="treasurer-antonio-b-h">
             <CandidateHeader
               img="antonio.jpg"
               nominations={[

@@ -19,17 +19,16 @@ class Cochair extends PureComponent {
             <Container>
               <H2>Co-Chairs</H2>
               <P>
-                The Co-Chairs shall be the official public spokespersons for the
-                Local and will initiate such actions and policies as the Local's
-                general welfare may demand. The Co-Chairs shall organize and
-                preside over all official meetings of the organization and the
-                Steering Committee. The Co-Chairs shall maintain consistent
-                communication with all committee leaders and facilitate
-                collaboration and coordination between them. Additionally:
-              </P>
-              <P>
-                The Co-Chairs serve as executive officers of the Local, and they
-                are listed on financial accounts along with the Treasurer.
+                The co-chairs shall be the official public spokespersons for the
+                chapter and will initiate such actions and policies as the
+                chapter’s general welfare may demand. The co-chairs shall
+                organize and preside over all official meetings of the
+                organization and the Steering Committee. The co-chairs shall
+                maintain consistent communication with all committee leaders and
+                facilitate collaboration and coordination between them.
+                Additionally, the co-chairs serve as executive officers of the
+                chapter, and they are listed on financial accounts along with
+                the treasurer.
               </P>
 
               <H2>Candidates</H2>
