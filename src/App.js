@@ -15,7 +15,6 @@ import Treasurer from './components/candidates/Treasurer';
 import AtLarge from './components/candidates/AtLarge';
 import Venue from './components/sections/Venue';
 import RSVP from './components/sections/RSVP';
-import Bylaws from './components/sections/Bylaws';
 
 const links = [
   { num: 1, label: 'Welcome', to: '/welcome' },
@@ -37,9 +36,8 @@ const links = [
   },
   { num: 'e', label: 'Treasurer', to: '/treasurer', indent: true },
   { num: 'f', label: 'At-Large Member', to: '/at-large', indent: true },
-  { num: 4, label: 'Bylaws Ammendments', to: '/bylaws' },
-  { num: 5, label: 'RSVP and Volunteer', to: '/rsvp' },
-  { num: 6, label: 'Venue, Accomodations, Accessibility', to: '/venue' }
+  { num: 4, label: 'RSVP and Volunteer', to: '/rsvp' },
+  { num: 5, label: 'Venue, Accomodations, Accessibility', to: '/venue' }
 ];
 
 const Content = () => (
@@ -56,7 +54,6 @@ const Content = () => (
     <CommunicationsSecretary anchor="communications-secretary" />
     <Treasurer anchor="treasurer" />
     <AtLarge anchor="at-large" />
-    <Bylaws anchor="bylaws" />
     <RSVP anchor="rsvp" />
     <Venue anchor="venue" />
   </div>
