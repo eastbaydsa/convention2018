@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 import Container from '../Container';
 import Section from '../Section';
-import { H2, P } from '../typography';
+import { H2, H3, P } from '../typography';
 import NavAnchor from '../NavAnchor';
 import {
   Candidate,
@@ -18,12 +18,13 @@ class CommunicationsSecretary extends PureComponent {
           <NavAnchor anchor={this.props.anchor}>
             <Container>
               <H2>Communications Secretary</H2>
-              <P>
-                The Communications Secretary shall be responsible for the member
-                newsletter and website, though each of these functions may be
-                substantially delegated to or shared with designated committees.
-              </P>
+              <P>The communications secretary shall be responsible for the member newsletter and website, though each of these functions may be substantially delegated to or shared with designated committees.</P>
+        
+            <H3>Candidates</H3>
+            <P>TBD</P>
 
+            {/*
+        
               <H2>Candidates</H2>
               <CandidateLink href="#communications-secretary-dominic-dagradi">
                 Dominic Dagradi
@@ -31,8 +32,14 @@ class CommunicationsSecretary extends PureComponent {
               <CandidateLink href="#communications-secretary-miguel-duarte">
                 Miguel Duarte
               </CandidateLink>
+              
+              */}
+        
             </Container>
           </NavAnchor>
+        
+        {/*
+        
           <Candidate
             name="Dominic Dagradi"
             anchor="communications-secretary-dominic-dagradi">
@@ -150,6 +157,9 @@ class CommunicationsSecretary extends PureComponent {
               </P>
             </CandidateStatment>
           </Candidate>
+          
+          */}
+        
         </Section>
       </div>
     );

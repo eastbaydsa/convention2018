@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 import Container from '../Container';
 import Section from '../Section';
-import { H2, P, OL, OLI } from '../typography';
+import { H2, H3, P, OL, OLI } from '../typography';
 import NavAnchor from '../NavAnchor';
 import {
   Candidate,
@@ -18,16 +18,15 @@ class AtLarge extends PureComponent {
           <NavAnchor anchor={this.props.anchor}>
             <Container>
               <H2>At-Large Members</H2>
-              <P>
-                At-Large Steering Committee Members will participate in Steering
-                Committee decision-making, and are responsible for attending all
-                relevant meetings and reading all relevant documents. At-Large
-                Local Council members are also tasked with representing the
-                views of the membership that elected them as well as helping to
-                advance the goals of the Local generally.
-              </P>
-              <P>There are seven At-Large Members to be elected.</P>
+              <P>At-large Steering Committee members will participate in Steering Committee decision-making and are responsible for attending all relevant meetings and reading all relevant documents. At-large Steering Committee members are also tasked with representing the views of the membership that elected them as well as helping to advance the goals of the chapter generally.</P>
 
+              <P>There are seven at-large members to be elected.</P>
+
+            <H3>Candidates</H3>
+        <P>TBD</P>
+        
+        {/*
+        
               <H2>Candidates</H2>
               <CandidateLink href="#at-large-hasan-a">Hasan A.</CandidateLink>
               <CandidateLink href="#at-large-sandy-barnard">
@@ -64,9 +63,14 @@ class AtLarge extends PureComponent {
               <CandidateLink href="#at-large-megan-svoboda">
                 Megan Svoboda
               </CandidateLink>
+              
+              */}
+        
             </Container>
           </NavAnchor>
 
+        {/*
+        
           <Candidate name="Hasan A." anchor="at-large-hasan-a">
             <CandidateHeader
               img="hasan.jpg"
@@ -784,6 +788,9 @@ class AtLarge extends PureComponent {
               </P>
             </CandidateStatment>
           </Candidate>
+          
+          */}
+          
         </Section>
       </div>
     );

@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 import Container from '../Container';
 import Section from '../Section';
-import { H2, P } from '../typography';
+import { H2, H3, P } from '../typography';
 import NavAnchor from '../NavAnchor';
 import {
   Candidate,
@@ -18,13 +18,12 @@ class ViceChair extends PureComponent {
           <NavAnchor anchor={this.props.anchor}>
             <Container>
               <H2>Vice Chair</H2>
-              <P>
-                The vice chair is responsible for assisting the co-chairs with
-                all of their duties. If both co-chairs are unable to perform
-                their duties, the vice chair shall perform all duties and assume
-                all responsibilities of the co-chairs until such a time as one
-                or both co-chairs are able to resume their posts.
-              </P>
+              <P>The vice chair is responsible for assisting the co-chairs with all of their duties. If both co-chairs are unable to perform their duties, the vice chair shall perform all duties and assume all responsibilities of the co-chairs until such a time as one or both co-chairs are able to resume their posts.</P>
+        
+        <H3>Candidates</H3>
+        <P>TBD</P>
+        
+            {/*
 
               <H2>Candidates</H2>
               <CandidateLink href="#vice-chair-sergio-guadarrama">
@@ -33,8 +32,14 @@ class ViceChair extends PureComponent {
               <CandidateLink href="#vice-chair-abigail-gutmann-gonzalez">
                 Abigail Gutmann-Gonzalez
               </CandidateLink>
+              
+              */}
+              
             </Container>
           </NavAnchor>
+        
+        {/*
+        
           <Candidate
             name="Sergio Guadarrama"
             anchor="vice-chair-sergio-guadarrama">
@@ -148,6 +153,9 @@ class ViceChair extends PureComponent {
               <P>Thanks for your support and trust. Solidarity forever!</P>
             </CandidateStatment>
           </Candidate>
+          
+          */}
+          
         </Section>
       </div>
     );

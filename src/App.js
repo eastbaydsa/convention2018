@@ -42,8 +42,8 @@ const links = [
 
 const Content = () => (
   <div>
-    <TopNav title="EBDSA 2018 Convention" links={links} />
-    <Cover title="East Bay DSA 2018 Chapter Convention" anchor="" />
+    <TopNav title="EBDSA 2019 Convention" links={links} />
+    <Cover title="East Bay DSA 2019 Chapter Convention" anchor="" />
     <TOC anchor="toc" links={links} />
     <WelcomeSection anchor="welcome" />
     <Priorities anchor="priorities" />

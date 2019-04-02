@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 import Container from '../Container';
 import Section from '../Section';
-import { H2, P, OL, OLI } from '../typography';
+import { H2, H3, P, OL, OLI } from '../typography';
 import NavAnchor from '../NavAnchor';
 import {
   Candidate,
@@ -18,27 +18,17 @@ class RecordingSecretary extends PureComponent {
           <NavAnchor anchor={this.props.anchor}>
             <Container>
               <H2>Recording Secretary</H2>
-              <P>
-                The Recording Secretary is responsible for taking minutes of all
-                General Membership and Local Council Meetings, and shall be
-                responsible for publishing these minutes, as well as
-                resolutions, reports, and other official records of the Local.
-                The Secretary may appoint, but must oversee, a temporary proxy
-                minutes-taker for any meeting. That proxy may not vote on behalf
-                of the Recording Secretary. Additionally:
-              </P>
+              <P>The recording secretary is responsible for taking minutes of all general membership and Steering Committee meetings and shall be responsible for publishing these minutes, as well as resolutions, reports, and other official records of the chapter. The secretary may appoint, but must oversee, a temporary proxy minutes-taker for any meeting. That proxy may not vote on behalf of the recording secretary. Additionally,</P>
+        
               <OL>
-                <OLI>
-                  The Recording Secretary shall transfer official records in
-                  good condition to their successor.
-                </OLI>
-                <OLI>
-                  The Recording Secretary will assume the responsibilities of
-                  one of the Co-Chairs, if both Co-Chairs and the Vice Chair is
-                  unable to do so.
-                </OLI>
+                <OLI>The recording secretary shall transfer official records in good condition to their successor.</OLI>
+                <OLI>The recording secretary will assume the responsibilities of one of the co-chairs, if both co-chairs and the vice chair is unable to do so.</OLI>
               </OL>
 
+            <H3>Candidates</H3>
+            <P>TBD</P>
+        {/*
+        
               <H2>Candidates</H2>
               <CandidateLink href="#recording-secretary-mark-gabriel">
                 Mark Gabriel
@@ -46,8 +36,14 @@ class RecordingSecretary extends PureComponent {
               <CandidateLink href="#recording-secretary-karina-stenquist">
                 Karina Stenquist
               </CandidateLink>
+              
+              */}
+              
             </Container>
           </NavAnchor>
+        
+        {/*
+        
           <Candidate
             name="Mark Gabriel"
             anchor="recording-secretary-mark-gabriel">
@@ -175,6 +171,9 @@ class RecordingSecretary extends PureComponent {
               </P>
             </CandidateStatment>
           </Candidate>
+          
+          */}
+          
         </Section>
       </div>
     );

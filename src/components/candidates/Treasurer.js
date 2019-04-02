@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 import Container from '../Container';
 import Section from '../Section';
-import { H2, P, OL, OLI } from '../typography';
+import { H2, H3, P, OL, OLI } from '../typography';
 import NavAnchor from '../NavAnchor';
 import {
   Candidate,
@@ -18,17 +18,13 @@ class Treasurer extends PureComponent {
           <NavAnchor anchor={this.props.anchor}>
             <Container>
               <H2>Treasurer</H2>
-              <P>
-                The Treasurer will be responsible for administration of funds,
-                budget, and financial organization of the Local, including
-                overseeing fundraising activities for the Local. The Treasurer
-                will report to the Local Council on the financial status of the
-                organization at each Local Council Meeting. The Treasurer will
-                maintain transparent and open financial reports available to the
-                entire membership upon request by an officer of the Local
-                Council.
-              </P>
+              <P>The treasurer will be responsible for administration of funds, budget, and financial organization of the chapter, including overseeing fundraising activities for the chapter. The treasurer will report to the Steering Committee on the financial status of the organization at each Steering Committee meeting. The treasurer will maintain transparent and open financial reports available to the entire membership upon request by an officer of the Steering Committee.</P>
 
+            <H3>Candidates</H3>
+            <P>TBD</P>
+        
+        {/*
+        
               <H2>Candidates</H2>
               <CandidateLink href="#treasurer-antonio-b-h">
                 Antonio B.H.
@@ -36,8 +32,14 @@ class Treasurer extends PureComponent {
               <CandidateLink href="#treasurer-sean-murphy">
                 Sean Murphy
               </CandidateLink>
+              
+              */}
+        
             </Container>
           </NavAnchor>
+        
+        {/*
+        
           <Candidate name="Antonio B.H." anchor="treasurer-antonio-b-h">
             <CandidateHeader
               img="antonio.jpg"
@@ -149,6 +151,9 @@ class Treasurer extends PureComponent {
               </P>
             </CandidateStatment>
           </Candidate>
+          
+          */}
+          
         </Section>
       </div>
     );

@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 import Container from '../Container';
 import Section from '../Section';
-import { H2, P, OL, OLI } from '../typography';
+import { H2, H3, P, OL, OLI } from '../typography';
 import NavAnchor from '../NavAnchor';
 import {
   Candidate,
@@ -18,19 +18,13 @@ class Cochair extends PureComponent {
           <NavAnchor anchor={this.props.anchor}>
             <Container>
               <H2>Co-Chairs</H2>
-              <P>
-                The co-chairs shall be the official public spokespersons for the
-                chapter and will initiate such actions and policies as the
-                chapter’s general welfare may demand. The co-chairs shall
-                organize and preside over all official meetings of the
-                organization and the Steering Committee. The co-chairs shall
-                maintain consistent communication with all committee leaders and
-                facilitate collaboration and coordination between them.
-                Additionally, the co-chairs serve as executive officers of the
-                chapter, and they are listed on financial accounts along with
-                the treasurer.
-              </P>
+              <P>The co-chairs shall be the official public spokespersons for the chapter and will initiate such actions and policies as the chapter's general welfare may demand. The co-chairs shall organize and preside over all official meetings of the organization and the Steering Committee. The co-chairs shall maintain consistent communication with all committee leaders and facilitate collaboration and coordination between them. Additionally, the co-chairs serve as executive officers of the chapter, and they are listed on financial accounts along with the treasurer.</P>
+        
+                <H3>Candidates</H3>
+                <P>TBD</P>
 
+            {/*
+        
               <H2>Candidates</H2>
               <CandidateLink href="#co-chair-rosa-astra">
                 Rosa Astra
@@ -44,8 +38,14 @@ class Cochair extends PureComponent {
               <CandidateLink href="#co-chair-frances-reade">
                 Frances Reade
               </CandidateLink>
+              
+              */}
+        
             </Container>
           </NavAnchor>
+
+        {/*
+        
           <Candidate name="Rosa Astra" anchor="co-chair-rosa-astra">
             <CandidateHeader
               img="rosa.jpg"
@@ -281,6 +281,9 @@ class Cochair extends PureComponent {
               </P>
             </CandidateStatment>
           </Candidate>
+          
+          */}
+          
         </Section>
       </div>
     );
