@@ -18,7 +18,7 @@ import RSVP from './components/sections/RSVP';
 
 const links = [
   { num: 1, label: 'Welcome', to: '/welcome' },
-  { num: 2, label: 'Priorities Resolutions', to: '/priorities' },
+  { num: 2, label: 'Priorities Resolution', to: '/priorities' },
   { num: 3, label: 'Steering Committee Elections', to: '/elections' },
   { num: 'a', label: 'Co-Chairs', to: '/co-chairs', indent: true },
   { num: 'b', label: 'Vice Chair', to: '/vice-chair', indent: true },
@@ -35,7 +35,7 @@ const links = [
     indent: true
   },
   { num: 'e', label: 'Treasurer', to: '/treasurer', indent: true },
-  { num: 'f', label: 'At-Large Member', to: '/at-large', indent: true },
+  { num: 'f', label: 'At-Large Members', to: '/at-large', indent: true },
   { num: 4, label: 'RSVP and Volunteer', to: '/rsvp' },
   { num: 5, label: 'Venue, Accomodations, Accessibility', to: '/venue' }
 ];

@@ -22,7 +22,7 @@ class RecordingSecretary extends PureComponent {
         
               <OL>
                 <OLI>The recording secretary shall transfer official records in good condition to their successor.</OLI>
-                <OLI>The recording secretary will assume the responsibilities of one of the co-chairs, if both co-chairs and the vice chair is unable to do so.</OLI>
+                <OLI>The recording secretary will assume the responsibilities of one of the co-chairs, if both co-chairs and the vice chair are unable to do so.</OLI>
               </OL>
 
             <H3>Candidates</H3>

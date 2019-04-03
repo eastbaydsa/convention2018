@@ -18,7 +18,7 @@ class Elections extends PureComponent {
         
             <H3>Nominations</H3>
         
-            <P>One of the primary purposes of the convention is to elect a new set of leaders for our Steering Committee. There are 13 seats on the Steering Committee: co-chairs (2), vice chair, recording secretary, communications secretary, treasurer, and at-large (7). You can see the officer descriptions in our <Link href="https://www.eastbaydsa.org/resources/bylaws">bylaws</Link>.</P>
+            <P>One of the primary purposes of the convention is to elect a new set of leaders for our Steering Committee. There are 13 seats on the Steering Committee: co-chairs (2), vice chair, recording secretary, communications secretary, treasurer, and at-large members (7). You can see the officer descriptions in our <Link href="https://www.eastbaydsa.org/resources/bylaws">bylaws</Link>.</P>
         
             <P>Any member in good standing is eligible to run for the Steering Committee and must be nominated by ten (10) members in good standing by midnight on April 7 in order to be on the ballot.</P>
             
@@ -40,7 +40,7 @@ class Elections extends PureComponent {
       
             <H3>Elections</H3>
       
-            <P>At the Convention, we'll be using paper ballots and a ranked-choice-voting system to elect our new Steering Committee. If you are unable to attend the convention due to accessibility issues, work or care responsibilities, or travel outside of the East Bay, please email <Link href="mailto:convention@eastbaydsa.org">convention@eastbaydsa.org</Link> <Underline>at the latest by midnight on May 15</Underline> and you will be provided with instructions for submitting an absentee ballot.</P>
+            <P>At the Convention, we'll be using paper ballots and a ranked-choice voting system to elect our new Steering Committee. If you are unable to attend the convention due to accessibility issues, work or care responsibilities, or travel outside of the East Bay, please email <Link href="mailto:convention@eastbaydsa.org">convention@eastbaydsa.org</Link> <Underline>at the latest by midnight on May 15</Underline> and you will be provided with instructions for submitting an absentee ballot.</P>
 
             <P>East Bay DSA members will vote for 13 members of the Steering Committee: co-chairs (2), vice chair, recording secretary, communications secretary, treasurer, and at-large members (7).</P>
 
