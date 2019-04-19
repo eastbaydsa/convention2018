@@ -4,7 +4,8 @@ import { red } from "../colors";
 const OLI = styled.li`
   counter-increment: li;
   margin-bottom: 2rem;
-  text-indent: -1.7rem;
+  text-indent: -6rem;
+  margin-left: 6rem;
 
   &::before {
     content: counter(li) ".";

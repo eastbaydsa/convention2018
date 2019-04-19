@@ -20,141 +20,44 @@ class ViceChair extends PureComponent {
               <H2>Vice Chair</H2>
               <P>The vice chair is responsible for assisting the co-chairs with all of their duties. If both co-chairs are unable to perform their duties, the vice chair shall perform all duties and assume all responsibilities of the co-chairs until such a time as one or both co-chairs are able to resume their posts.</P>
         
-        <H3>Candidates</H3>
-        <P>TBD</P>
+        <H3>Candidate</H3>
         
-            {/*
 
-              <H2>Candidates</H2>
-              <CandidateLink href="#vice-chair-sergio-guadarrama">
-                Sergio Guadarrama
-              </CandidateLink>
-              <CandidateLink href="#vice-chair-abigail-gutmann-gonzalez">
-                Abigail Gutmann-Gonzalez
+              <CandidateLink href="#vice-chair-hannah-ehrlinspiel">
+                Hannah Ehrlinspiel
               </CandidateLink>
               
-              */}
               
             </Container>
           </NavAnchor>
         
-        {/*
         
           <Candidate
-            name="Sergio Guadarrama"
-            anchor="vice-chair-sergio-guadarrama">
+            name="Hannah Ehrlinspiel"
+            anchor="vice-chair-hannah-ehrlinspiel">
             <CandidateHeader
-              img="sergio.jpg"
+              img="hannah-ehrlinspiel.jpg"
               nominations={[
-                'Noah K.R.',
-                'Justin G.',
-                'Antonio B.H.',
-                'Karina S.',
-                'Kate M.'
-              ]}
-            />
-            <CandidateStatment>
-              <P>
-                I want to make EBDSA a welcoming organization where diversity
-                and equity can thrive, where members feel included and
-                empowered, where multiple views and tendencies can work
-                together, and where disagreement doesn't preclude collaboration.
-                An organization that help us unlearn capitalist biases (fear,
-                scarcity, oppression, individualism) and help us learn socialist
-                ones (trust, camaraderie, liberation, solidarity) while fighting
-                for the working-class.
-              </P>
-              <P>
-                I've lived in Berkeley for the last 8 years, but I was born and
-                raised in Madrid, Spain. I was lucky to grow up in a country
-                with universal free health care, free public education
-                (including tuition-free college), public housing programs and
-                strong unions. To many, that would sound like the socialist
-                dream and the end of class-struggle, however that is far from
-                true. All of that didn't preclude the fastest growth of
-                inequality in Europe, the increase of corruption, a 25%
-                unemployment rate, and the biggest increase in poverty since the
-                Spanish Civil War. It is not enough to reach those goals, we
-                need to change the way all of us organize, participate and get
-                involved in our communities and in our future.
-              </P>
-              <P>
-                By running for Vice-Chair, I want to ensure voices typically
-                absent in the decisions get heard and the SC is transparent and
-                kept accountable to the members. We must remove procedural
-                barriers and institute monthly regular meetings. I want to make
-                sure members feel empowered to propose, engage, and change
-                things both inside and outside DSA. Additionally, we should
-                create member-driven committees and strengthen our collaboration
-                with other organizations. I strive to build an organization that
-                at the minimum embodies the democratic values and the socialist
-                vision that we strive to create in our community, society and
-                world.
-              </P>
-              <P>
-                “The master's tools will never dismantle the master's house.”
-              </P>
-              <P>“Las herramientas del amo, nunca desmantelaran su casa.”</P>
-            </CandidateStatment>
-          </Candidate>
-
-          <Candidate
-            name="Abigail Gutmann-Gonzalez"
-            anchor="vice-chair-abigail-gutmann-gonzalez">
-            <CandidateHeader
-              img="abigail.jpg"
-              nominations={[
+                'Zach M.',
+                'Shane R.',
+                'Wes H.',
                 'Sean M.',
-                'Daniel D',
-                'Hannah E.',
-                'Matt S.',
-                'Coleman L.'
+                'Sandy B.',
+                'Jeremy G.',
+                'Miguel D.',
+                'Robbie N.',
+                'Will S.',
+                'Richard M.'
               ]}
             />
             <CandidateStatment>
-              <P>
-                It's an honor to be running for Vice-Chair of East Bay DSA as
-                part of the Bread & Roses slate. I am running to bring more
-                members into DSA and help develop their socialist politics and
-                organizing skills. If elected, I hope to further build DSA's
-                capacity and make it a socialist force that can foster
-                solidarity, strengthen the working class, and take on capital.
-                The way we do that is by giving every member of our chapter the
-                opportunity and the skills to be a leader within DSA and in
-                their community.
-              </P>
-              <P>
-                I grew up in a poor, rural town in post-dictatorial Chile and
-                much of my early experiences there were foundational to my
-                understanding of and belief in working class solidarity. After
-                the Bernie Sanders campaign demonstrated that left politics
-                could go mainstream in the US, I joined East Bay DSA in January
-                2017.
-              </P>
-              <P>
-                One of the first events I attended was the big single-payer
-                canvass in February 2017. While I had never canvassed before and
-                the prospect of talking to complete strangers was terrifying, I
-                was impressed by the ambitiousness of a political project that
-                was still achievable, by the deep commitment of the hundreds of
-                people who showed up to canvass, and by the conversations I had
-                with my neighbors at their doors.
-              </P>
-              <P>
-                Connecting with other organizers at the canvass brought me into
-                phone banking efforts and that led to more canvassing, and
-                running canvassing trainings. I was inspired along the way by my
-                devoted comrades who helped me grow politically and as a leader.
-                Taking their example, I've developed new neighborhood leaders,
-                run neighborhood groups, and supported other chapters to launch
-                their own campaigns. I'm currently an external organizer and
-                co-chair of the chapter's Medicare for All sub-committee.
-              </P>
-              <P>Thanks for your support and trust. Solidarity forever!</P>
+              <P>Capitalism isn’t working. In the Bay Area and across the country, workers' material conditions of existence are lousy and getting lousier, and attacks from the wealthy elite, the racist right wing, and their complacent neoliberal cheerleaders are tearing families apart while destroying the ecosystem all life depends on. Yet in the last few years, a massive strike wave, the growth of DSA, and a crop of popular insurgent socialist politicians show that workers have the power and the confidence to rebel against greed, oppression, and austerity.</P>
+
+              <P>Our job is to help build this class struggle from below and cohere it around a democratic socialist vision. Because of our dedication to supporting labor unions, to carrying out class-struggle election campaigns like Bernie 2020, and to building a multiracial working-class movement, I believe that DSA is a potent vehicle for harnessing the energy of this insurgency and a powerful weapon to wield against our class enemies.</P>
+
+              <P>As vice chair, I will help to build a healthy, democratic, diverse, and effective chapter. To do this, I will draw on my two years of experience as a member of East Bay DSA, as co-chair of the Membership Engagement Committee, as an at-large representative on the Steering Committee, and on the many great relationships I've built in the chapter. To be successful, our chapter needs clear communication between all our committees and clear leadership opportunities for all our members. A strong chapter will support even more of the incredible class-struggle campaigns we've been waging. I am proud to be running on the Bread &amp; Roses slate, and I am proud of East Bay DSA's members, our chapter, and the work we all do together. But I'm even more excited to see what we will accomplish over the next year.</P>
             </CandidateStatment>
-          </Candidate>
-          
-          */}
+          </Candidate>          
           
         </Section>
       </div>

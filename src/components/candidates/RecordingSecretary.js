@@ -25,154 +25,47 @@ class RecordingSecretary extends PureComponent {
                 <OLI>The recording secretary will assume the responsibilities of one of the co-chairs, if both co-chairs and the vice chair are unable to do so.</OLI>
               </OL>
 
-            <H3>Candidates</H3>
-            <P>TBD</P>
-        {/*
+            <H3>Candidate</H3>
         
-              <H2>Candidates</H2>
               <CandidateLink href="#recording-secretary-mark-gabriel">
                 Mark Gabriel
               </CandidateLink>
-              <CandidateLink href="#recording-secretary-karina-stenquist">
-                Karina Stenquist
-              </CandidateLink>
-              
-              */}
               
             </Container>
           </NavAnchor>
         
-        {/*
         
           <Candidate
             name="Mark Gabriel"
             anchor="recording-secretary-mark-gabriel">
             <CandidateHeader
-              img="mark.jpg"
+              img="mark-gabriel.jpg"
               nominations={[
+                'Nick F.',
+                'Max L.',
+                'Luke T.',
                 'Matt S.',
-                'Hannah E.',
-                'Sean M.',
-                'Frances R.',
-                'Miguel D.'
+                'Jeremy G.',
+                'Miguel D.',
+                'Megan S.',
+                'Meagan D.',
+                'Mary Virginia W.',
+                'Andrew R.'
               ]}
             />
             <CandidateStatment>
-              <P>
-                Hi there! I'm Mark, and I'm running for the position of
-                Recording Secretary with the Bread & Roses slate.
-              </P>
-              <P>
-                I wasn't an organizer when I came to DSA in the final days of
-                2016. The preceding decade left me politically apathetic and
-                without hope for anything beyond the bleak politics of
-                neoliberal logic. The impotence of liberal ideology in the face
-                of consistent right wing advances made meaningful political
-                change feel forever just out of reach.
-              </P>
-              <P>
-                It was the Bernie Sanders campaign that changed my mind and
-                inspired me to bring my politics into the real world. His
-                campaign presented a substantial vision for improving our
-                society and demonstrated the viability, and massive popularity,
-                of working-class demands.
-              </P>
-              <P>
-                Since joining DSA, I've spent the past year learning from
-                comrades, sharpening my politics, and dedicating myself to
-                building our chapter. I've worked on a broad range of projects
-                both internal and external — from canvassing and phone banking,
-                to organizing the expansion of our neighborhood groups,
-                facilitating meetings large and small, developing our Membership
-                Renewal campaign, and organizing for our recently launched
-                electoral campaign.
-              </P>
-              <P>
-                Today, I am an organizer. As Recording Secretary, I want to
-                honor and reflect the work of every project that has hundreds or
-                thousands of hours of our comrades' time invested in it — this
-                means I will never allow details to slip through the cracks, I
-                will work with the website team to make all important
-                information transparent and accessible to members, and I will
-                commit myself to the service of documenting our chapter's
-                democratically mandated work clearly, cleanly, and quickly.
-              </P>
-              <P>
-                I believe that there is work to be done to lay the foundation
-                for a mass working-class movement that can win, and I look
-                forward to what we will build together next!
-              </P>
-            </CandidateStatment>
-          </Candidate>
+              <P>Mass movement socialist politics are viable in 2019 and organizing a united working class is our only hope for the future. I joined DSA in 2016 and am so proud of what we've accomplished over the past few years in building a socialist political force here in the East Bay.</P>
 
-          <Candidate
-            name="Karina Stenquist"
-            anchor="recording-secretary-karina-stenquist">
-            <CandidateHeader
-              img="karina.jpg"
-              nominations={[
-                'Justin G.',
-                'Antonio B.H.',
-                'Sergio G.',
-                'Noah K.R.',
-                'David S.'
-              ]}
-            />
-            <CandidateStatment>
-              <P>
-                I joined DSA in 2017 optimistic, for the first time, that I'd
-                found a welcoming political community, and I'm running for
-                secretary to build and strengthen this space and our capacity
-                for collective resistance.
-              </P>
-              <P>
-                My experiences as a journalist, teacher abroad, and bartender
-                have all informed my politics, and it is my service industry
-                work where the struggles of working people are crystallized for
-                me, every day. In addition to canvassing for single payer, I
-                worked to launch an EBDSA podcasting project, producing a pilot
-                episode with talented comrades. Though I set that aside to help
-                strengthen our bylaws, the process was a potent reminder of how
-                energizing member-led initiatives can be when people plug in
-                using their skills and passions to build something beyond a
-                one-size-fits-all canvassing program.
-              </P>
-              <P>
-                Truly cultivating our heterogeneous membership by creating
-                various ways for people to join up would require significant
-                changes in the structure and culture of EBDSA.
-              </P>
-              <P>I propose:</P>
-              <OL>
-                <OLI>
-                  Restoring a culture of trust, where comrades can communicate,
-                  debate and discuss, through more structures for online and
-                  in-person communication, such as those proposed by Open EBDSA.
-                </OLI>
-                <OLI>
-                  Organizing beyond elections by connecting with organic working
-                  class struggles (tenant organizing, ICE raid response teams,
-                  etc…)
-                </OLI>
-                <OLI>
-                  Committing to a pedagogical approach to political organizing
-                  (including a democratic political education program) that
-                  makes space for, and fosters curiosity about, our different
-                  political backgrounds.
-                </OLI>
-              </OL>
-              <P>
-                Leadership should engage with political difference from a place
-                of respect and humility. I've had experience doing this by both
-                working on bylaws and the Unity & Power coalition with a diverse
-                group of comrades. I have not just been paying lip service to
-                Big Tent organizing, I have been walking the walk, and look
-                forward to bringing this experience into a leadership role.
-              </P>
+              <P>It has been my privilege to serve as recording secretary for the past year, working to document our progress and develop new structures for sharing information across our chapter. This year, I'm running again with the Bread &amp; Roses slate in order to continue and improve upon that work with everything I've learned.</P>
+
+              <P>In the upcoming year, I'm committed to working with our committees to ensure that we're able to capture and reflect the work that goes on all across our chapter &mdash; creating resources that can be referenced in years to come.</P>
+
+              <P>I will also help to define more structure and leadership development opportunities for our committee recording secretaries, developing the space for us to learn and support each other, both as secretaries and as socialists.</P>
+
+              <P>I'm so excited for what this next year will hold for our chapter and for socialist politics across the country. I look forward to working alongside all of you in our upcoming campaigns and to capturing this historic opportunity to spread our message and transform our society. Solidarity forever!</P>
+        
             </CandidateStatment>
           </Candidate>
-          
-          */}
           
         </Section>
       </div>

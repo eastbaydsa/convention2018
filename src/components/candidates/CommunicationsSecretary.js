@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 import Container from '../Container';
 import Section from '../Section';
-import { H2, H3, P } from '../typography';
+import { H2, H3, P, UL, ULI } from '../typography';
 import NavAnchor from '../NavAnchor';
 import {
   Candidate,
@@ -21,144 +21,81 @@ class CommunicationsSecretary extends PureComponent {
               <P>The communications secretary shall be responsible for the member newsletter and website, though each of these functions may be substantially delegated to or shared with designated committees.</P>
         
             <H3>Candidates</H3>
-            <P>TBD</P>
 
-            {/*
-        
-              <H2>Candidates</H2>
-              <CandidateLink href="#communications-secretary-dominic-dagradi">
-                Dominic Dagradi
+              <CandidateLink href="#communications-secretary-max-lapides">
+                Max Lapides
               </CandidateLink>
-              <CandidateLink href="#communications-secretary-miguel-duarte">
-                Miguel Duarte
+              <CandidateLink href="#communications-secretary-rex-larre-campuzano">
+                Rex Larre-Campuzano
               </CandidateLink>
-              
-              */}
         
             </Container>
           </NavAnchor>
         
-        {/*
         
           <Candidate
-            name="Dominic Dagradi"
-            anchor="communications-secretary-dominic-dagradi">
+            name="Max Lapides"
+            anchor="communications-secretary-max-lapides">
             <CandidateHeader
-              img="dominic.jpg"
+              img="max-lapides.jpg"
               nominations={[
-                'Jeff L.',
-                'Maia A.',
-                'Ahmed K.',
-                'Emily C.',
-                'Rosa A.'
+                'Frances R.',
+                'Abigail G.-G.',
+                'Ashley P.',
+                'Wes H.',
+                'Charlie H.',
+                'Miguel D.',
+                'Annika B.',
+                'Ari M.',
+                'Andrew R.',
+                'Adam B.'
               ]}
             />
             <CandidateStatment>
-              <P>
-                I'm an appointed external organizer and neighborhood leader in
-                South Berkeley, where I organize canvasses, rap trainings and
-                socials with our excellent M4A and electoral campaigns. I also
-                moderate the member Facebook group, built our current newsletter
-                templates and website, and support other organizers’ projects as
-                a technical advisor.
-              </P>
-              <P>
-                As Communications Secretary, I will be dedicated to building
-                structures that help membership exert its political will
-                frequently and with confidence. I want us to bring a razor-sharp
-                message and analysis to our communities about the struggles we
-                face as working class people, how taking action collectively is
-                the only way to solve our problems, and why socialism is the
-                only way out of the dead end abyss of capitalism. This
-                necessitates creating new propaganda, working closely with
-                press, and tight coordination of our public campaigns.
-              </P>
-              <P>
-                I'm a member of the Open EBDSA micro-slate (<a href="http://openEBDSA.org">
-                  openEBDSA.org
-                </a>) with Aaron Hall, and believe our chapter can reach its
-                greatest potential by focusing on fostering a true
-                multi-tendency democracy built on collective decision making and
-                open communication. The campaigns and tactics that build power
-                in the East Bay are going to come from unexpected places and
-                from communities we haven’t engaged with yet. It’s our duty as
-                socialists to create a structure and organization that invites
-                the working class in, lets their voices be heard, and organizes
-                them into a cohesive class that is too strong to be divided by
-                capitalism.
-              </P>
-              <P>
-                My first DSA experience was a Medicare for All canvass in
-                February of 2017. It was an awakening to finally understanding
-                what we can achieve through struggle together. Working with my
-                newfound comrades for the past year has been a powerful and
-                joyous experience that I never could have anticipated, and I
-                want every member of our chapter to have the chance to
-                experience the same.{' '}
-              </P>
-            </CandidateStatment>
-          </Candidate>
+              <P>For the first time in my life, democratic socialism is politically viable and people are just figuring out what that means. Socialist policy proposals such as Medicare for All and the Green New Deal poll very well, but we know we won't win these universal demands by calling our representatives and reminding them of these poll numbers. We can only win by building a multiracial, working-class mass movement that has the strength to truly threaten capital and wrest power away from the wealthy few.</P>
 
+              <P>Our challenge is to clarify and agitate around this class conflict. A core tenet of building a united mass movement with long-lasting solidarity is creating open and consistent communication channels. The capitalist media will never bring our ideas to the masses&mdash;that's up to us. As a leader on two of our most successful communications projects, buffywicks.money and Majority, I'm convinced we must continue to take advantage of this critical moment for socialism, reaching thousands more working people with our political vision. We must take seriously our role as permanent persuaders. We'll tell the stories of militant workers, criticize capitalists and their lackeys in government, and offer a positive socialist vision with clarity, force, humor, and courage.</P>
+
+              <P>As communications secretary, I will work to build a sustainable communications strategy that will enable us to rapidly develop our own organization. I'm committed to strengthening leadership development and supporting more members to become socialist writers and thinkers. I am proud to be running on the Bread &amp; Roses slate alongside my comrades who share my vision of fostering a fast-growing and welcoming chapter. Together, we'll spread class consciousness, terrify the capitalist class, build DSA, and develop a new generation of leftist organizers. We have a world to reach and a world to win!</P>
+            </CandidateStatment>
+          </Candidate>
+        
           <Candidate
-            name="Miguel Duarte"
-            anchor="communications-secretary-miguel-duarte">
+            name="Rex Larre-Campuzano"
+            anchor="communications-secretary-rex-larre-campuzano">
             <CandidateHeader
-              img="miguel.jpg"
+              img="rex-larre-campuzano.jpg"
               nominations={[
-                'Matt S.',
-                'Hannah E.',
-                'Sean M.',
-                'Coleman L.',
-                'Frances R.'
+                'Rachel R.',
+                'Joey K.',
+                'Dominic D.',
+                'Daniel E.',
+                'Sergio G.',
+                'Allie L.',
+                'Karina S.',
+                'Eric G.',
+                'Colin M.',
+                'Katie H.'
               ]}
             />
             <CandidateStatment>
-              <P>
-                I'm running for Communications Secretary with the Bread & Roses
-                slate because it's time for an unapologetically socialist
-                politics to go mainstream. After decades of neoliberal
-                austerity, millions of people demand an alternative. But this
-                exciting moment is also perilous, as the Right targets the
-                disaffected with its poison. Our task is to respond with a
-                powerful, joyful, socialist message.
-              </P>
-              <P>
-                As the son of immigrants, I grew up seeing how politics touched
-                our lives. My mom was a lunch lady and my dad was a Teamster,
-                but it wasn't until I learned about socialism that I realized
-                how fundamental the gains won by militant labor were to shaping
-                the material conditions of my life. Thanks to the union, I had a
-                comfortable middle-class upbringing and the ability to attend
-                college and land a good job – I'm even the President of a small
-                union now! Everybody should enjoy the opportunities I've had -
-                but they are being denied to the vast majority by a tiny
-                minority of the ultra-rich.
-              </P>
-              <P>
-                As Communications Secretary, I will coordinate our efforts to
-                inject a coherent and persuasive socialist class analysis into
-                mainstream political discourse. Like we do in our one-on-one
-                organizing, our broader communications must draw connections
-                between our day-to-day experiences and the oppressive forces of
-                capitalism. By creating messages that help people identify
-                capitalism as their enemy, as opposed to their interests, we can
-                activate and organize folks to join is in fighting back. Most
-                people simply see no other alternative to capitalism – we must
-                light the path to building the better world we know is possible!
-              </P>
-              <P>
-                Internally, we must build and maintain tools which facilitate
-                strong and healthy communication habits, in both formal and
-                informal settings.
-              </P>
-              <P>
-                We can't let the Right fill the void left behind by Democrats'
-                abandonment of the working class!
-              </P>
+              <P>I'm a professional tattoo artist with a background in media and marketing. I joined DSA in early 2017, and I'm currently the lead organizer for the Racial Solidarity External Action team. I am also the co-founder of our new translation team and serve on the social media team.</P> 
+
+              <P>As communications co-chair with the Bloom slate, I will</P>
+
+              <UL>
+              <ULI>Coordinate between the editorial board of Majority, operations, social media, and design committees. All our platforms should be beautiful, coordinated, and engaging members and non-members alike.</ULI>
+
+              <ULI>Collaborate with the website team to make available online all the tools members need to plug in. This will include making sure our calendars are current and eventful. I will also focus on making our code of conduct and grievance procedures more easily accessible.</ULI>
+
+              <ULI>Continue and expand my work with the translation team. To build a multiracial movement, our materials must be accessible to and reflective of the diverse population of the East Bay. As an immigrant and native Spanish speaker, this is a personal commitment.</ULI>
+
+              <ULI>Develop communication leaders in every committee. We must empower members to craft messaging for campaigns they feel passionate about. This will widen the range of experiences represented in our platforms and organically reach more people. Growing our capacity will also prevent burnout and prepare us to tackle large campaigns such as the 2020 elections.</ULI>
+
+              <ULI>Incorporate the lessons of the Oakland teachers' strike to establish an art committee that will work to expand our propaganda beyond digital, visual-centric media. We can use a multitude of mediums to capture the imagination of the working class. This committee will engage members of all ages, and make us an effective and inspiring presence during external events. As Toni Cade Bambara writes: "The role of the artist is to make the revolution irresistible."</ULI>
+              </UL>
             </CandidateStatment>
           </Candidate>
-          
-          */}
         
         </Section>
       </div>

@@ -90,9 +90,9 @@ class CandidateHeader extends PureComponent {
   render() {
     return (
       <Header>
-        <Img src={`/images/candidates/${this.props.img}`} />
+        <Img src={`/images/candidates/2019/${this.props.img}`} />
         <div>
-          Nominated By:
+          Nominated by:
           <Nominations>
             {this.props.nominations.map(n => <li>{n}</li>)}
           </Nominations>
