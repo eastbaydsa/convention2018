@@ -277,6 +277,8 @@ class AtLarge extends PureComponent {
 
               <P>In the coming year, I am committed to building a 2020 campaign that both strengthens our organization in the short term and primes us to engage strategically in the political field beyond 2020. In the next year, we should aim to grow and diversify our organization, develop dozens of new leaders and socialist organizers, build a mass campaign that reaches hundreds of thousands, strengthen our ties with labor and the diverse working class of the East Bay, and put democratic socialists in office. But we also need to begin imagining what class struggle under a Sanders presidency could look like&mdash;and readying our movement to rise to such an occasion and deliver Medicare for All, a Green New Deal, and the lasting change we need.</P>
       
+              <P>In DSA, we currently have a historic window of opportunity. Democratic socialism is rapidly emerging as a mainstream political pole in the midst of the biggest resurgence of labor militancy in decades. The task before us now is to develop the organizational forces, the political analysis and strategy, and the deep solidarity we'll need to win mass campaigns in 2020 and beyond. I'm honored to run to represent our membership on the Steering Committee and help us realize this vision together. Solidarity forever!</P>
+      
             </CandidateStatment>
           </Candidate>
 
