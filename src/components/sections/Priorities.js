@@ -6,6 +6,8 @@ import Link from '../Link';
 import NavAnchor from '../NavAnchor';
 import styled from 'styled-components';
 import { red } from '../colors';
+import Directory from '../directory/Directory';
+import DirectoryItem from '../directory/DirectoryItem';
 
 const PriorityResolution = styled.a`
   color: red;
@@ -27,7 +29,31 @@ class Priorities extends PureComponent {
 
             <P>The "priority work areas" will name a political or organizational priority (e.g. "Labor," "Political Education," etc.) and then identify a strategy for working towards that goal, tactics that we might engage in, and coalition partners we want to collaborate with.</P>
 
-            <P>The Steering Committee will approve a "base" PR that will be submitted to the chapter. This "base" PR may be passed as is or amended at the convention on May 18.</P>
+            <P>The Steering Committee has approved a base PR document, which may be passed as is or amended at the convention on May 18. You can read the PR here.</P>
+      
+            <Directory>
+                <DirectoryItem
+                    links={[
+                    {
+                        label: '2019 Priorities Resolution',
+                        href: 'https://docs.google.com/document/d/1rx7kN8Bn0pQsbAs0PIUOYm4I_r3O-n3HxE4CGJYmGa0/edit?ts=5cbe8b0d'
+                    }
+                    ]}
+                />
+            </Directory>
+      
+            <P>Any member in good standing and four other co-signers can submit an amendment to the PR. If you would like to submit an amendment to the PR or a complete, alternate PR, please use the following form.</P>
+      
+            <Directory>
+                <DirectoryItem
+                    links={[
+                    {
+                        label: 'PR Amendment Submission Form',
+                        href: 'https://docs.google.com/forms/d/e/1FAIpQLSduLWCe7150Z-Lv8qSt_tOvCaT_urobcWD5BERJBLWDb6Uwjg/viewform'
+                    }
+                    ]}
+                />
+            </Directory>
       
             <H3>Timeline</H3>
       
