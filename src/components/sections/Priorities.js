@@ -35,7 +35,7 @@ class Priorities extends PureComponent {
                 <DirectoryItem
                     links={[
                     {
-                        label: '2019 Priorities Resolution',
+                        label: '2019 Base Priorities Resolution',
                         href: 'https://docs.google.com/document/d/1rx7kN8Bn0pQsbAs0PIUOYm4I_r3O-n3HxE4CGJYmGa0/edit?ts=5cbe8b0d'
                     }
                     ]}
