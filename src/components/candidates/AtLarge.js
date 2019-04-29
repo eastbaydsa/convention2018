@@ -188,7 +188,7 @@ class AtLarge extends PureComponent {
 
               <P>Support our campaign for Bernie Sanders as key to the success of the GND. Work to foster a more healthful culture within EBDSA.</P>
 
-              <P>Generate action-oriented conversations about what the dynamics between the socialist world we want, the biosphere, and the economy.</P>
+              <P>Generate action-oriented conversations about the dynamics between the socialist world we want, the biosphere, and the economy.</P>
       
             </CandidateStatment>
           </Candidate>
@@ -273,7 +273,7 @@ class AtLarge extends PureComponent {
               ]}
             />
             <CandidateStatment>
-              <P>I’m honored to run for an at-large seat on the Steering Committee on the Bread &amp; Roses slate. I am committed to class-struggle politics and a socialist strategy grounded in the mass action of the working class. And I have seen firsthand how we can come together in East Bay DSA around campaigns that realize this vision&mdash;through co-chairing the Medicare for All (M4A) and 2020 Committees, forging cross-chapter connections as an M4A Regional Organizer, leading the Jovanka Beckles/Proposition 10 field operations, and helping coordinate #BreadForEd during the Oakland teachers strike.</P>
+              <P>I'm honored to run for an at-large seat on the Steering Committee on the Bread &amp; Roses slate. I am committed to class-struggle politics and a socialist strategy grounded in the mass action of the working class. And I have seen firsthand how we can come together in East Bay DSA around campaigns that realize this vision&mdash;through co-chairing the Medicare for All (M4A) and 2020 Committees, forging cross-chapter connections as an M4A Regional Organizer, leading the Jovanka Beckles/Proposition 10 field operations, and helping coordinate #BreadForEd during the Oakland teachers strike.</P>
 
               <P>In the coming year, I am committed to building a 2020 campaign that both strengthens our organization in the short term and primes us to engage strategically in the political field beyond 2020. In the next year, we should aim to grow and diversify our organization, develop dozens of new leaders and socialist organizers, build a mass campaign that reaches hundreds of thousands, strengthen our ties with labor and the diverse working class of the East Bay, and put democratic socialists in office. But we also need to begin imagining what class struggle under a Sanders presidency could look like&mdash;and readying our movement to rise to such an occasion and deliver Medicare for All, a Green New Deal, and the lasting change we need.</P>
       
