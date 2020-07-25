@@ -25,21 +25,10 @@ class WelcomeSection extends PureComponent {
       <NavAnchor anchor={this.props.anchor}>
         <Section>
           <Container>
-            <H2>Welcome to the East Bay DSA 2019 Local Convention!</H2>
-            <P>On May 18, East Bay DSA will be holding our annual local convention, the highest decision-making body in the chapter. The convention is where we will all come together as a chapter to take on two important tasks: electing a new Steering Committee and collectively deciding on a priorities resolution that will guide our work in the upcoming year.</P>
-            <P>The convention will be held this year on <Strong>Saturday, May 18, 2019 from 9 a.m. to 2 p.m.</Strong> at the California Ballroom in downtown Oakland. <Link href="https://www.eastbaydsa.org/events/673/2019-05-18-east-bay-dsa-local-convention-2019/">Be sure to save the date</Link>. It's important for as many East Bay DSA members as possible to participate!</P>
+            <H2>Welcome to the East Bay DSA 2020 Local Convention!</H2>
+            <P>The convention will be held this year on <Strong>Sunday, September 13th from 1 p.m. to 4 p.m.</Strong> on Zoom. <Link href="https://www.eastbaydsa.org/events/1355/2020-09-13-ebdsa-2020-convention/">Be sure to save the date</Link>. It's important for as many East Bay DSA members as possible to participate!</P>
 
             <Line />
-
-            <Info>
-              <Strong>East Bay DSA Convention 2019</Strong>
-              <br />Saturday, May 18, 9 a.m.–2 p.m.
-              <br />California Ballroom
-              <br />
-              <Link href="https://goo.gl/maps/1P5sM5YZoJk">
-                1736 Franklin St., Oakland, CA 94612
-              </Link>
-            </Info>
 
             <H2>Convention Schedule</H2>
 
