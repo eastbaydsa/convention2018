@@ -50,7 +50,7 @@ function NavBar(props) {
         MENU{" "}
       </A>{" "}
       <Spacer />
-      <StyledRouterLink xtra="border-left: 1px solid black" to="/rsvp">
+      <StyledRouterLink xtra="border-left: 1px solid black" to="/welcome">
         RSVP
       </StyledRouterLink>
     </Wrapper>

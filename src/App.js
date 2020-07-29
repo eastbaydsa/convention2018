@@ -5,57 +5,35 @@ import TopNav from './components/sections/TopNav';
 import TOC from './components/sections/TOC';
 import Cover from './components/sections/Cover';
 import WelcomeSection from './components/sections/WelcomeSection';
+import ConventionDescription from './components/sections/ConventionDescription';
+import ConventionChanges from './components/sections/ConventionChanges';
 import Priorities from './components/sections/Priorities';
-import Elections from './components/sections/Elections';
-import Cochair from './components/candidates/Cochair';
-import ViceChair from './components/candidates/ViceChair';
-import RecordingSecretary from './components/candidates/RecordingSecretary';
-import CommunicationsSecretary from './components/candidates/CommunicationsSecretary';
-import Treasurer from './components/candidates/Treasurer';
-import AtLarge from './components/candidates/AtLarge';
-import Venue from './components/sections/Venue';
-import RSVP from './components/sections/RSVP';
+import Convention from './components/sections/Convention';
+import ConventionTimeline from './components/sections/ConventionTimeline';
+import Questions from './components/sections/Questions';
 
 const links = [
   { num: 1, label: 'Welcome', to: '/welcome' },
-  { num: 2, label: 'Priorities Resolution', to: '/priorities' },
-  { num: 3, label: 'Steering Committee Elections', to: '/elections' },
-  { num: 'a', label: 'Co-Chairs', to: '/co-chairs', indent: true },
-  { num: 'b', label: 'Vice Chair', to: '/vice-chair', indent: true },
-  {
-    num: 'c',
-    label: 'Recording Secretary',
-    to: '/recording-secretary',
-    indent: true
-  },
-  {
-    num: 'd',
-    label: 'Communications Secretary',
-    to: '/communications-secretary',
-    indent: true
-  },
-  { num: 'e', label: 'Treasurer', to: '/treasurer', indent: true },
-  { num: 'f', label: 'At-Large Members', to: '/at-large', indent: true },
-  { num: 4, label: 'RSVP and Volunteer', to: '/rsvp' },
-  { num: 5, label: 'Venue, Accomodations, Accessibility', to: '/venue' }
+  { num: 2, label: 'What are the Convention and the Priorities Resolutions?', to: '/convention-description' },
+  { num: 3, label: 'Why are we changing the convention?', to: '/convention-changes' },
+  { num: 4, label: 'How will the Priorities Resolution process work?', to: '/priorities' },
+  { num: 5, label: 'What will the Convention Look Like?', to: '/convention' },
+  { num: 6, label: 'What is the timeline for the convention?', to: '/convention-timeline' },
+  { num: 7, label: 'Questions and Accessibility', to: '/questions' },
 ];
 
 const Content = () => (
   <div>
-    <TopNav title="EBDSA 2019 Convention" links={links} />
-    <Cover title="East Bay DSA 2019 Chapter Convention" anchor="" />
+    <TopNav title="EBDSA 2020 Convention" links={links} />
+    <Cover title="East Bay DSA 2020 Chapter Convention" anchor="" />
     <TOC anchor="toc" links={links} />
     <WelcomeSection anchor="welcome" />
+    <ConventionDescription anchor="convention-description"/>
+    <ConventionChanges anchor="convention-changes"/>
     <Priorities anchor="priorities" />
-    <Elections anchor="elections" />
-    <Cochair anchor="co-chairs" />
-    <ViceChair anchor="vice-chair" />
-    <RecordingSecretary anchor="recording-secretary" />
-    <CommunicationsSecretary anchor="communications-secretary" />
-    <Treasurer anchor="treasurer" />
-    <AtLarge anchor="at-large" />
-    <RSVP anchor="rsvp" />
-    <Venue anchor="venue" />
+    <Convention anchor="convention"/>
+    <ConventionTimeline anchor="convention-timeline"/>
+    <Questions anchor="questions"/>
   </div>
 );
 
