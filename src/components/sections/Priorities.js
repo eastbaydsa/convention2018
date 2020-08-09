@@ -36,6 +36,14 @@ class Priorities extends PureComponent {
             You can read last year’s Medicare for All priority here as an example.
             </Link></P>
 
+            <P><Link href="https://docs.google.com/forms/d/12tHXFg3jU7dNrPxYxsSrt-myuH4kTy1vZ9rNqcdYv5o/edit">
+            If you're interested in writing a proposal, fill out this form.
+            </Link></P>
+
+            <P><Link href="https://docs.google.com/forms/d/1ZgoUDTLxBmnRn849LniXFZpnuNRmRWCPGa2sUy9T0ZI/edit">
+            Submit finished proposals here.
+            </Link></P>
+
             <P>
             <Strong>Amendments</Strong>: Members will have the opportunity to submit amendments to Proposals before the Convention to be considered on the floor and to also motion to amend from the floor. After debate we’ll all vote and the Proposals which have majority support will become our Priorities Resolution.
             </P>
