@@ -5,14 +5,14 @@ import Section from '../Section';
 import { H2, P, Strong } from '../typography';
 import Link from '../Link';
 import NavAnchor from '../NavAnchor';
-import Directory from '../directory/Directory';
-import DirectoryItem from '../directory/DirectoryItem';
+// import Directory from '../directory/Directory';
+// import DirectoryItem from '../directory/DirectoryItem';
 import { purple } from '../colors';
 
-const Info = styled.p`
-  font-size: 30px;
-  margin-bottom: 40px;
-`;
+// const Info = styled.p`
+//   font-size: 30px;
+//   margin-bottom: 40px;
+// `;
 
 const Line = styled.div`
   border-top: 3px solid ${purple};
