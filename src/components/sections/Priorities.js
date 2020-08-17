@@ -47,30 +47,6 @@ class Priorities extends PureComponent {
             <P>
             Once we have heard and debated all of the proposals, we will vote them each up or down and those that were adopted, in addition to the consent calendar and the political preamble, will be our new priorities resolution.
             </P>
-          
-            <div
-              style={{
-                border: '20px solid #ea2127',
-                padding: 30,
-                marginBottom: 30
-              }}
-            >
-              <H2>Submitting a Priorities Proposal</H2>
-              <P>
-                If you're interested in writing a Priorities Proposal, please{' '}
-                <Link href="https://forms.gle/yj6uLaMnyfTaPzS46">
-                  fill out this form
-                </Link>.
-              </P>
-
-              <P>
-                If you're submitting a FINISHED Priorities Proposal, please{' '}
-                <Link href="https://forms.gle/A8rUzuZj4eu83QBs7">
-                  fill out this form
-                </Link>{' '}
-                with 25 member signatures and emails
-              </P>
-            </div>
 
           </Container>
         </Section>
