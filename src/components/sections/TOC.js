@@ -58,7 +58,7 @@ class TOC extends Component {
                   it in our Priorities Resolution as written.
                 </li>
                 <li>
-                  Which Priorities Proposals should receive floor debate time?:
+                  Which Priorities Proposals should receive floor debate time?
                   Rank the Proposals in order of preference for floor debate.
                   Even if you support something you may think it would be good
                   to have a floor debate about it!
