@@ -27,6 +27,18 @@ class TOC extends Component {
               }}
             >
               <H2>Updates</H2>
+              <P>
+                {" "}
+                <strong>
+                  Read our full agenda and Priorities Proposals in the
+                  <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#">
+                    Convention Packet
+                  </Link>
+                  .
+                </strong>{" "}
+                This packet has all the information you’ll need to know for our
+                Convention day-of.
+              </P>
               <H3>Zoom Info</H3>
               <P>
                 <Link href="https://us02web.zoom.us/j/88197589947?pwd=eDJvajZYdUF1VlRxd1loRGI0QThBdz09">
