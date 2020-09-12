@@ -28,7 +28,6 @@ class TOC extends Component {
             >
               <H2>Updates</H2>
               <P>
-                {" "}
                 <strong>
                   Read our full agenda and Priorities Proposals in the
                   <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#">
@@ -62,7 +61,7 @@ class TOC extends Component {
                   <ULI>
                     <Link href="https://vote.phillydsa.org/event/east-bay-convention">
                       Click here
-                    </Link>
+                    </Link>{" "}
                     to get started.
                   </ULI>
                   <ULI>
