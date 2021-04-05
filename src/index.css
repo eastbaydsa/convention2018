@@ -46,3 +46,8 @@ body {
 p {
   margin: 0;
 }
+
+li::marker {
+  color: #ea2127;
+  font-weight: bold;
+}

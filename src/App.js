@@ -13,7 +13,11 @@ import ConventionTimeline from "./components/sections/ConventionTimeline";
 import Questions from "./components/sections/Questions";
 
 const links = [
-  { num: 1, label: "Welcome", to: "/welcome" },
+  {
+    num: 1,
+    label: "What is the Local Convention?",
+    to: "/what-is-local-convention",
+  },
   {
     num: 2,
     label: "What are the Convention and the Priorities Resolutions?",
@@ -41,9 +45,9 @@ const links = [
 const Content = () => (
   <div>
     <TopNav title="EBDSA 2020 Convention" links={links} />
-    <Cover title="East Bay DSA 2020 Chapter Convention" anchor="" />
+    <Cover title="East Bay DSA 2021 Chapter Convention" anchor="" />
     <TOC anchor="toc" links={links} />
-    <WelcomeSection anchor="welcome" />
+    <WelcomeSection anchor="what-is-local-convention" />
     <ConventionDescription anchor="convention-description" />
     <ConventionChanges anchor="convention-changes" />
     <Priorities anchor="priorities" />

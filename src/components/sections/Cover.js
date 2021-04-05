@@ -13,11 +13,10 @@ const Wrapper = styled(UnstyledLink)`
   background-image: url(/images/cover.jpg);
   background-size: cover;
   background-position: right bottom;
-  border-bottom: 40px solid ${purple};
 `;
 
 const Title = styled.h1`
-  color: ${red};
+  color: white;
   font-weight: 700;
   font-size: 16vmin;
   text-transform: uppercase;

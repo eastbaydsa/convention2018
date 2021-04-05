@@ -4,7 +4,7 @@ import Section from "../Section";
 import Container from "../Container";
 import Index from "../Index";
 import NavAnchor from "../NavAnchor";
-import { H2, H3, P, UL, ULI } from "../typography";
+import { H2, H3, P, UL, ULI, Strong } from "../typography";
 import Link from "../Link";
 
 const Spacer = styled.div`
@@ -26,52 +26,17 @@ class TOC extends Component {
                 marginBottom: 30,
               }}
             >
-              <H2>Updates</H2>
+              <H2>Save the Date</H2>
               <P>
-                <strong>
-                  Read our full agenda and Priorities Proposals in the
-                  <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#">
-                    Convention Packet
-                  </Link>
-                  .
-                </strong>{" "}
-                This packet has all the information you’ll need to know for our
-                Convention day-of.
+                The East Bay DSA 2021 Local Convention will be held this year on{" "}
+                <Strong>Saturday, May 15th, 1-4 pm</Strong> and{" "}
+                <Strong>Sunday, May 16th, 1-3 pm</Strong> on Zoom.{" "}
               </P>
-              <H3>Zoom Info</H3>
+              <P>[ Save the Date ] - Link to RSVP event page.</P>
               <P>
-                <Link href="https://us02web.zoom.us/j/88197589947?pwd=eDJvajZYdUF1VlRxd1loRGI0QThBdz09">
-                  Zoom link
-                </Link>
-                <br />
-                Meeting ID: 881 9758 9947
-                <br />
-                Passcode: 215458
+                It's important for as many East Bay DSA members as possible to
+                participate!
               </P>
-              <H3>Voting</H3>
-              <P>
-                In order to sign in to the software we’ll be using to vote and
-                motion all you need is the email address that you signed up for
-                DSA with. Make sure that you’re a dues-paying DSA member and if
-                you have any technical issues during the meeting, you can email
-                info@eastbaydsa.org.
-              </P>
-
-              <UL>
-                <ULI>
-                  <Link href="https://vote.phillydsa.org/event/east-bay-convention">
-                    Click here
-                  </Link>{" "}
-                  to get started.
-                </ULI>
-                <ULI>
-                  Sign in with your email to get sent a link and then close the
-                  tab. Getting sent the link may take a second.
-                </ULI>
-                <ULI>
-                  Open the new link you got in your inbox and you’re logged in!
-                </ULI>
-              </UL>
             </div>
 
             <H2>Contents</H2>
