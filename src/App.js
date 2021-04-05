@@ -6,8 +6,10 @@ import TOC from "./components/sections/TOC";
 import Cover from "./components/sections/Cover";
 import WelcomeSection from "./components/sections/WelcomeSection";
 import ConventionDescription from "./components/sections/ConventionDescription";
-import ConventionChanges from "./components/sections/ConventionChanges";
+import SteeringCommittee from "./components/sections/SteeringCommittee";
+import NationalConventionDelegate from "./components/sections/NationalConventionDelegate";
 import Priorities from "./components/sections/Priorities";
+import PositionPapers from "./components/sections/PositionPapers";
 import Convention from "./components/sections/Convention";
 import ConventionTimeline from "./components/sections/ConventionTimeline";
 import Questions from "./components/sections/Questions";
@@ -20,26 +22,47 @@ const links = [
   },
   {
     num: 2,
-    label: "What are the Convention and the Priorities Resolutions?",
+    label: "What will the Convention Look Like?",
     to: "/convention-description",
   },
   {
     num: 3,
-    label: "Why are we changing the convention?",
-    to: "/convention-changes",
+    label: "How do I run for Steering Committee?",
+    to: "/steering-committee",
   },
   {
     num: 4,
-    label: "How will the Priorities Resolution process work?",
-    to: "/priorities",
+    label: "How do I run for National Convention Delegate?",
+    to: "/national-convention-delegate",
   },
-  { num: 5, label: "What will the Convention Look Like?", to: "/convention" },
+  {
+    num: 5,
+    label: "What are the Chapter Platform and Priority Campaigns?",
+    to: "/platform-priorities",
+  },
+  {
+    num: 5,
+    label: "Position Papers",
+    to: "/position-papers",
+  },
   {
     num: 6,
-    label: "What is the timeline for the convention?",
-    to: "/convention-timeline",
+    label: "Local Convention Timeline",
+    to: "/position-papers",
   },
-  { num: 7, label: "Questions and Accessibility", to: "/questions" },
+
+  // {
+  //   num: 4,
+  //   label: "How will the Priorities Resolution process work?",
+  //   to: "/priorities",
+  // },
+  // { num: 5, label: "What will the Convention Look Like?", to: "/convention" },
+  // {
+  //   num: 6,
+  //   label: "What is the timeline for the convention?",
+  //   to: "/convention-timeline",
+  // },
+  // { num: 7, label: "Questions and Accessibility", to: "/questions" },
 ];
 
 const Content = () => (
@@ -49,9 +72,11 @@ const Content = () => (
     <TOC anchor="toc" links={links} />
     <WelcomeSection anchor="what-is-local-convention" />
     <ConventionDescription anchor="convention-description" />
-    <ConventionChanges anchor="convention-changes" />
-    <Priorities anchor="priorities" />
-    <Convention anchor="convention" />
+    <SteeringCommittee anchor="steering-committee" />
+    <NationalConventionDelegate anchor="national-convention-delegate" />
+    <Priorities anchor="platform-priorities" />
+    <PositionPapers anchor="position-papers" />
+    {/* <Convention anchor="convention" /> */}
     <ConventionTimeline anchor="convention-timeline" />
     <Questions anchor="questions" />
   </div>
