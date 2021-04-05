@@ -67,7 +67,7 @@ const links = [
 
 const Content = () => (
   <div>
-    <TopNav title="EBDSA 2020 Convention" links={links} />
+    <TopNav title="EBDSA 2021 Convention" links={links} />
     <Cover title="East Bay DSA 2021 Chapter Convention" anchor="" />
     <TOC anchor="toc" links={links} />
     <WelcomeSection anchor="what-is-local-convention" />
