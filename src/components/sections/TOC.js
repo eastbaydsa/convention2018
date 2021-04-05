@@ -56,24 +56,22 @@ class TOC extends Component {
                 you have any technical issues during the meeting, you can email
                 info@eastbaydsa.org.
               </P>
-              <P>
-                <UL>
-                  <ULI>
-                    <Link href="https://vote.phillydsa.org/event/east-bay-convention">
-                      Click here
-                    </Link>{" "}
-                    to get started.
-                  </ULI>
-                  <ULI>
-                    Sign in with your email to get sent a link and then close
-                    the tab. Getting sent the link may take a second.
-                  </ULI>
-                  <ULI>
-                    Open the new link you got in your inbox and you’re logged
-                    in!
-                  </ULI>
-                </UL>
-              </P>
+
+              <UL>
+                <ULI>
+                  <Link href="https://vote.phillydsa.org/event/east-bay-convention">
+                    Click here
+                  </Link>{" "}
+                  to get started.
+                </ULI>
+                <ULI>
+                  Sign in with your email to get sent a link and then close the
+                  tab. Getting sent the link may take a second.
+                </ULI>
+                <ULI>
+                  Open the new link you got in your inbox and you’re logged in!
+                </ULI>
+              </UL>
             </div>
 
             <H2>Contents</H2>

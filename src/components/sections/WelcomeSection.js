@@ -57,203 +57,206 @@ class WelcomeSection extends PureComponent {
             <P>Our full agenda for the day will be as follows:</P>
 
             <table style={{ fontSize: "0.8em" }}>
-              <tr>
-                <td
-                  style={{
-                    "white-space": "nowrap",
-                    paddingRight: 30,
-                    verticalAlign: "top",
-                  }}
-                >
-                  1:00PM &ndash; 1:05PM
-                </td>
-                <td style={{ paddingBottom: 10 }}>
-                  Opening of Convention &amp; Agenda
-                </td>
-              </tr>
-              <tr>
-                <td
-                  style={{
-                    "white-space": "nowrap",
-                    paddingRight: 30,
-                    verticalAlign: "top",
-                  }}
-                >
-                  1:05PM &ndash; 1:50PM
-                </td>
-                <td style={{ paddingBottom: 10 }}>
-                  How Do Socialists Build Power? Panel ft. Jabari Brisport,
-                  Michael Lighty, and Cecily Myart-Cruz
-                </td>
-              </tr>
-              <tr>
-                <td
-                  style={{
-                    "white-space": "nowrap",
-                    paddingRight: 30,
-                    verticalAlign: "top",
-                  }}
-                >
-                  1:50PM &ndash; 1:55PM
-                </td>
-                <td style={{ paddingBottom: 10 }}>Break</td>
-              </tr>
-              <tr>
-                <td
-                  style={{
-                    "white-space": "nowrap",
-                    paddingRight: 30,
-                    verticalAlign: "top",
-                  }}
-                >
-                  1:55PM &ndash; 2:05PM
-                </td>
-                <td style={{ paddingBottom: 10 }}>
-                  Discuss Priorities Resolution, Adopt{" "}
-                  <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=id.v33dpjt9g0rj">
-                    Consent Agenda
-                  </Link>{" "}
-                  &amp;{" "}
-                  <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=id.poipxwhiuo7r">
-                    Convention Rules
-                  </Link>
-                </td>
-              </tr>
-              <tr>
-                <td
-                  style={{
-                    "white-space": "nowrap",
-                    paddingRight: 30,
-                    verticalAlign: "top",
-                  }}
-                >
-                  2:05PM &ndash; 2:35PM
-                </td>
-                <td style={{ paddingBottom: 10 }}>
-                  <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=id.4v33jot4rdsz">
-                    Towards An Independent Workers Party
-                  </Link>
-                </td>
-              </tr>
-              <tr>
-                <td
-                  style={{
-                    "white-space": "nowrap",
-                    paddingRight: 30,
-                    verticalAlign: "top",
-                  }}
-                >
-                  2:35PM &ndash; 3:05PM
-                </td>
-                <td style={{ paddingBottom: 10 }}>
-                  <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=kix.vilju46ngf8">
-                    Center Mass Movements
-                  </Link>
-                </td>
-              </tr>
-              <tr>
-                <td
-                  style={{
-                    "white-space": "nowrap",
-                    paddingRight: 30,
-                    verticalAlign: "top",
-                  }}
-                >
-                  3:05PM &ndash; 3:10PM
-                </td>
-                <td style={{ paddingBottom: 10 }}>Break</td>
-              </tr>
-              <tr>
-                <td
-                  style={{
-                    "white-space": "nowrap",
-                    paddingRight: 30,
-                    verticalAlign: "top",
-                  }}
-                >
-                  3:10PM &ndash; 3:40PM
-                </td>
-                <td style={{ paddingBottom: 10 }}>
-                  <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=id.kv8wlxqfmcdc">
-                    Prioritizing Proposition 15 as the Number One Electoral
-                    Priority of East Bay DSA
-                  </Link>
-                </td>
-              </tr>
-              <tr>
-                <td
-                  style={{
-                    "white-space": "nowrap",
-                    paddingRight: 30,
-                    verticalAlign: "top",
-                  }}
-                >
-                  3:40PM &ndash; 4:10PM
-                </td>
-                <td style={{ paddingBottom: 10 }}>
-                  <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=id.lo5on81gvn6p">
-                    Class Struggle Elections
-                  </Link>
-                </td>
-              </tr>
-              <tr>
-                <td
-                  style={{
-                    "white-space": "nowrap",
-                    paddingRight: 30,
-                    verticalAlign: "top",
-                  }}
-                >
-                  4:10PM &ndash; 4:15PM
-                </td>
-                <td style={{ paddingBottom: 10 }}>Break</td>
-              </tr>
-              <tr>
-                <td
-                  style={{
-                    "white-space": "nowrap",
-                    paddingRight: 30,
-                    verticalAlign: "top",
-                  }}
-                >
-                  4:15PM &ndash; 4:45PM
-                </td>
-                <td style={{ paddingBottom: 10 }}>
-                  <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=id.3m2ej1olvhg1">
-                    Campaign to Win California Single-Payer and Medicare for All
-                  </Link>
-                </td>
-              </tr>
-              <tr>
-                <td
-                  style={{
-                    "white-space": "nowrap",
-                    paddingRight: 30,
-                    verticalAlign: "top",
-                  }}
-                >
-                  4:45PM &ndash; 4:55PM
-                </td>
-                <td style={{ paddingBottom: 10 }}>
-                  <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=id.lq5dkcp19rwg">
-                    Green New Deal
-                  </Link>
-                </td>
-              </tr>
-              <tr>
-                <td
-                  style={{
-                    "white-space": "nowrap",
-                    paddingRight: 30,
-                    verticalAlign: "top",
-                  }}
-                >
-                  4:55PM &ndash; 5:00PM
-                </td>
-                <td style={{ paddingBottom: 10 }}>
-                  Vote on Priorities Resolution and Close
-                </td>
-              </tr>
+              <tbody>
+                <tr>
+                  <td
+                    style={{
+                      whiteSpace: "nowrap",
+                      paddingRight: 30,
+                      verticalAlign: "top",
+                    }}
+                  >
+                    1:00PM &ndash; 1:05PM
+                  </td>
+                  <td style={{ paddingBottom: 10 }}>
+                    Opening of Convention &amp; Agenda
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    style={{
+                      whiteSpace: "nowrap",
+                      paddingRight: 30,
+                      verticalAlign: "top",
+                    }}
+                  >
+                    1:05PM &ndash; 1:50PM
+                  </td>
+                  <td style={{ paddingBottom: 10 }}>
+                    How Do Socialists Build Power? Panel ft. Jabari Brisport,
+                    Michael Lighty, and Cecily Myart-Cruz
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    style={{
+                      whiteSpace: "nowrap",
+                      paddingRight: 30,
+                      verticalAlign: "top",
+                    }}
+                  >
+                    1:50PM &ndash; 1:55PM
+                  </td>
+                  <td style={{ paddingBottom: 10 }}>Break</td>
+                </tr>
+                <tr>
+                  <td
+                    style={{
+                      whiteSpace: "nowrap",
+                      paddingRight: 30,
+                      verticalAlign: "top",
+                    }}
+                  >
+                    1:55PM &ndash; 2:05PM
+                  </td>
+                  <td style={{ paddingBottom: 10 }}>
+                    Discuss Priorities Resolution, Adopt{" "}
+                    <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=id.v33dpjt9g0rj">
+                      Consent Agenda
+                    </Link>{" "}
+                    &amp;{" "}
+                    <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=id.poipxwhiuo7r">
+                      Convention Rules
+                    </Link>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    style={{
+                      whiteSpace: "nowrap",
+                      paddingRight: 30,
+                      verticalAlign: "top",
+                    }}
+                  >
+                    2:05PM &ndash; 2:35PM
+                  </td>
+                  <td style={{ paddingBottom: 10 }}>
+                    <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=id.4v33jot4rdsz">
+                      Towards An Independent Workers Party
+                    </Link>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    style={{
+                      whiteSpace: "nowrap",
+                      paddingRight: 30,
+                      verticalAlign: "top",
+                    }}
+                  >
+                    2:35PM &ndash; 3:05PM
+                  </td>
+                  <td style={{ paddingBottom: 10 }}>
+                    <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=kix.vilju46ngf8">
+                      Center Mass Movements
+                    </Link>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    style={{
+                      whiteSpace: "nowrap",
+                      paddingRight: 30,
+                      verticalAlign: "top",
+                    }}
+                  >
+                    3:05PM &ndash; 3:10PM
+                  </td>
+                  <td style={{ paddingBottom: 10 }}>Break</td>
+                </tr>
+                <tr>
+                  <td
+                    style={{
+                      whiteSpace: "nowrap",
+                      paddingRight: 30,
+                      verticalAlign: "top",
+                    }}
+                  >
+                    3:10PM &ndash; 3:40PM
+                  </td>
+                  <td style={{ paddingBottom: 10 }}>
+                    <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=id.kv8wlxqfmcdc">
+                      Prioritizing Proposition 15 as the Number One Electoral
+                      Priority of East Bay DSA
+                    </Link>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    style={{
+                      whiteSpace: "nowrap",
+                      paddingRight: 30,
+                      verticalAlign: "top",
+                    }}
+                  >
+                    3:40PM &ndash; 4:10PM
+                  </td>
+                  <td style={{ paddingBottom: 10 }}>
+                    <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=id.lo5on81gvn6p">
+                      Class Struggle Elections
+                    </Link>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    style={{
+                      whiteSpace: "nowrap",
+                      paddingRight: 30,
+                      verticalAlign: "top",
+                    }}
+                  >
+                    4:10PM &ndash; 4:15PM
+                  </td>
+                  <td style={{ paddingBottom: 10 }}>Break</td>
+                </tr>
+                <tr>
+                  <td
+                    style={{
+                      whiteSpace: "nowrap",
+                      paddingRight: 30,
+                      verticalAlign: "top",
+                    }}
+                  >
+                    4:15PM &ndash; 4:45PM
+                  </td>
+                  <td style={{ paddingBottom: 10 }}>
+                    <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=id.3m2ej1olvhg1">
+                      Campaign to Win California Single-Payer and Medicare for
+                      All
+                    </Link>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    style={{
+                      whiteSpace: "nowrap",
+                      paddingRight: 30,
+                      verticalAlign: "top",
+                    }}
+                  >
+                    4:45PM &ndash; 4:55PM
+                  </td>
+                  <td style={{ paddingBottom: 10 }}>
+                    <Link href="https://docs.google.com/document/d/1eLqZoP15qcFSB8RTuICvywExbNy7J2PX1a3bEhWrEVw/edit#bookmark=id.lq5dkcp19rwg">
+                      Green New Deal
+                    </Link>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    style={{
+                      whiteSpace: "nowrap",
+                      paddingRight: 30,
+                      verticalAlign: "top",
+                    }}
+                  >
+                    4:55PM &ndash; 5:00PM
+                  </td>
+                  <td style={{ paddingBottom: 10 }}>
+                    Vote on Priorities Resolution and Close
+                  </td>
+                </tr>
+              </tbody>
             </table>
 
             {/* <Directory>
