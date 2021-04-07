@@ -2,7 +2,6 @@ import React from "react";
 import styled, { css } from "styled-components";
 import { headerHeight } from "../styles/layout";
 // import Link from "../Link";
-import { Link } from "react-router-dom";
 
 const Wrapper = styled.div`
   display: flex;
@@ -24,23 +23,17 @@ const linkStyles = css`
   cursor: pointer;
   margin-left: -20px;
   padding: 0 30px;
+  border-left: 1px solid black;
   &:hover {
     background-color: red;
     color: white;
   }
-  ${props => props.xtra};
+  ${(props) => props.xtra};
 `;
 
 const A = styled.a`
   ${linkStyles};
 `;
-
-const StyledRouterLink = styled(Link)`
-  ${linkStyles};
-`;
-// tabletPortraitBreakpoint({
-//   fontSize: "24px"
-// })
 
 function NavBar(props) {
   return (
@@ -50,9 +43,12 @@ function NavBar(props) {
         MENU{" "}
       </A>{" "}
       <Spacer />
-      <StyledRouterLink xtra="border-left: 1px solid black" to="/welcome">
+      <A
+        href="https://www.eastbaydsa.org/events/1876/2021-05-15-2021-east-bay-dsa-convention-day-1/"
+        target="_blank"
+      >
         RSVP
-      </StyledRouterLink>
+      </A>
     </Wrapper>
   );
 }
