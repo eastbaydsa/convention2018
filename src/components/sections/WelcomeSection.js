@@ -14,7 +14,7 @@ const Line = styled.div`
 
 const ListItem = styled.li`
   font-weight: bold;
-  margin-bottom: 10rem;
+  margin-bottom: 8px;
 `;
 
 const WelcomeSection = (props) => (
