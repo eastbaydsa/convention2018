@@ -31,7 +31,7 @@ const PositionPapers = (props) => (
         </P>
         <P>
           <strong>
-            You can read published papers{" "}
+            You can read published papers from previous meetings{" "}
             <Link href="https://www.eastbaydsa.org/meetings/statements/">
               here
             </Link>

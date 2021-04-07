@@ -1,62 +1,88 @@
 import React from "react";
-import styled from "styled-components";
 import Container from "../Container";
 import Section from "../Section";
 import { H2, P, H3 } from "../typography";
 import Link from "../Link";
 import NavAnchor from "../NavAnchor";
-import { purple } from "../colors";
+import styled from "styled-components";
 
-const Line = styled.div`
-  border-top: 3px solid ${purple};
-  margin: 30px 0;
+const Img = styled.img`
+  max-width: 100%;
 `;
 
 const Priorities = (props) => (
   <NavAnchor anchor={props.anchor}>
     <Section>
       <Container>
-        <H2>What are the Chapter Platform and Priority Campaigns?</H2>
+        <H2>What are the Platform and Organizational Priorities?</H2>
 
         <P>
-          In the past, East Bay DSA has debated and democratically ratified a{" "}
-          <Link href="https://www.eastbaydsa.org/priorities/">
-            Priorities Resolution
-          </Link>{" "}
-          at our yearly local convention. Over the years, this document has
-          grown in length and become an important record of our organization’s
-          politics, values, and orientation, though many of its planks were not
-          prioritized or put in practice after convention due to limited
-          capacity. In order to better reflect that, we will formally rename the
-          Priorities Resolution as the Chapter Platform and collectively
-          determine 3 Priority Campaigns that we believe are strategic for our
-          chapter to execute and encourage all members to participate in.
+          At our March General Meeting, our members voted to adopt a new process
+          for our Local Convention in which we will debate and vote on both a
+          <strong>Chapter Platform</strong> and select{" "}
+          <strong>three Organizational Priorities</strong>. We wanted to briefly
+          clear up some key terms to help you navigate the information below.
         </P>
         <P>
-          Over a month-long span, committees, leaders, and members will draft
-          new planks and amendments to the{" "}
+          We are using our{" "}
+          <Link href="https://www.eastbaydsa.org/priorities/">
+            outgoing Priorities Resolution
+          </Link>{" "}
+          as the basis for a <strong>Chapter Platform</strong> that is meant to
+          encompass the breadth of politics and projects in our big-tent
+          chapter.
+        </P>
+        <P>
+          Currently, this draft Platform contains{" "}
+          <strong>sixteen “Planks”</strong> representing different political
+          positions and projects in the chapter — i.e. “Center Black &amp; Brown
+          Liberation Movements” or “Empowering &amp; Building YDSA”. Over a
+          month-long span, committees, leaders, and members will draft new
+          planks and amendments to the{" "}
           <Link href="https://www.eastbaydsa.org/priorities/">
             current Priorities Resolution
           </Link>{" "}
           document to reflect changes in our strategy and organizing conditions,
           gather signatures from membership in support, and bring them to the
           Convention floor for debate so we can formally ratify our 2021 Chapter
-          Platform and select 3 Priority Campaigns.
+          Platform.
         </P>
+        <P>
+          During the Convention, we will select{" "}
+          <strong>three Organizational Priorities</strong>
+          to guide our Chapter’s work for the coming year. We will determine our
+          new by voting to adopt three of the Chapter Platform Planks as the
+          priorities.
+        </P>
+
+        <P>
+          The selection of organizational priorities will NOT shut down the work
+          of any other committees or campaigns, or limit the capacity of the
+          organization to respond to unforeseen political developments as
+          necessary.
+        </P>
+
+        <div style={{ textAlign: "center" }}>
+          <Img src={`/images/convention-forms-flow.png`} />
+        </div>
+
         <H3>Drafting and Submitting Changes to the Chapter Platform</H3>
         <P>
-          A Proposal for a change to the Chapter Platform needs to be no more
-          than 300 words, and at least 25 members in good standing need to sign
-          on to it by <strong>Sunday, April 25th at 11:59 pm</strong>, for it to
-          be considered. Members are encouraged to collaborate to draft
-          proposals using existing chapter infrastructure like committees or
-          caucuses, or come together in informal groups to write proposals.
-          Authors of proposals will have an opportunity to consolidate or amend
-          them before the Convention if they wish.
+          Members can propose changes to existing planks or submit new planks to
+          be debated at our local Convention. Planks need be no more than 300
+          words and must be submitted by{" "}
+          <strong>Sunday, April 25th at 11:59 pm</strong> to be considered.
+          Members are encouraged to collaborate to draft proposals using
+          existing chapter infrastructure like committees or caucuses, or come
+          together in informal groups to write proposals. Authors of proposals
+          will have an opportunity to consolidate or amend them before the
+          Convention if it turns out there are multiple similar or overlapping
+          proposals, or other updates and changes seem necessary.
         </P>
         <P>
-          Proposals can be on any number of topics but should contain the
-          following:
+          New platform planks can be on any number of topics and at least 25
+          members in good standing need to sign on to be considered. Proposals
+          for new planks should contain the following:
           <ul>
             <li>
               A clear <strong>title</strong> describing the Proposal
@@ -66,43 +92,57 @@ const Priorities = (props) => (
               should organize for it
             </li>
             <li>
-              <strong>Organizing tasks</strong> for us to take in the next year
-              in support. (No hyperlinks are allowed within the proposal).
+              <strong>Specific organizing tasks</strong> for us to take in the
+              next year in support. (No hyperlinks are allowed within the
+              proposal).
             </li>
           </ul>
         </P>
 
-        {/* <P>[SUBMIT CHANGES TO THE PLATFORM]</P> */}
-        <H3>Proposing Priority Campaigns</H3>
         <P>
-          25 members in good standing can nominate Platform Planks or Campaigns
-          by Sunday, April 25th at 11:59 pm, to be considered as one of the
-          chapters 3 Priority Campaigns for 2021. All Priority Campaigns must
-          also be reflected in the Chapter Platform — either within an existing
-          plank or within a plank that has been newly submitted — in order to be
+          Here is an{" "}
+          <Link href="https://docs.google.com/document/d/1pGixQ_Gu44ljX140d0UQIzhxgJY4Dvp3MhkGCdzjPG4/edit">
+            example
+          </Link>{" "}
+          from the 2020 convention.
+        </P>
+
+        <P>
+          <Link href="https://docs.google.com/forms/d/e/1FAIpQLScMZC8_FjfJZ4GiW4iEO3tInNnaCpsh0ThzexrlEAgIPhqKSQ/viewform?usp=sf_link">
+            Submit Changes to the Platform
+          </Link>
+        </P>
+
+        <H3>Nominating Organizational Priorities</H3>
+        <P>
+          Any 25 members in good standing can nominate a Platform Planks by
+          <strong>Sunday, April 25th at 11:59 pm</strong>, to be considered as
+          one of the chapters 3 Organizational Priorities for 2021. All
+          Organizational Priorities must also be reflected in the Chapter
+          Platform — either within an{" "}
+          <Link href="http://eastbaydsa.org/priorities">existing plank</Link> or
+          within a plank that has been newly submitted — in order to be
           considered.
         </P>
         <P>
           Throughout the year, the new Steering Committee will work with the
           relevant committees and working groups to draft, ratify, and launch
-          plans for our Priority Campaigns that enable high member participation
-          and cross committee collaboration, as well as allocate resources as
-          needed for the campaigns to succeed.
+          detailed campaign plans that enable high member participation and
+          cross committee collaboration, as well as allocate the resources
+          necessary for said Organizational Priorities to succeed. Comrades
+          proposing campaigns for priority status should be ready to work with
+          the incoming steering committee to help bottomline that work.
         </P>
         <P>
-          The selection of Priority Campaigns will NOT shut down the work of any
-          other committees or campaigns, or limit the capacity of the
+          The selection of Organizational Priorities will NOT shut down the work
+          of any other committees or campaigns, or limit the capacity of the
           organization to respond to unforeseen political developments as
           necessary.
         </P>
-        {/* <P>[NOMINATE A PRIORITY CAMPAIGN]</P> */}
-        <H3>Amendments</H3>
         <P>
-          Once the agenda is released, members will have the opportunity to
-          submit further amendments to proposals before the Convention to be
-          considered on the floor. After debate we’ll all vote, and the
-          Proposals that have majority support will become part of our Chapter
-          Platform.
+          <Link href="https://docs.google.com/forms/d/e/1FAIpQLSdHaDl8N1hVUSoB3o2jKaI7fOOpD0imypsfznHb8rNZnFPMSw/viewform">
+            Nominate a Priority Plank
+          </Link>
         </P>
         <H3>Consent Poll and Agenda</H3>
         <P>
@@ -116,11 +156,20 @@ const Priorities = (props) => (
           time for items that require substantial debate. The rules can be
           suspended by a 2/3rds vote to change the agenda at the Convention.
         </P>
+        <H3>Amendments</H3>
+        <P>
+          Once the agenda is released, members will have the opportunity to
+          submit further amendments to proposals before the Convention to be
+          considered on the floor. After debate we’ll all vote, and the
+          Proposals that have majority support will become part of our Chapter
+          Platform.
+        </P>
         <P>
           Once we have heard and debated all of the proposals, we will vote them
-          each up or down, and those that were adopted--in addition to the
-          consent calendar --will be our new <strong>Chapter Platform</strong>{" "}
-          and <strong>Priority Campaigns</strong>.
+          each up or down, and those that were adopted&mdash;in addition to the
+          consent calendar&mdash;will become our new{" "}
+          <strong>Chapter Platform</strong> and{" "}
+          <strong>Priority Campaigns</strong>.
         </P>
       </Container>
     </Section>

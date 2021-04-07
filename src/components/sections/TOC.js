@@ -32,7 +32,11 @@ class TOC extends Component {
                 <Strong>Saturday, May 15th, 1-4 pm</Strong> and{" "}
                 <Strong>Sunday, May 16th, 1-3 pm</Strong> on Zoom.{" "}
               </P>
-              <P>[ Save the Date ] - Link to RSVP event page.</P>
+              <P>
+                <Link href="https://www.eastbaydsa.org/events/1876/2021-05-15-2021-east-bay-dsa-convention-day-1/">
+                  Save the Date
+                </Link>
+              </P>
               <P>
                 It's important for as many East Bay DSA members as possible to
                 participate!

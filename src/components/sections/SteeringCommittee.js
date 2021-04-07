@@ -25,23 +25,27 @@ const SteeringCommittee = (props) => (
           All SC members are elected for a one-year term. Any dues-paying member
           in good standing may run for Steering Committee. Members may run on
           their own or organize a slate of candidates to run. A slate is a team
-          of candidates who have jointly developed a plan for what they want to
-          do on the Steering Committee together.
+          of candidates who have jointly developed a plan and political vision
+          for the chapter and Steering Committee for the coming year.
         </P>
         <P>
           Candidates must be nominated in order to run for Steering Committee
-          positions. Nominees must be in good standing and have been East Bay
-          DSA members for at least 3 months before the date of the election.
-          They must be nominated by ten members in good standing{" "}
+          positions. Nominees must be DSA members in good standing and have been
+          East Bay DSA members for at least 3 months before the date of the
+          election. They must be nominated by ten members in good standing{" "}
           <strong>before 11:59 pm on April 25th</strong> in order to be on the
-          ballot. Any given member can nominate multiple candidates.
+          ballot. Any member can nominate multiple candidates.
         </P>
-        {/* <P>[ SC Nomination Form ]</P> */}
         <P>
-          Candidates receiving ten or more nominations{" "}
+          <Link href="https://docs.google.com/forms/d/e/1FAIpQLSe29s9n5DxEJQhL9u45QFfuOEgvrMAemuVxuYcZuVkNTJFx7A/viewform">
+            Steering Committee Nomination Form
+          </Link>
+        </P>
+        <P>
+          Candidates receiving ten or more nominations for a particular position{" "}
           <strong>before 11:59 pm on April 25th</strong> will be notified and
-          asked to submit a candidate statement and photo to be displayed on the
-          website.
+          asked to submit a short candidate statement and photo to be displayed
+          on the website.
         </P>
       </Container>
     </Section>

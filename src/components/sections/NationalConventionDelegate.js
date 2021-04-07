@@ -33,18 +33,34 @@ const NationalConventionDelegate = (props) => (
           us at the 2021 DSA National Convention.
         </P>
         <P>
-          Candidates for Delegate must be members in good standing and have been
+          Candidates for delegate must be members in good standing and have been
           East Bay DSA members for at least 3 months before the date of the
-          election. They must be nominated by ten members in good standing{" "}
+          election. They must be nominated by five members in good standing{" "}
           <strong>before 11:59 pm on April 25th</strong> in order to be on the
-          ballot. Any given member can nominate multiple candidates.
+          ballot. Any given member can nominate multiple candidates. Members may
+          run on their own or organize a slate of candidates to run according to
+          a shared political vision for the organization.
         </P>
-        {/* <P>[ Delegate Nomination Form ]</P> */}
         <P>
-          Candidates receiving ten or more nominations{" "}
+          <Link href="https://docs.google.com/forms/d/e/1FAIpQLScecjKVBwz5Oczxj0FKbBUBJsHCTS2oX7yxekiLtnK4VhcB2w/viewform">
+            Delegate Nomination Form
+          </Link>
+        </P>
+        <P>
+          Candidates receiving five or more nominations{" "}
           <strong>before 11:59 pm on April 25th</strong> will be notified and
-          asked to submit a candidate statement and photo to be displayed on the
-          website.
+          asked to submit a short candidate statement and photo to be displayed
+          on the website.
+        </P>
+        <P>
+          Starting in mid-May, National DSA will host five Pre-Convention
+          Conferences leading up to the 2021 Convention in August. All
+          conferences will be hosted virtually and are open to any member.
+          Members who are running to be delegates to the Convention are strongly
+          encouraged to attend.{" "}
+          <Link href="https://airtable.com/shrkK22jNS55trS3S">
+            You can register here.
+          </Link>
         </P>
       </Container>
     </Section>
