@@ -6,50 +6,83 @@ import TOC from "./components/sections/TOC";
 import Cover from "./components/sections/Cover";
 import WelcomeSection from "./components/sections/WelcomeSection";
 import ConventionDescription from "./components/sections/ConventionDescription";
-import ConventionChanges from "./components/sections/ConventionChanges";
+import SteeringCommittee from "./components/sections/SteeringCommittee";
+import NationalConventionDelegate from "./components/sections/NationalConventionDelegate";
 import Priorities from "./components/sections/Priorities";
-import Convention from "./components/sections/Convention";
+import PositionPapers from "./components/sections/PositionPapers";
+import Process from "./components/sections/Process";
 import ConventionTimeline from "./components/sections/ConventionTimeline";
 import Questions from "./components/sections/Questions";
+import Rules from "./components/sections/Rules";
 
 const links = [
-  { num: 1, label: "Welcome", to: "/welcome" },
+  {
+    num: 1,
+    label: "What is the Local Convention?",
+    to: "/what-is-local-convention",
+  },
   {
     num: 2,
-    label: "What are the Convention and the Priorities Resolutions?",
+    label: "What will the Convention be Like?",
     to: "/convention-description",
   },
   {
     num: 3,
-    label: "Why are we changing the convention?",
-    to: "/convention-changes",
+    label: "How do I run for Steering Committee?",
+    to: "/steering-committee",
   },
   {
     num: 4,
-    label: "How will the Priorities Resolution process work?",
-    to: "/priorities",
+    label: "How do I run for National Convention Delegate?",
+    to: "/national-convention-delegate",
   },
-  { num: 5, label: "What will the Convention Look Like?", to: "/convention" },
+  {
+    num: 5,
+    label: "What are the Platform and Organizational Priorities?",
+    to: "/platform-priorities",
+  },
   {
     num: 6,
-    label: "What is the timeline for the convention?",
-    to: "/convention-timeline",
+    label: "Why are we changing the process this year?",
+    to: "/changing-process",
   },
-  { num: 7, label: "Questions and Accessibility", to: "/questions" },
+  {
+    num: 7,
+    label: "Position Papers",
+    to: "/position-papers",
+  },
+  {
+    num: 8,
+    label: "2021 Local Convention Timeline",
+    to: "/timeline",
+  },
+  {
+    num: 9,
+    label: "Questions and Accessibility",
+    to: "/questions-accessibility",
+  },
+  // {
+  //   num: 10,
+  //   label: "Local Convention Rules",
+  //   to: "/rules",
+  // },
 ];
 
 const Content = () => (
   <div>
-    <TopNav title="EBDSA 2020 Convention" links={links} />
-    <Cover title="East Bay DSA 2020 Chapter Convention" anchor="" />
+    <TopNav title="EBDSA 2021 Convention" links={links} />
+    <Cover title="East Bay DSA 2021 Chapter Convention" anchor="" />
     <TOC anchor="toc" links={links} />
-    <WelcomeSection anchor="welcome" />
+    <WelcomeSection anchor="what-is-local-convention" />
     <ConventionDescription anchor="convention-description" />
-    <ConventionChanges anchor="convention-changes" />
-    <Priorities anchor="priorities" />
-    <Convention anchor="convention" />
-    <ConventionTimeline anchor="convention-timeline" />
-    <Questions anchor="questions" />
+    <SteeringCommittee anchor="steering-committee" />
+    <NationalConventionDelegate anchor="national-convention-delegate" />
+    <Priorities anchor="platform-priorities" />
+    <Process anchor="changing-process" />
+    <PositionPapers anchor="position-papers" />
+    <ConventionTimeline anchor="timeline" />
+    <Questions anchor="questions-accessibility" />
+    {/* <Rules anchor="rules" /> */}
   </div>
 );
 

@@ -1,13 +1,13 @@
-import React, { PureComponent } from 'react';
-import Container from '../Container';
-import Section from '../Section';
-import { H2, H3, P, Strong, Underline, UL, ULI } from '../typography';
-import Link from '../Link';
-import NavAnchor from '../NavAnchor';
-import styled from 'styled-components';
-import { red } from '../colors';
-import Directory from '../directory/Directory';
-import DirectoryItem from '../directory/DirectoryItem';
+import React, { PureComponent } from "react";
+import Container from "../Container";
+import Section from "../Section";
+import { H2, H3, P, Strong, Underline, UL, ULI } from "../typography";
+import Link from "../Link";
+import NavAnchor from "../NavAnchor";
+import styled from "styled-components";
+import { red } from "../colors";
+import Directory from "../directory/Directory";
+import DirectoryItem from "../directory/DirectoryItem";
 
 const PriorityResolution = styled.a`
   color: red;
@@ -27,13 +27,19 @@ class Questions extends PureComponent {
             <H2>Questions and Accessibility</H2>
 
             <P>
-            Email <Link href="mailto:info@eastbaydsa.org">info@eastbaydsa.org</Link> ASAP with any accessibility needs so we can begin to arrange accommodations.
+              Email{" "}
+              <Link href="mailto:info@eastbaydsa.org">info@eastbaydsa.org</Link>{" "}
+              ASAP with any accessibility needs so we can begin to arrange
+              accommodations.
             </P>
             <P>
-            We are so excited to participate in the highest body of the chapter with you all. 
+              We are so excited to participate in the highest body of the
+              chapter with you all.
             </P>
             <P>
-            Other questions about the convention? Reach out with questions at <Link href="mailto:info@eastbaydsa.org">info@eastbaydsa.org</Link>.org.
+              Other questions about the Convention? Reach out with questions at{" "}
+              <Link href="mailto:info@eastbaydsa.org">info@eastbaydsa.org</Link>
+              .
             </P>
           </Container>
         </Section>

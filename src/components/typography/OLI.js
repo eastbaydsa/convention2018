@@ -13,7 +13,7 @@ const OLI = styled.li`
     display: inline-block;
     font-weight: 600;
     display: inline-block;
-    margin-right: 1rem;
+    margin-right: 5rem;
   }
 `;
 
