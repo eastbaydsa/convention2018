@@ -28,22 +28,20 @@ const WelcomeSection = (props) => (
           meets once a year to elect our Steering Committee and collectively
           decide our priorities for the coming year.
         </P>
-        <P>
-          This year the 3 main tasks of the Local Convention will be:
-          <ol>
-            <ListItem style={{ fontWeight: "bold" }}>
-              Elect a new Steering Committee and 2021 national convention
-              delegates
-            </ListItem>
-            <ListItem style={{ fontWeight: "bold" }}>
-              Ratify our 2021 chapter platform and vote on 3 organizational
-              priorities
-            </ListItem>
-            <ListItem style={{ fontWeight: "bold" }}>
-              Vote on bylaws amendments
-            </ListItem>
-          </ol>
-        </P>
+        <P>This year the 3 main tasks of the Local Convention will be:</P>
+        <ol style={{ marginTop: 0 }}>
+          <ListItem style={{ fontWeight: "bold" }}>
+            Elect a new Steering Committee and 2021 national convention
+            delegates
+          </ListItem>
+          <ListItem style={{ fontWeight: "bold" }}>
+            Ratify our 2021 chapter platform and vote on 3 organizational
+            priorities
+          </ListItem>
+          <ListItem style={{ fontWeight: "bold" }}>
+            Vote on bylaws amendments
+          </ListItem>
+        </ol>
       </Container>
     </Section>
   </NavAnchor>

@@ -83,21 +83,21 @@ const Priorities = (props) => (
           New platform planks can be on any number of topics and at least 25
           members in good standing need to sign on to be considered. Proposals
           for new planks should contain the following:
-          <ul>
-            <li>
-              A clear <strong>title</strong> describing the Proposal
-            </li>
-            <li>
-              <strong>Political rationale</strong> for why we as socialists
-              should organize for it
-            </li>
-            <li>
-              <strong>Specific organizing tasks</strong> for us to take in the
-              next year in support. (No hyperlinks are allowed within the
-              proposal).
-            </li>
-          </ul>
         </P>
+        <ul style={{ marginTop: 0 }}>
+          <li>
+            A clear <strong>title</strong> describing the Proposal
+          </li>
+          <li>
+            <strong>Political rationale</strong> for why we as socialists should
+            organize for it
+          </li>
+          <li>
+            <strong>Specific organizing tasks</strong> for us to take in the
+            next year in support. (No hyperlinks are allowed within the
+            proposal).
+          </li>
+        </ul>
 
         <P>
           Here is an{" "}
