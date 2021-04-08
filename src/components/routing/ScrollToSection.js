@@ -9,7 +9,7 @@ class ScrollToSection extends Component {
   }
 
   componentDidUpdate(prevProps) {
-    if (this.props.location.pathname !== prevProps.location.pathname) {
+    if (this.props.location.hash !== prevProps.location.hash) {
       this.scrollToCurrentSection();
     }
   }
@@ -21,14 +21,14 @@ class ScrollToSection extends Component {
     ) {
       return;
     }
-    const slug = this.props.location.pathname
+    const slug = this.props.location.hash
       .split("/")
-      .filter(n => n.length > 0)
+      .filter((n) => n.length > 0)
       .join("-");
     if (slug.length === 0) {
       return;
     }
-    const section = window.document.querySelector(`#${slug}`);
+    const section = window.document.querySelector(slug);
     if (!section) {
       return;
     }

@@ -19,47 +19,47 @@ const links = [
   {
     num: 1,
     label: "What is the Local Convention?",
-    to: "/what-is-local-convention",
+    to: "#what-is-local-convention",
   },
   {
     num: 2,
     label: "What will the Convention be Like?",
-    to: "/convention-description",
+    to: "#convention-description",
   },
   {
     num: 3,
     label: "How do I run for Steering Committee?",
-    to: "/steering-committee",
+    to: "#steering-committee",
   },
   {
     num: 4,
     label: "How do I run for National Convention Delegate?",
-    to: "/national-convention-delegate",
+    to: "#national-convention-delegate",
   },
   {
     num: 5,
     label: "What are the Platform and Organizational Priorities?",
-    to: "/platform-priorities",
+    to: "#platform-priorities",
   },
   {
     num: 6,
     label: "Why are we changing the process this year?",
-    to: "/changing-process",
+    to: "#changing-process",
   },
   {
     num: 7,
     label: "Position Papers",
-    to: "/position-papers",
+    to: "#position-papers",
   },
   {
     num: 8,
     label: "2021 Local Convention Timeline",
-    to: "/timeline",
+    to: "#timeline",
   },
   {
     num: 9,
     label: "Questions and Accessibility",
-    to: "/questions-accessibility",
+    to: "#questions-accessibility",
   },
   // {
   //   num: 10,

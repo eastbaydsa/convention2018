@@ -13,7 +13,7 @@ class NavAnchor extends Component {
     if (this.props.anchor === undefined) {
       return;
     }
-    const currentPath = `/${this.props.anchor}`;
+    const currentPath = `#${this.props.anchor}`;
     this.context.router.history.replace(currentPath, { scroll: false });
   };
 
@@ -36,12 +36,12 @@ class NavAnchor extends Component {
 }
 
 NavAnchor.contextTypes = {
-  router: PropTypes.object.isRequired
+  router: PropTypes.object.isRequired,
 };
 
 NavAnchor.propTypes = {
   section: PropTypes.string,
-  candidate: PropTypes.string
+  candidate: PropTypes.string,
 };
 
 export default NavAnchor;
