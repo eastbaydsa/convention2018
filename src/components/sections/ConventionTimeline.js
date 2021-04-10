@@ -21,10 +21,7 @@ const Timeline = (props) => (
           <ULI>
             <Strong>Sunday, April 25th:</Strong>
             <UL>
-              <ULI>
-                Deadline to submit changes to the current Priorities Resolution
-                Document
-              </ULI>
+              <ULI>Deadline for Steering Committee Nominations</ULI>
               <ULI>Deadline for National Convention Delegate Nominations</ULI>
               <ULI>Deadline to submit changes to the Chapter Platform</ULI>
               <ULI>Deadline to Nominate Organizational Priorities</ULI>
