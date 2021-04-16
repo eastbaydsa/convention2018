@@ -1,10 +1,21 @@
 import React from "react";
-import ReactDOM from 'react-dom';
+import ReactDOM from "react-dom";
 import { BrowserRouter as Router } from "react-router-dom";
 import ScrollToSectionWithRouter from "./components/routing/ScrollToSection";
 import "./index.css";
 import App from "./App";
-import reportWebVitals from './reportWebVitals';
+import reportWebVitals from "./reportWebVitals";
+
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.getRegistrations().then(function (registrations) {
+    //returns installed service workers
+    if (registrations.length) {
+      for (let registration of registrations) {
+        registration.unregister();
+      }
+    }
+  });
+}
 
 require("smoothscroll-polyfill").polyfill();
 
