@@ -26,20 +26,55 @@ class TOC extends Component {
                 marginBottom: 30,
               }}
             >
-              <H2>Save the Date</H2>
+              <H2>Updates</H2>
               <P>
-                The East Bay DSA 2021 Local Convention will be held this year on{" "}
-                <Strong>Saturday, May 15th, 1-4 pm</Strong> and{" "}
-                <Strong>Sunday, May 16th, 1-3 pm</Strong> on Zoom.{" "}
+                <Strong>
+                  <Link href="https://docs.google.com/document/d/1CF9lJhAPzJMAnLkQVOz3buGVepmI4728PSIrcEPQAVw/edit?usp=sharing">
+                    The 2021 Convention Packet is here!
+                  </Link>
+                </Strong>
               </P>
               <P>
-                <Link href="https://www.eastbaydsa.org/events/1876/2021-05-15-2021-east-bay-dsa-convention-day-1/">
-                  Save the Date
+                Meet the candidates running for{" "}
+                <Link href="https://docs.google.com/document/d/1CF9lJhAPzJMAnLkQVOz3buGVepmI4728PSIrcEPQAVw/edit#bookmark=id.mde21bocv02h">
+                  Steering Committee
+                </Link>{" "}
+                and{" "}
+                <Link href="https://docs.google.com/document/d/1CF9lJhAPzJMAnLkQVOz3buGVepmI4728PSIrcEPQAVw/edit#bookmark=id.l88v9i7cphpe">
+                  Convention Delegates
                 </Link>
+                .
               </P>
               <P>
-                It's important for as many East Bay DSA members as possible to
-                participate!
+                Read the proposed{" "}
+                <Link href="https://docs.google.com/document/d/1CF9lJhAPzJMAnLkQVOz3buGVepmI4728PSIrcEPQAVw/edit#bookmark=id.5q37hdhg6t8j">
+                  changes to our Platform
+                </Link>
+                , and the{" "}
+                <Link href="https://docs.google.com/document/d/1CF9lJhAPzJMAnLkQVOz3buGVepmI4728PSIrcEPQAVw/edit#bookmark=id.en1380oev4fb">
+                  Priority proposals
+                </Link>{" "}
+                for 2021!
+              </P>
+              <P>
+                <Strong>
+                  Want to submit amendments to our Platform or the Priority
+                  Proposals?
+                </Strong>{" "}
+                Fill out this{" "}
+                <Link href="https://forms.gle/pL1Y8aktwu5ZxgYD9">
+                  amendment submission form
+                </Link>{" "}
+                by Sunday May, 7th at 11:59pm.
+              </P>
+              <P>
+                <Strong>
+                  Check your inbox for an email with the subject “East Bay DSA
+                  2021 Convention Consent Agenda Straw Poll” and fill it out by
+                  Sunday May, 7th at 11:59pm
+                </Strong>{" "}
+                to determine which proposals should receive debate time at the
+                Convention and which we will approve via consent agenda.
               </P>
             </div>
 

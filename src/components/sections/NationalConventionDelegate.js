@@ -57,10 +57,20 @@ const NationalConventionDelegate = (props) => (
           Conferences leading up to the 2021 Convention in August. All
           conferences will be hosted virtually and are open to any member.
           Members who are running to be delegates to the Convention are strongly
-          encouraged to attend.{" "}
+          encouraged to attend.
+        </P>
+        <P>
           <Link href="https://airtable.com/shrkK22jNS55trS3S">
             You can register here.
           </Link>
+        </P>
+        <Line />
+        <P>
+          Meet the candidates running for{" "}
+          <Link href="https://docs.google.com/document/d/1CF9lJhAPzJMAnLkQVOz3buGVepmI4728PSIrcEPQAVw/edit#bookmark=id.l88v9i7cphpe">
+            Convention Delegates
+          </Link>
+          .
         </P>
       </Container>
     </Section>

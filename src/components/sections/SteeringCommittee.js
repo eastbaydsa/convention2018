@@ -47,6 +47,14 @@ const SteeringCommittee = (props) => (
           asked to submit a short candidate statement and photo to be displayed
           on the website.
         </P>
+        <Line />
+        <P>
+          Meet the candidates running for{" "}
+          <Link href="https://docs.google.com/document/d/1CF9lJhAPzJMAnLkQVOz3buGVepmI4728PSIrcEPQAVw/edit#bookmark=id.mde21bocv02h">
+            Steering Committee
+          </Link>
+          .
+        </P>
       </Container>
     </Section>
   </NavAnchor>
