@@ -28,12 +28,12 @@ const links = [
   },
   {
     num: 3,
-    label: "How do I run for Steering Committee?",
+    label: "Steering Committee Elections",
     to: "#steering-committee",
   },
   {
     num: 4,
-    label: "How do I run for National Convention Delegate?",
+    label: "National Convention Delegate Elections",
     to: "#national-convention-delegate",
   },
   {
