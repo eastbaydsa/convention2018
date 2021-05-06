@@ -1,16 +1,9 @@
 import React from "react";
-import styled from "styled-components";
 import Container from "../Container";
 import Section from "../Section";
-import { H2, P, Strong } from "../typography";
+import { H2, P } from "../typography";
 import Link from "../Link";
 import NavAnchor from "../NavAnchor";
-import { purple } from "../colors";
-
-const Line = styled.div`
-  border-top: 3px solid ${purple};
-  margin: 30px 0;
-`;
 
 const NationalConventionDelegate = (props) => (
   <NavAnchor anchor={props.anchor}>

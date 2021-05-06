@@ -65,13 +65,13 @@ class TOC extends Component {
                 <Link href="https://forms.gle/pL1Y8aktwu5ZxgYD9">
                   amendment submission form
                 </Link>{" "}
-                by Sunday May, 7th at 11:59pm.
+                by Friday, May 7th at 11:59pm.
               </P>
               <P>
                 <Strong>
                   Check your inbox for an email with the subject “East Bay DSA
                   2021 Convention Consent Agenda Straw Poll” and fill it out by
-                  Sunday May, 7th at 11:59pm
+                  Friday, May 7th at 11:59pm
                 </Strong>{" "}
                 to determine which proposals should receive debate time at the
                 Convention and which we will approve via consent agenda.

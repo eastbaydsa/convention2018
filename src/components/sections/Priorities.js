@@ -87,11 +87,17 @@ const Priorities = (props) => (
           Platform.
         </P>
         <P>
-          Once we have heard and debated all of the proposals, we will vote them
-          each up or down, and those that were adopted&mdash;in addition to the
-          consent calendar&mdash;will become our new{" "}
-          <strong>Chapter Platform</strong> and{" "}
-          <strong>Priority Campaigns</strong>.
+          Once the agenda is released, members will have the opportunity to
+          submit further amendments to proposals before the Convention to be
+          considered on the floor. After debate, we’ll all vote and the platform
+          amendments that have majority support will become part of our{" "}
+          <strong>Chapter Platform</strong>.
+        </P>
+        <P>
+          We will debate organizational priorities and any relevant amendments,
+          and will vote on the priorities via OpaVote using the Scottish STV
+          method. The top three priorities will become our{" "}
+          <strong>2021 Priorities Resolution</strong>.
         </P>
       </Container>
     </Section>
