@@ -56,26 +56,6 @@ class TOC extends Component {
                 </Link>{" "}
                 for 2021!
               </P>
-              <P>
-                <Strong>
-                  Want to submit amendments to our Platform or the Priority
-                  Proposals?
-                </Strong>{" "}
-                Fill out this{" "}
-                <Link href="https://forms.gle/pL1Y8aktwu5ZxgYD9">
-                  amendment submission form
-                </Link>{" "}
-                by Friday, May 7th at 11:59pm.
-              </P>
-              <P>
-                <Strong>
-                  Check your inbox for an email with the subject “East Bay DSA
-                  2021 Convention Consent Agenda Straw Poll” and fill it out by
-                  Friday, May 7th at 11:59pm
-                </Strong>{" "}
-                to determine which proposals should receive debate time at the
-                Convention and which we will approve via consent agenda.
-              </P>
             </div>
 
             <H2>Contents</H2>
