@@ -28,11 +28,31 @@ class TOC extends Component {
             >
               <H2>Updates</H2>
               <P>
-                <Strong>
+                <strong>Convention is this weekend!</strong> Please{" "}
+                <Strong>RSVP</Strong> now:
+                <UL>
+                  <ULI>
+                    <Link href="https://www.eastbaydsa.org/events/1876/2021-05-15-2021-east-bay-dsa-convention-day-1/">
+                      <strong>Convention Day 1</strong> &mdash; April 15, 2021
+                      1PM-5PM
+                    </Link>
+                  </ULI>
+                  <ULI>
+                    <Link href="https://www.eastbaydsa.org/events/1875/2021-05-16-2021-east-bay-dsa-convention-day-2/">
+                      <strong>Convention Day 2</strong> &mdash; April 16, 2021
+                      1PM-3PM
+                    </Link>
+                  </ULI>
+                </UL>
+              </P>
+              <P>
+                <strong>
+                  The{" "}
                   <Link href="https://docs.google.com/document/d/1CF9lJhAPzJMAnLkQVOz3buGVepmI4728PSIrcEPQAVw/edit?usp=sharing">
-                    The 2021 Convention Packet is here!
-                  </Link>
-                </Strong>
+                    2021 Convention Packet
+                  </Link>{" "}
+                  is here!
+                </strong>
               </P>
               <P>
                 Meet the candidates running for{" "}
