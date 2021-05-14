@@ -33,13 +33,13 @@ class TOC extends Component {
                 <UL>
                   <ULI>
                     <Link href="https://www.eastbaydsa.org/events/1876/2021-05-15-2021-east-bay-dsa-convention-day-1/">
-                      <strong>Convention Day 1</strong> &mdash; April 15, 2021
+                      <strong>Convention Day 1</strong> &mdash; May 15, 2021
                       1PM-5PM
                     </Link>
                   </ULI>
                   <ULI>
                     <Link href="https://www.eastbaydsa.org/events/1875/2021-05-16-2021-east-bay-dsa-convention-day-2/">
-                      <strong>Convention Day 2</strong> &mdash; April 16, 2021
+                      <strong>Convention Day 2</strong> &mdash; May 16, 2021
                       1PM-3PM
                     </Link>
                   </ULI>
